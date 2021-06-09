@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-09T01:47:35.094Z</updated>
+  <updated>2021-06-09T07:37:04.701Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CCD-登陆及移动ROI</title>
+    <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
+    <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2021-06-09T07:37:04.701Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h4 id="登陆CCD"><a href="#登陆CCD" class="headerlink" title="登陆CCD"></a>登陆CCD</h4><ul><li><strong>用户–输入密码（初始密码：8）–登陆</strong></li><li>打开程序默认为上锁状态，所有参数不可修改，需要登陆解锁（如下图）</li></ul></li></ul><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%99%BB%E9%99%86%E8%A7%A3%E9%94%81.png"></div><hr><ul><li><h4 id="移动ROI"><a href="#移动ROI" class="headerlink" title="移动ROI"></a>移动ROI</h4><ol><li><p>如图在上方工具栏选择<strong>工具–矩形工具</strong></p></li><li><p>右侧边栏<strong>任务–ROI–通过上下箭头选到需要修改的ROI（图中对应编号ROI会显示蓝色）</strong></p></li><li><p>将鼠标移到目标修改的ROI上进行调整</p><ol><li><p>拖动ROI的位置：鼠标移到ROI的<strong>中心</strong>，按住左键移动，<strong>完成点鼠标右键–保存ROI</strong></p></li><li><p>放大缩小：鼠标移到ROI的<strong>任意一个角</strong>，按住左键放大缩小，<strong>完成点鼠标右键–保存ROI</strong></p></li></ol></li></ol></li></ul><blockquote><p>注：完成ROI的修改，需<strong>鼠标右键保存ROI</strong>，否则保存无效。</p></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-1.png"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-2.png"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&quot;登陆CCD&quot;&gt;&lt;a href=&quot;#登陆CCD&quot; class=&quot;headerlink&quot; title=&quot;登陆CCD&quot;&gt;&lt;/a&gt;登陆CCD&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;用户–输入密码（初始密码：8）–登陆&lt;/strong&gt;&lt;/li&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>常用网址</title>
