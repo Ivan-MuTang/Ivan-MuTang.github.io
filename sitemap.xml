@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/06/09/hello-world/</loc>
+    
+    <lastmod>2021-06-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/06/09/%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80/</loc>
     
     <lastmod>2021-06-10</lastmod>
@@ -15,13 +22,6 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/2021/06/09/hello-world/</loc>
-    
-    <lastmod>2021-06-09</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -30,6 +30,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://example.com/tags/%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2021-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>http://example.com/tags/ccd/</loc>
