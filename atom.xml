@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-14T13:59:20.510Z</updated>
+  <updated>2021-06-14T14:05:43.386Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,41 +21,14 @@
     <link href="http://example.com/2021/06/14/CCD-%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/"/>
     <id>http://example.com/2021/06/14/CCD-%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/</id>
     <published>2021-06-14T13:23:24.000Z</published>
-    <updated>2021-06-14T13:59:20.510Z</updated>
+    <updated>2021-06-14T14:05:43.386Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="CCD程序升级步骤："><a href="#CCD程序升级步骤：" class="headerlink" title="CCD程序升级步骤："></a>CCD程序升级步骤：</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1. 下载最新CCD程序升级文件（通常为一个压缩文件）</span><br><span class="line">2. 解压文件</span><br><span class="line">3. 复制升级文件到CCD程序根目录</span><br><span class="line">4. 升级完成</span><br></pre></td></tr></table></figure><blockquote><h4 id="解压升级文件"><a href="#解压升级文件" class="headerlink" title="解压升级文件"></a>解压升级文件</h4></blockquote><p>​    在下载的压缩包上，点右键，解压</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/解压文件.png" width="100%" height="100%"></div><blockquote><h4 id="打开程序根目录"><a href="#打开程序根目录" class="headerlink" title="打开程序根目录"></a>打开程序根目录</h4></blockquote><pre><code>1. 如果知道程序路径，可直接进入，如打开**我的电脑**--**D盘**--**CCD程序**2. 如果不清楚路径，可以在WINDOWS桌面，右键CCD图标，选择属性，最打**打开文件所在位置**（如果是在win7系统应该为**查找目标**）</code></pre><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/桌面图标右键属性.png" width="100%" height="100%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/属性进根目录.png" width="50%" height="50%"></div><blockquote><h4 id="升级（复制替换原文件）"><a href="#升级（复制替换原文件）" class="headerlink" title="升级（复制替换原文件）"></a>升级（复制替换原文件）</h4></blockquote><p>​    将解压出来的所有文件复制到根目录，此时通常会弹出提示框<strong>是否移动并替换</strong>，点击是</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/复制文件到根目录.png" width="100%" height="100%"></div><blockquote><h4 id="升级完成"><a href="#升级完成" class="headerlink" title="升级完成"></a>升级完成</h4></blockquote><div align="center"><font size="50">结束</font></div>]]></content>
+    <content type="html"><![CDATA[<h3 id="CCD程序升级步骤："><a href="#CCD程序升级步骤：" class="headerlink" title="CCD程序升级步骤："></a>CCD程序升级步骤：</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1. 下载最新CCD程序升级文件（通常为一个压缩文件）</span><br><span class="line">2. 解压文件</span><br><span class="line">3. 复制升级文件到CCD程序根目录</span><br><span class="line">4. 升级完成</span><br></pre></td></tr></table></figure><blockquote><h4 id="解压升级文件"><a href="#解压升级文件" class="headerlink" title="解压升级文件"></a>解压升级文件</h4></blockquote><p>​    在下载的压缩包上，点右键，解压</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/解压文件.png" width="100%" height="100%"></div><blockquote><h4 id="打开程序根目录"><a href="#打开程序根目录" class="headerlink" title="打开程序根目录"></a>打开程序根目录</h4></blockquote><pre><code>1. 如果知道程序路径，可直接进入，如打开**我的电脑**--**D盘**--**CCD程序**2. 如果不清楚路径，可以在WINDOWS桌面，右键CCD图标，选择属性，最打**打开文件所在位置**（如果是在win7系统应该为**查找目标**）</code></pre><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/桌面图标右键属性.png" width="100%" height="100%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/属性进根目录.png" width="50%" height="50%"></div><blockquote><h4 id="升级（复制替换原文件）"><a href="#升级（复制替换原文件）" class="headerlink" title="升级（复制替换原文件）"></a>升级（复制替换原文件）</h4></blockquote><p>​    将解压出来的所有文件复制到根目录，此时通常会弹出提示框<strong>是否移动并替换</strong>，点击是</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/复制文件到根目录.png" width="100%" height="100%"></div><blockquote><h4 id="升级完成"><a href="#升级完成" class="headerlink" title="升级完成"></a>升级完成</h4></blockquote><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>​    关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="40%" height="40%"></div><div align="center"><font size="50">结束</font></div>]]></content>
     
     
       
       
     <summary type="html">&lt;h3 id=&quot;CCD程序升级步骤：&quot;&gt;&lt;a href=&quot;#CCD程序升级步骤：&quot; class=&quot;headerlink&quot; title=&quot;CCD程序升级步骤：&quot;&gt;&lt;/a&gt;CCD程序升级步骤：&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;tabl</summary>
-      
-    
-    
-    
-    
-    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
-    
-    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CCD-登陆及移动ROI</title>
-    <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
-    <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
-    <published>2021-06-09T07:06:45.000Z</published>
-    <updated>2021-06-10T15:34:22.769Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><h4 id="登陆CCD"><a href="#登陆CCD" class="headerlink" title="登陆CCD"></a>登陆CCD</h4><ul><li><strong>用户–输入密码（初始密码：8）–登陆</strong></li><li>打开程序默认为上锁状态，所有参数不可修改，需要登陆解锁（如下图）</li></ul></li></ul><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%99%BB%E9%99%86%E8%A7%A3%E9%94%81.png" width="50%" height="50%"></div><hr><ul><li><h4 id="移动ROI"><a href="#移动ROI" class="headerlink" title="移动ROI"></a>移动ROI</h4><ol><li><p>如图在上方工具栏选择<strong>工具–矩形工具</strong></p></li><li><p>右侧边栏<strong>任务–ROI–通过上下箭头选到需要修改的ROI（图中对应编号ROI会显示蓝色）</strong></p></li><li><p>将鼠标移到目标修改的ROI上进行调整</p><ol><li><p>拖动ROI的位置：鼠标移到ROI的<strong>中心</strong>，按住左键移动，<strong>完成点鼠标右键–保存ROI</strong></p></li><li><p>放大缩小：鼠标移到ROI的<strong>任意一个角</strong>，按住左键放大缩小，<strong>完成点鼠标右键–保存ROI</strong></p></li></ol></li></ol></li></ul><blockquote><p>注：完成ROI的修改，需<strong>鼠标右键保存ROI</strong>，否则保存无效。</p></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-1.png" width="50%" height="50%"></div><hr><ul><li><h4 id="鼠标右键保存ROI"><a href="#鼠标右键保存ROI" class="headerlink" title="鼠标右键保存ROI"></a>鼠标右键保存ROI</h4></li></ul><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-2.png" width="50%" height="50%"></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;h4 id=&quot;登陆CCD&quot;&gt;&lt;a href=&quot;#登陆CCD&quot; class=&quot;headerlink&quot; title=&quot;登陆CCD&quot;&gt;&lt;/a&gt;登陆CCD&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;用户–输入密码（初始密码：8）–登陆&lt;/strong&gt;&lt;/li&gt;
-&lt;l</summary>
       
     
     
@@ -87,6 +60,33 @@
     
     
     <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CCD-登陆及移动ROI</title>
+    <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
+    <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2021-06-10T15:34:22.769Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h4 id="登陆CCD"><a href="#登陆CCD" class="headerlink" title="登陆CCD"></a>登陆CCD</h4><ul><li><strong>用户–输入密码（初始密码：8）–登陆</strong></li><li>打开程序默认为上锁状态，所有参数不可修改，需要登陆解锁（如下图）</li></ul></li></ul><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%99%BB%E9%99%86%E8%A7%A3%E9%94%81.png" width="50%" height="50%"></div><hr><ul><li><h4 id="移动ROI"><a href="#移动ROI" class="headerlink" title="移动ROI"></a>移动ROI</h4><ol><li><p>如图在上方工具栏选择<strong>工具–矩形工具</strong></p></li><li><p>右侧边栏<strong>任务–ROI–通过上下箭头选到需要修改的ROI（图中对应编号ROI会显示蓝色）</strong></p></li><li><p>将鼠标移到目标修改的ROI上进行调整</p><ol><li><p>拖动ROI的位置：鼠标移到ROI的<strong>中心</strong>，按住左键移动，<strong>完成点鼠标右键–保存ROI</strong></p></li><li><p>放大缩小：鼠标移到ROI的<strong>任意一个角</strong>，按住左键放大缩小，<strong>完成点鼠标右键–保存ROI</strong></p></li></ol></li></ol></li></ul><blockquote><p>注：完成ROI的修改，需<strong>鼠标右键保存ROI</strong>，否则保存无效。</p></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-1.png" width="50%" height="50%"></div><hr><ul><li><h4 id="鼠标右键保存ROI"><a href="#鼠标右键保存ROI" class="headerlink" title="鼠标右键保存ROI"></a>鼠标右键保存ROI</h4></li></ul><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/CCD-%E7%A7%BB%E5%8A%A8ROI-2.png" width="50%" height="50%"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&quot;登陆CCD&quot;&gt;&lt;a href=&quot;#登陆CCD&quot; class=&quot;headerlink&quot; title=&quot;登陆CCD&quot;&gt;&lt;/a&gt;登陆CCD&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;用户–输入密码（初始密码：8）–登陆&lt;/strong&gt;&lt;/li&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
     
   </entry>
   
