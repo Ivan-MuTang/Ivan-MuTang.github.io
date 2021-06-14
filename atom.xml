@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-14T14:24:02.857Z</updated>
+  <updated>2021-06-14T15:51:55.308Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LED灯珠检测</title>
+    <link href="http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/"/>
+    <id>http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/</id>
+    <published>2021-06-14T15:41:12.000Z</published>
+    <updated>2021-06-14T15:51:55.308Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h4 id="LED灯珠CCD检测相关参数设定"><a href="#LED灯珠CCD检测相关参数设定" class="headerlink" title="LED灯珠CCD检测相关参数设定"></a>LED灯珠CCD检测相关参数设定</h4></blockquote><p>参数路径：测试程序<strong>根目录</strong>–<strong>Config</strong>文件夹–<strong>“复位信号”</strong>（如下）</p><pre><code>[复位信号] 端口号 = &quot;-1&quot;            #测试灯珠编号复位，收到信号即表示为新的产品，起始位置。led排序开关 = &quot;false&quot;     #启动编号排序显示，“true”为开启；“false”为关闭。 字体大小 = &quot;56&quot;          #排序编号字体大小设定，默认为56</code></pre><blockquote><h4 id="参数如图"><a href="#参数如图" class="headerlink" title="参数如图"></a>参数如图</h4></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/Led半成品.png" width="100%" height="100%"></div><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>​    关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="40%" height="40%"></div><hr><div align="center"><font size="50">结束</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h4 id=&quot;LED灯珠CCD检测相关参数设定&quot;&gt;&lt;a href=&quot;#LED灯珠CCD检测相关参数设定&quot; class=&quot;headerlink&quot; title=&quot;LED灯珠CCD检测相关参数设定&quot;&gt;&lt;/a&gt;LED灯珠CCD检测相关参数设定&lt;/h4&gt;&lt;/bl</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书，led" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8Cled/"/>
+    
+  </entry>
   
   <entry>
     <title>CCD-升级程序</title>
