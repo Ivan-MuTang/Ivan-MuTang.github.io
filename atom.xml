@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-17T15:59:59.006Z</updated>
+  <updated>2021-06-17T16:04:06.817Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://example.com/2021/06/17/CCD-%E6%95%B0%E6%8D%AE%E6%A0%A1%E6%AD%A3/"/>
     <id>http://example.com/2021/06/17/CCD-%E6%95%B0%E6%8D%AE%E6%A0%A1%E6%AD%A3/</id>
     <published>2021-06-17T15:26:10.000Z</published>
-    <updated>2021-06-17T15:59:59.006Z</updated>
+    <updated>2021-06-17T16:04:06.817Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><h3 id="数据校正"><a href="#数据校正" class="headerlink" title="数据校正"></a>数据校正</h3></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">位置：</span><br><span class="line">右边侧边栏--任务--数据(如图)</span><br></pre></td></tr></table></figure><h4 id="查找数据"><a href="#查找数据" class="headerlink" title="查找数据"></a>查找数据</h4><ol><li><h5 id="在数据页面通过上下切换编号查找要调整的数据。"><a href="#在数据页面通过上下切换编号查找要调整的数据。" class="headerlink" title="在数据页面通过上下切换编号查找要调整的数据。"></a>在数据页面通过上下切换编号查找要调整的数据。</h5></li><li><h5 id="如果数据标签有备注，也可以通过自定义标签来查找数据。"><a href="#如果数据标签有备注，也可以通过自定义标签来查找数据。" class="headerlink" title="如果数据标签有备注，也可以通过自定义标签来查找数据。"></a>如果数据标签有备注，也可以通过自定义标签来查找数据。</h5></li></ol><h4 id="调整数据"><a href="#调整数据" class="headerlink" title="调整数据"></a>调整数据</h4><ol><li><h5 id="通过调整比例尺大小来放大或缩小数据。（常规用法）"><a href="#通过调整比例尺大小来放大或缩小数据。（常规用法）" class="headerlink" title="通过调整比例尺大小来放大或缩小数据。（常规用法）"></a>通过调整比例尺大小来放大或缩小数据。（常规用法）</h5></li><li><h5 id="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"><a href="#也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）" class="headerlink" title="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"></a>也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）</h5></li><li><h5 id="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"><a href="#如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。" class="headerlink" title="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"></a>如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。</h5><blockquote><p>注：批量校验以组为单位。</p></blockquote></li></ol><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/校正数据.png" width="100%" height="100%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/数据右键.png" width="30%" height="30%"></div><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="30%" height="30%"></div><div align="center"><font size="50">结束</font></div>]]></content>
+    <content type="html"><![CDATA[<blockquote><h3 id="数据校正"><a href="#数据校正" class="headerlink" title="数据校正"></a>数据校正</h3><h4 id="位置：右边侧边栏-任务-数据-如图"><a href="#位置：右边侧边栏-任务-数据-如图" class="headerlink" title="位置：右边侧边栏--任务--数据(如图)"></a><code>位置：右边侧边栏--任务--数据(如图)</code></h4></blockquote><h4 id="查找数据"><a href="#查找数据" class="headerlink" title="查找数据"></a>查找数据</h4><ol><li><h5 id="在数据页面通过上下切换编号查找要调整的数据。"><a href="#在数据页面通过上下切换编号查找要调整的数据。" class="headerlink" title="在数据页面通过上下切换编号查找要调整的数据。"></a>在数据页面通过上下切换编号查找要调整的数据。</h5></li><li><h5 id="如果数据标签有备注，也可以通过自定义标签来查找数据。"><a href="#如果数据标签有备注，也可以通过自定义标签来查找数据。" class="headerlink" title="如果数据标签有备注，也可以通过自定义标签来查找数据。"></a>如果数据标签有备注，也可以通过自定义标签来查找数据。</h5></li></ol><h4 id="调整数据"><a href="#调整数据" class="headerlink" title="调整数据"></a>调整数据</h4><ol><li><h5 id="通过调整比例尺大小来放大或缩小数据。（常规用法）"><a href="#通过调整比例尺大小来放大或缩小数据。（常规用法）" class="headerlink" title="通过调整比例尺大小来放大或缩小数据。（常规用法）"></a>通过调整比例尺大小来放大或缩小数据。（常规用法）</h5></li><li><h5 id="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"><a href="#也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）" class="headerlink" title="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"></a>也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）</h5></li><li><h5 id="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"><a href="#如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。" class="headerlink" title="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"></a>如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。</h5><blockquote><p>注：批量校验以组为单位。</p></blockquote></li></ol><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/校正数据.png" width="100%" height="100%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/数据右键.png" width="30%" height="30%"></div><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="30%" height="30%"></div><div align="center"><font size="50">结束</font></div>]]></content>
     
     
       
       
     <summary type="html">&lt;blockquote&gt;
-&lt;h3 id=&quot;数据校正&quot;&gt;&lt;a href=&quot;#数据校正&quot; class=&quot;headerlink&quot; title=&quot;数据校正&quot;&gt;&lt;/a&gt;数据校正&lt;/h3&gt;&lt;/blockquote&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;t</summary>
+&lt;h3 id=&quot;数据校正&quot;&gt;&lt;a href=&quot;#数据校正&quot; class=&quot;headerlink&quot; title=&quot;数据校正&quot;&gt;&lt;/a&gt;数据校正&lt;/h3&gt;&lt;h4 id=&quot;位置：右边侧边栏-任务-数据-如图&quot;&gt;&lt;a href=&quot;#位置：右边侧边栏-任务-数据-</summary>
       
     
     
@@ -141,29 +140,6 @@
   </entry>
   
   <entry>
-    <title>东莞市集思光电科技有限公司</title>
-    <link href="http://example.com/2021/06/09/hello-world/"/>
-    <id>http://example.com/2021/06/09/hello-world/</id>
-    <published>2021-06-09T07:06:45.000Z</published>
-    <updated>2021-06-10T15:55:41.718Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
-&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
-      
-    
-    
-    
-    
-    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
-    
-  </entry>
-  
-  <entry>
     <title>CCD-登陆及移动ROI</title>
     <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
     <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
@@ -187,6 +163,29 @@
     <category term="ccd" scheme="http://example.com/tags/ccd/"/>
     
     <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>东莞市集思光电科技有限公司</title>
+    <link href="http://example.com/2021/06/09/hello-world/"/>
+    <id>http://example.com/2021/06/09/hello-world/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2021-06-10T15:55:41.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
+&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
+      
+    
+    
+    
+    
+    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
     
   </entry>
   
