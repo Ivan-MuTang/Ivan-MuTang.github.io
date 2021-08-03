@@ -95,9 +95,9 @@
     <link href="http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/"/>
     <id>http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/</id>
     <published>2021-06-14T15:41:12.000Z</published>
-    <updated>2021-06-14T15:51:55.308Z</updated>
+    <updated>2021-08-03T13:13:38.544Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><h4 id="LED灯珠CCD检测相关参数设定"><a href="#LED灯珠CCD检测相关参数设定" class="headerlink" title="LED灯珠CCD检测相关参数设定"></a>LED灯珠CCD检测相关参数设定</h4></blockquote><p>参数路径：测试程序<strong>根目录</strong>–<strong>Config</strong>文件夹–<strong>“复位信号”</strong>（如下）</p><pre><code>[复位信号] 端口号 = &quot;-1&quot;            #测试灯珠编号复位，收到信号即表示为新的产品，起始位置。led排序开关 = &quot;false&quot;     #启动编号排序显示，“true”为开启；“false”为关闭。 字体大小 = &quot;56&quot;          #排序编号字体大小设定，默认为56</code></pre><blockquote><h4 id="参数如图"><a href="#参数如图" class="headerlink" title="参数如图"></a>参数如图</h4></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/Led半成品.png" width="100%" height="100%"></div><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>​    关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="40%" height="40%"></div><hr><div align="center"><font size="50">结束</font></div>]]></content>
+    <content type="html"><![CDATA[<blockquote><h4 id="LED灯珠CCD检测相关参数设定"><a href="#LED灯珠CCD检测相关参数设定" class="headerlink" title="LED灯珠CCD检测相关参数设定"></a>LED灯珠CCD检测相关参数设定</h4></blockquote><p>参数路径：测试程序<strong>根目录</strong>–<strong>Config</strong>文件夹–<strong>“复位信号”</strong>（如下）</p><pre><code>[复位信号] 端口号 = &quot;-1&quot;            #测试灯珠编号复位，收到信号即表示为新的产品，起始位置。led排序开关 = &quot;false&quot;     #启动编号排序显示，“true”为开启；“false”为关闭。 字体大小 = &quot;56&quot;          #排序编号字体大小设定，默认为56</code></pre><blockquote><h4 id="参数如图"><a href="#参数如图" class="headerlink" title="参数如图"></a>参数如图</h4></blockquote><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/Led半成品.png" width="100%" height="100%"></div>------<blockquote><h4 id="MODBUS通讯设置"><a href="#MODBUS通讯设置" class="headerlink" title="MODBUS通讯设置"></a>MODBUS通讯设置</h4></blockquote><ol><li><h5 id="输入（启动端口）"><a href="#输入（启动端口）" class="headerlink" title="输入（启动端口）"></a>输入（启动端口）</h5><ul><li><p>M300~M308：启动CCD</p></li><li><p>M309：复位</p></li></ul></li><li><h5 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h5><ul><li>M310~M317：CCD1输出    M318：完成信号</li><li>M320~M327：CCD2输出    M328：完成信号</li><li>M330~M337：CCD3输出    M338：完成信号</li><li>M340~M347：CCD4输出    M348：完成信号</li></ul></li></ol><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>​    关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="40%" height="40%"></div><hr><div align="center"><font size="50">结束</font></div>]]></content>
     
     
       
@@ -140,6 +140,29 @@
   </entry>
   
   <entry>
+    <title>东莞市集思光电科技有限公司</title>
+    <link href="http://example.com/2021/06/09/hello-world/"/>
+    <id>http://example.com/2021/06/09/hello-world/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2021-06-10T15:55:41.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
+&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
+      
+    
+    
+    
+    
+    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CCD-登陆及移动ROI</title>
     <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
     <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
@@ -167,25 +190,24 @@
   </entry>
   
   <entry>
-    <title>东莞市集思光电科技有限公司</title>
-    <link href="http://example.com/2021/06/09/hello-world/"/>
-    <id>http://example.com/2021/06/09/hello-world/</id>
-    <published>2021-06-09T07:06:45.000Z</published>
-    <updated>2021-06-10T15:55:41.718Z</updated>
+    <title>电脑使用手机数据上网</title>
+    <link href="http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/"/>
+    <id>http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/</id>
+    <published>2021-06-09T01:33:15.000Z</published>
+    <updated>2021-07-22T14:17:17.632Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
+    <content type="html"><![CDATA[<h2 id="方法-步骤"><a href="#方法-步骤" class="headerlink" title="方法/步骤"></a>方法/步骤</h2><h4 id="1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"><a href="#1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）" class="headerlink" title="1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"></a>1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）</h4><h4 id="2-打开手机开发者模式并勾选USB调试"><a href="#2-打开手机开发者模式并勾选USB调试" class="headerlink" title="2.打开手机开发者模式并勾选USB调试"></a>2.打开手机开发者模式并勾选USB调试</h4><h4 id="3-进移动热点打开USB网络共享"><a href="#3-进移动热点打开USB网络共享" class="headerlink" title="3.进移动热点打开USB网络共享"></a>3.进移动热点打开USB网络共享</h4><hr><h5 id="打开手机开发者模式并勾选USB调试"><a href="#打开手机开发者模式并勾选USB调试" class="headerlink" title="打开手机开发者模式并勾选USB调试"></a>打开手机开发者模式并勾选USB调试</h5><center><video width="315" height="315" controls>  <source src="https://cloud.jisi.cf/api/v3/file/source/122/%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F.mp4?sign=03QTFP_T8vzhgVC--jqBxyKXJmot7lF_r4d5_0MrjrA%3D%3A0"></video></center><h5 id="打开USB网络共享"><a href="#打开USB网络共享" class="headerlink" title="打开USB网络共享"></a>打开USB网络共享</h5><center><video width="315" height="315" controls>  <source src="https://cloud.jisi.cf/api/v3/file/source/123/%E6%89%8B%E6%9C%BAusb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.mp4?sign=AYePbbizHTGrfJsIABQtXL7MRe1LK1bOTli7lj_NEVA%3D%3A0"></video></center><hr><h2 id="电脑使用手机数据上网-USB共享网络"><a href="#电脑使用手机数据上网-USB共享网络" class="headerlink" title="电脑使用手机数据上网(USB共享网络)"></a>电脑使用手机数据上网(USB共享网络)</h2><p>相信很多人都会发现手机设置里有个<strong>USB共享网络</strong>的功能，可是平常这个功能都是暗的。究竟要如何使用呢，这篇文章就让我来教你们。</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 1.jpg" width="50%" height="50%"></div><hr><h2 id="工具-原料"><a href="#工具-原料" class="headerlink" title="工具/原料"></a>工具/原料</h2><ul><li>一部4G手机</li><li>数据线</li><li>电脑</li></ul><h2 id="方法-步骤-1"><a href="#方法-步骤-1" class="headerlink" title="方法/步骤"></a>方法/步骤</h2><ol><li><p>用<strong>数据线</strong>先连接<strong>电脑，</strong>这时电脑没有网络。</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 2.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 3.jpg" width="50%" height="50%"></div><ol start="2"><li><p>在<strong>手机</strong>设置里1.打开<strong>USB调试</strong>（设置→开发者选项→USB调试），</p><p>​          2.打开<strong>移动网络</strong> (设置→无线和网络→移动网络) 。</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 4.jpg" width="50%" height="50%"></div><ol start="3"><li><p>最重要一步了，这时候你会发现<strong>USB共享网络</strong>开关亮了，没错打开它。</p><p><strong>USB共享网络</strong>（设置→无线和网络→移动网络共享→USB共享网络）</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 1.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 6.jpg" width="50%" height="50%"></div><ol start="4"><li><p>这时电脑就提示正在连接<strong>以太网</strong>了，连接好就可以正常上网了。</p><p>测试下网速：7.71mb/s</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 7.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 8.jpg" width="50%" height="50%"></div><p>   END</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>数据线不能是只能充电的要可以数据传输的才行。</li><li>连接好后尽量不要移动手机端，以免误触。</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
-&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
+    <summary type="html">&lt;h2 id=&quot;方法-步骤&quot;&gt;&lt;a href=&quot;#方法-步骤&quot; class=&quot;headerlink&quot; title=&quot;方法/步骤&quot;&gt;&lt;/a&gt;方法/步骤&lt;/h2&gt;&lt;h4 id=&quot;1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）&quot;&gt;&lt;a href=&quot;#1-手机连电脑</summary>
       
     
     
     
     
-    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -209,28 +231,6 @@
     
     
     <category term="网址" scheme="http://example.com/tags/%E7%BD%91%E5%9D%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电脑使用手机数据上网</title>
-    <link href="http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/"/>
-    <id>http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/</id>
-    <published>2021-06-09T01:33:15.000Z</published>
-    <updated>2021-07-22T14:17:17.632Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="方法-步骤"><a href="#方法-步骤" class="headerlink" title="方法/步骤"></a>方法/步骤</h2><h4 id="1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"><a href="#1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）" class="headerlink" title="1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"></a>1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）</h4><h4 id="2-打开手机开发者模式并勾选USB调试"><a href="#2-打开手机开发者模式并勾选USB调试" class="headerlink" title="2.打开手机开发者模式并勾选USB调试"></a>2.打开手机开发者模式并勾选USB调试</h4><h4 id="3-进移动热点打开USB网络共享"><a href="#3-进移动热点打开USB网络共享" class="headerlink" title="3.进移动热点打开USB网络共享"></a>3.进移动热点打开USB网络共享</h4><hr><h5 id="打开手机开发者模式并勾选USB调试"><a href="#打开手机开发者模式并勾选USB调试" class="headerlink" title="打开手机开发者模式并勾选USB调试"></a>打开手机开发者模式并勾选USB调试</h5><center><video width="315" height="315" controls>  <source src="https://cloud.jisi.cf/api/v3/file/source/122/%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F.mp4?sign=03QTFP_T8vzhgVC--jqBxyKXJmot7lF_r4d5_0MrjrA%3D%3A0"></video></center><h5 id="打开USB网络共享"><a href="#打开USB网络共享" class="headerlink" title="打开USB网络共享"></a>打开USB网络共享</h5><center><video width="315" height="315" controls>  <source src="https://cloud.jisi.cf/api/v3/file/source/123/%E6%89%8B%E6%9C%BAusb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.mp4?sign=AYePbbizHTGrfJsIABQtXL7MRe1LK1bOTli7lj_NEVA%3D%3A0"></video></center><hr><h2 id="电脑使用手机数据上网-USB共享网络"><a href="#电脑使用手机数据上网-USB共享网络" class="headerlink" title="电脑使用手机数据上网(USB共享网络)"></a>电脑使用手机数据上网(USB共享网络)</h2><p>相信很多人都会发现手机设置里有个<strong>USB共享网络</strong>的功能，可是平常这个功能都是暗的。究竟要如何使用呢，这篇文章就让我来教你们。</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 1.jpg" width="50%" height="50%"></div><hr><h2 id="工具-原料"><a href="#工具-原料" class="headerlink" title="工具/原料"></a>工具/原料</h2><ul><li>一部4G手机</li><li>数据线</li><li>电脑</li></ul><h2 id="方法-步骤-1"><a href="#方法-步骤-1" class="headerlink" title="方法/步骤"></a>方法/步骤</h2><ol><li><p>用<strong>数据线</strong>先连接<strong>电脑，</strong>这时电脑没有网络。</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 2.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 3.jpg" width="50%" height="50%"></div><ol start="2"><li><p>在<strong>手机</strong>设置里1.打开<strong>USB调试</strong>（设置→开发者选项→USB调试），</p><p>​          2.打开<strong>移动网络</strong> (设置→无线和网络→移动网络) 。</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 4.jpg" width="50%" height="50%"></div><ol start="3"><li><p>最重要一步了，这时候你会发现<strong>USB共享网络</strong>开关亮了，没错打开它。</p><p><strong>USB共享网络</strong>（设置→无线和网络→移动网络共享→USB共享网络）</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 1.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 6.jpg" width="50%" height="50%"></div><ol start="4"><li><p>这时电脑就提示正在连接<strong>以太网</strong>了，连接好就可以正常上网了。</p><p>测试下网速：7.71mb/s</p></li></ol><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 7.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/usb共享网络 8.jpg" width="50%" height="50%"></div><p>   END</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>数据线不能是只能充电的要可以数据传输的才行。</li><li>连接好后尽量不要移动手机端，以免误触。</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;方法-步骤&quot;&gt;&lt;a href=&quot;#方法-步骤&quot; class=&quot;headerlink&quot; title=&quot;方法/步骤&quot;&gt;&lt;/a&gt;方法/步骤&lt;/h2&gt;&lt;h4 id=&quot;1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）&quot;&gt;&lt;a href=&quot;#1-手机连电脑</summary>
-      
-    
-    
-    
-    
-    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
