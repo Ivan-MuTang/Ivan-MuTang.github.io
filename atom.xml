@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-17T16:04:06.817Z</updated>
+  <updated>2021-09-02T16:25:28.287Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据-组强制OK</title>
+    <link href="http://example.com/2021/09/02/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/"/>
+    <id>http://example.com/2021/09/02/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/</id>
+    <published>2021-09-02T15:38:18.000Z</published>
+    <updated>2021-09-02T16:25:28.287Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="数据组测试结果强制OK信号"><a href="#数据组测试结果强制OK信号" class="headerlink" title="数据组测试结果强制OK信号"></a>数据组测试结果强制OK信号</h2><h4 id="使用场景："><a href="#使用场景：" class="headerlink" title="使用场景："></a>使用场景：</h4><p>自动CCD检测机，机器自动送料但结构上并没有设计排不良位，测试不良时CCD 输出NG信号，PLC收到NG信号控制机构停机，待人工处理不良品（如手动拿走）。</p><p>不良品处理后，按启动按钮重启机器运作，此时为安全起见，往往会重新对当然位置<strong>先</strong>做一次CCD测试，以防产品漏检，但是，由于上一次测试不良，人工已将产品拿走，当重测时当前实际为空并没有产品，重复测试依旧为NG，机器就会陷入<strong>死循环</strong>无法启动。</p><p><strong>因此，此时就需要一个功能，例如先判断当前是否为空，为空时就算测试NG，也需要强制输出OK信号。</strong></p><hr><h4 id="参数设定："><a href="#参数设定：" class="headerlink" title="参数设定："></a>参数设定：</h4><ol><li>首先在数据最前面插入一个新数据（使新插入的数据在最前面编号为0），具体操作在数据页空白处点鼠标右键选择数据再选择插入。</li><li>算法选择“组强制OK”</li><li>数据源下第1个源表示数据组号，如下图第1个为0，表示归组为0的数据，此时对参数配制下第1个配制值，如下图第1个为3，表示0组以3号数据为判断依据NG时强时输出OK（通常在数据中单独 加一个数据来判断是否为空产品，然后第1个配制便指向这个数据）。</li><li>同上，数据源下第2个源表示数据组号，如下图第2个为1，表示归组为1的数据，此时对参数配制下第2个配制值，如下图第2个为6，表示1组以6号数据为判断依据NG时强时输出OK（通常在数据中单独加一个数据来判断是否为空产品，然后第2个配制便指向这个数据）。</li></ol><p><strong>第一个数据源对应第一个参数配制，第二个数据源对应第二个参数配制。</strong></p><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK.png" width="40%" height="40%"></div><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li><h5 id="注：要实现这个功能，必须在0-数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。"><a href="#注：要实现这个功能，必须在0-数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。" class="headerlink" title="注：要实现这个功能，必须在0#数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。"></a>注：要实现这个功能，必须在0#数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。</h5></li></ul><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>​    关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="40%" height="40%"></div><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数据组测试结果强制OK信号&quot;&gt;&lt;a href=&quot;#数据组测试结果强制OK信号&quot; class=&quot;headerlink&quot; title=&quot;数据组测试结果强制OK信号&quot;&gt;&lt;/a&gt;数据组测试结果强制OK信号&lt;/h2&gt;&lt;h4 id=&quot;使用场景：&quot;&gt;&lt;a href=&quot;#使用场景</summary>
+      
+    
+    
+    
+    
+    <category term="数据" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>CCD-数据校正</title>
@@ -140,6 +162,29 @@
   </entry>
   
   <entry>
+    <title>东莞市集思光电科技有限公司</title>
+    <link href="http://example.com/2021/06/09/hello-world/"/>
+    <id>http://example.com/2021/06/09/hello-world/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2021-06-10T15:55:41.718Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
+&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
+      
+    
+    
+    
+    
+    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CCD-登陆及移动ROI</title>
     <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
     <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
@@ -163,29 +208,6 @@
     <category term="ccd" scheme="http://example.com/tags/ccd/"/>
     
     <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>东莞市集思光电科技有限公司</title>
-    <link href="http://example.com/2021/06/09/hello-world/"/>
-    <id>http://example.com/2021/06/09/hello-world/</id>
-    <published>2021-06-09T07:06:45.000Z</published>
-    <updated>2021-06-10T15:55:41.718Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://www.dgjisi.ml/">JISI</a> ! </p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">手机连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">电脑周边连接器 自动检测</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">视觉自动定位</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">颜色自动识别</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><figcaption><span>CCD</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">OCR识别</span><br></pre></td></tr></table></figure><hr><hr><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/0602-04.jpg"></div><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">http://www.dgjisi.ml</a></center>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://www.dgjisi.ml/&quot;&gt;JISI&lt;/a&gt; ! &lt;/p&gt;
-&lt;h2 id=&quot;专业CCD视觉集成商&quot;&gt;&lt;a href=&quot;#专业CCD视觉集成商&quot; class=&quot;headerlink&quot; title=&quot;专业CCD视觉集成</summary>
-      
-    
-    
-    
-    
-    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
     
   </entry>
   
