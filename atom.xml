@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-24T07:22:05.135Z</updated>
+  <updated>2021-09-24T07:25:51.149Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/"/>
     <id>http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/</id>
     <published>2021-09-24T06:55:44.000Z</published>
-    <updated>2021-09-24T07:22:05.135Z</updated>
+    <updated>2021-09-24T07:25:51.149Z</updated>
     
     <content type="html"><![CDATA[<h2 id="扫描多直径"><a href="#扫描多直径" class="headerlink" title="扫描多直径"></a>扫描多直径</h2><h4 id="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"><a href="#算法检测目的：扫描圆一圈的直径，以此来判断是否有缺" class="headerlink" title="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"></a>算法检测目的：扫描圆一圈的直径，以此来判断是否有缺</h4><blockquote><p>功能实现：通过扫描并计算多直径（圆等分），设置直径参数（参数中的“ROI标识”及“MAX”，来设置上限下限），最后返回符合条件的个数。</p></blockquote><h5 id="参数配制"><a href="#参数配制" class="headerlink" title="参数配制"></a>参数配制</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">ROI参数找圆参数（如下图）</span><br><span class="line">算法：“05.找圆”，需设置；</span><br><span class="line">对比度：边缘梯度值，需设置；</span><br><span class="line">边缘类型：黑到白或白到黑，需设置；</span><br><span class="line">扫描方向：左到右为外环向内环扫描，右到左为内环向外环扫描，需设置；</span><br><span class="line">辅助5：默认设为3，需设置；</span><br><span class="line"></span><br><span class="line">打开计算多直径（隐藏算法）</span><br><span class="line">Average：设为500（值为500时打开隐藏算法）；</span><br><span class="line">ROI标识：MIN 管控直径下限（值参考图像中的计算值MIN）；</span><br><span class="line">MAX：MAX 管控直径上限（值参考图像中的计算值MAX）；</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-01.png"></p><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">数据参数配制（如下图）</span><br><span class="line">算法：“半径”，需设置；</span><br><span class="line">比例尺：设为1，不是计算数据，通过数量来管控，需设置；</span><br><span class="line">负公差：需设置；</span><br><span class="line">标准值：需设置；</span><br><span class="line">正公差：需设置；</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-02.png"></p><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://cdn.jsdelivr.net/gh/Ivan-MuTang/pic/img/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="30%" height="30%"></div><div align="center"><font size="50">END</font></div>]]></content>
     
