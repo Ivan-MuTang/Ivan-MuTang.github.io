@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-24T07:25:51.149Z</updated>
+  <updated>2022-05-04T03:21:04.857Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>海康MVS演示程序</title>
+    <link href="http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/</id>
+    <published>2022-05-04T03:13:22.000Z</published>
+    <updated>2022-05-04T03:21:04.857Z</updated>
+    
+    <content type="html"><![CDATA[<video width="560" height="315 " src="https://cloud.jisi.cf/api/v3/file/source/878/JS%202022-05-04%20MVS%E6%BC%94%E7%A4%BA.mp4?sign=vIgVBiQfPayDAF8lt9laEbI9YVZXlKXfw9rWgSzh1tE%3D%3A0" poster="  " autoplay="autoplay"></video><hr><h1 id="关于海康相机的DEMO演示程序"><a href="#关于海康相机的DEMO演示程序" class="headerlink" title="关于海康相机的DEMO演示程序"></a>关于海康相机的DEMO演示程序</h1><ol><li><h1 id="打开演示程序”MVS”"><a href="#打开演示程序”MVS”" class="headerlink" title="打开演示程序”MVS”"></a>打开演示程序”MVS”</h1></li><li> 看到左侧”以太网”,程序会自动扫描出所有连接的相机</li><li> 双击下面的相机”MV-CA060-11GM”,双击后程序便会打开相机,但是并不会马上采集,只是将相机加载进入</li><li> 点击”采集”按钮</li><li> 此时程序进入动态采集状态</li></ol><hr><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>如果是多相机,可以点击切换多相机画面,可以有多种模式选择,画面选定后,可以将左侧罗例出来的相机直接<strong>鼠标扡进对应的窗口</strong></p><p>另外,鼠标在每个小窗内偏下面三分之二处,晃动一下,会显示出一排按钮,第一个便是启动/停止采集.</p><hr><h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>如果以上操作都没问题,但是<strong>没有图像</strong>并且相机的采集帧率都为0,如演示,</p><p>此时需要检查一下<strong>右侧</strong>–<strong>触发</strong>–<strong>触发模式</strong>将其关闭即可,见演示.</p><hr><h1 id="END"><a href="#END" class="headerlink" title="END"></a>END</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;video width=&quot;560&quot; height=&quot;315 &quot; src=&quot;https://cloud.jisi.cf/api/v3/file/source/878/JS%202022-05-04%20MVS%E6%BC%94%E7%A4%BA.mp4?sign=vIgVBiQf</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>圆-扫描多直径</title>
@@ -237,9 +257,9 @@
     <link href="http://example.com/2021/06/09/%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80/"/>
     <id>http://example.com/2021/06/09/%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80/</id>
     <published>2021-06-09T01:33:15.000Z</published>
-    <updated>2021-06-11T15:02:19.489Z</updated>
+    <updated>2022-05-03T07:04:44.945Z</updated>
     
-    <content type="html"><![CDATA[<ol><li><h3 id="Base64-Encode"><a href="#Base64-Encode" class="headerlink" title="Base64 Encode"></a><a href="https://codebeautify.org/base64-encode">Base64 Encode</a></h3></li><li><h3 id="远程助手-TOdesk"><a href="#远程助手-TOdesk" class="headerlink" title="远程助手 TOdesk"></a><a href="https://www.todesk.com/">远程助手 TOdesk</a></h3></li><li><h3 id="远程助手-向日葵"><a href="#远程助手-向日葵" class="headerlink" title="远程助手 向日葵"></a><a href="https://sunlogin.oray.com/download/">远程助手 向日葵</a></h3></li><li><h3 id="软件下载-ZD423"><a href="#软件下载-ZD423" class="headerlink" title="软件下载 ZD423"></a><a href="https://www.zdfans.com/">软件下载 ZD423</a></h3></li><li><h3 id="吾爱破解"><a href="#吾爱破解" class="headerlink" title="吾爱破解"></a><a href="https://www.52pojie.cn/">吾爱破解</a></h3></li></ol>]]></content>
+    <content type="html"><![CDATA[<ol><li><h3 id="Base64-Encode"><a href="#Base64-Encode" class="headerlink" title="Base64 Encode"></a><a href="https://codebeautify.org/base64-encode">Base64 Encode</a></h3></li><li><h3 id="远程助手-TOdesk"><a href="#远程助手-TOdesk" class="headerlink" title="远程助手 TOdesk"></a><a href="https://www.todesk.com/">远程助手 TOdesk</a></h3></li><li><h3 id="远程助手-向日葵"><a href="#远程助手-向日葵" class="headerlink" title="远程助手 向日葵"></a><a href="https://sunlogin.oray.com/download/">远程助手 向日葵</a></h3></li><li><h3 id="软件下载-ZD423"><a href="#软件下载-ZD423" class="headerlink" title="软件下载 ZD423"></a><a href="https://www.zdfans.com/">软件下载 ZD423</a></h3></li><li><h3 id="吾爱破解"><a href="#吾爱破解" class="headerlink" title="吾爱破解"></a><a href="https://www.52pojie.cn/">吾爱破解</a></h3></li><li><h3 id="WIN系统下载"><a href="#WIN系统下载" class="headerlink" title="WIN系统下载"></a><a href="https://tb.rg-adguard.net/public.php">WIN系统下载</a></h3></li></ol>]]></content>
     
     
       
