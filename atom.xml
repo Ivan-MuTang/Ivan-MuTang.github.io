@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-05T07:47:53.323Z</updated>
+  <updated>2022-05-05T07:49:43.168Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/"/>
     <id>http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/</id>
     <published>2022-05-04T03:13:22.000Z</published>
-    <updated>2022-05-05T07:47:53.323Z</updated>
+    <updated>2022-05-05T07:49:43.168Z</updated>
     
-    <content type="html"><![CDATA[<center><video width="315" height="315 " controls poster="  " autoplay="autoplay">  <source src="https://cloud.jisi.cf/api/v3/file/source/878/JS%202022-05-04%20MVS%E6%BC%94%E7%A4%BA.mp4?sign=vIgVBiQfPayDAF8lt9laEbI9YVZXlKXfw9rWgSzh1tE%3D%3A0"></video></center><hr><h1 id="关于海康相机的DEMO演示程序"><a href="#关于海康相机的DEMO演示程序" class="headerlink" title="关于海康相机的DEMO演示程序"></a>关于海康相机的DEMO演示程序</h1><ol><li><h1 id="打开演示程序”MVS”"><a href="#打开演示程序”MVS”" class="headerlink" title="打开演示程序”MVS”"></a>打开演示程序”MVS”</h1></li><li> 看到左侧”以太网”,程序会自动扫描出所有连接的相机</li><li> 双击下面的相机”MV-CA060-11GM”,双击后程序便会打开相机,但是并不会马上采集,只是将相机加载进入</li><li> 点击”采集”按钮</li><li> 此时程序进入动态采集状态</li></ol><hr><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>如果是多相机,可以点击切换多相机画面,可以有多种模式选择,画面选定后,可以将左侧罗例出来的相机直接<strong>鼠标扡进对应的窗口</strong></p><p>另外,鼠标在每个小窗内偏下面三分之二处,晃动一下,会显示出一排按钮,第一个便是启动/停止采集.</p><hr><h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>如果以上操作都没问题,但是<strong>没有图像</strong>并且相机的采集帧率都为0,如演示,</p><p>此时需要检查一下<strong>右侧</strong>–<strong>触发</strong>–<strong>触发模式</strong>将其关闭即可,见演示.</p><hr><h1 id="END"><a href="#END" class="headerlink" title="END"></a>END</h1>]]></content>
+    <content type="html"><![CDATA[<center><video width="350" height="350 " controls poster="  " autoplay="autoplay">  <source src="https://cloud.jisi.cf/api/v3/file/source/878/JS%202022-05-04%20MVS%E6%BC%94%E7%A4%BA.mp4?sign=vIgVBiQfPayDAF8lt9laEbI9YVZXlKXfw9rWgSzh1tE%3D%3A0"></video></center><hr><h1 id="关于海康相机的DEMO演示程序"><a href="#关于海康相机的DEMO演示程序" class="headerlink" title="关于海康相机的DEMO演示程序"></a>关于海康相机的DEMO演示程序</h1><ol><li><h1 id="打开演示程序”MVS”"><a href="#打开演示程序”MVS”" class="headerlink" title="打开演示程序”MVS”"></a>打开演示程序”MVS”</h1></li><li> 看到左侧”以太网”,程序会自动扫描出所有连接的相机</li><li> 双击下面的相机”MV-CA060-11GM”,双击后程序便会打开相机,但是并不会马上采集,只是将相机加载进入</li><li> 点击”采集”按钮</li><li> 此时程序进入动态采集状态</li></ol><hr><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>如果是多相机,可以点击切换多相机画面,可以有多种模式选择,画面选定后,可以将左侧罗例出来的相机直接<strong>鼠标扡进对应的窗口</strong></p><p>另外,鼠标在每个小窗内偏下面三分之二处,晃动一下,会显示出一排按钮,第一个便是启动/停止采集.</p><hr><h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>如果以上操作都没问题,但是<strong>没有图像</strong>并且相机的采集帧率都为0,如演示,</p><p>此时需要检查一下<strong>右侧</strong>–<strong>触发</strong>–<strong>触发模式</strong>将其关闭即可,见演示.</p><hr><h1 id="END"><a href="#END" class="headerlink" title="END"></a>END</h1>]]></content>
     
     
       
       
     <summary type="html">&lt;center&gt;
-&lt;video width=&quot;315&quot; height=&quot;315 &quot; controls poster=&quot;  &quot; autoplay=&quot;autoplay&quot;&gt;
+&lt;video width=&quot;350&quot; height=&quot;350 &quot; controls poster=&quot;  &quot; autoplay=&quot;autoplay&quot;&gt;
   &lt;source src=&quot;https://cloud.jisi.cf/api/v3/file/source/</summary>
       
     
