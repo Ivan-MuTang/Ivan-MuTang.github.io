@@ -109,7 +109,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -117,77 +117,77 @@
   
   <url>
     <loc>http://example.com/tags/ccd/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8Cled/</loc>
-    <lastmod>2022-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E9%80%9A%E8%AE%AF/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%9B%BE%E7%BA%B8/</loc>
-    <lastmod>2022-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <loc>http://example.com/tags/%E9%80%9A%E8%AE%AF/</loc>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%85%AC%E5%8F%B8/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <loc>http://example.com/tags/%E5%9B%BE%E7%BA%B8/</loc>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E7%BD%91%E5%9D%80/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2022-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E6%95%B0%E6%8D%AE/</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
