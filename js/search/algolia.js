@@ -1,46 +1,50 @@
-window.addEventListener('load', () => {
-  const openSearch = () => {
-    document.body.style.cssText = 'width: 100%;overflow: hidden'
-    document.querySelector('#algolia-search .search-dialog').style.display = 'block'
-    document.querySelector('#algolia-search .ais-search-box--input').focus()
-    btf.fadeIn(document.getElementById('search-mask'), 0.5)
+$(function () {
+  $('a.social-icon.search').on('click', function () {
+    $('body').css('width', '100%')
+    $('body').css('overflow', 'hidden')
+    $('.search-dialog').velocity('stop')
+      .velocity('transition.expandIn', {
+        duration: 300,
+        complete: function () {
+          $('.ais-search-box--input').focus()
+        }
+      })
+    $('.search-mask').velocity('stop')
+      .velocity('transition.fadeIn', {
+        duration: 300
+      })
+
     // shortcut: ESC
-    document.addEventListener('keydown', function f (event) {
-      if (event.code === 'Escape') {
-        closeSearch()
-        document.removeEventListener('keydown', f)
+    document.addEventListener('keydown', function f(event) {
+      if (event.code == "Escape") {
+        closeSearch();
+        document.removeEventListener('keydown', f);
       }
     })
-  }
-
-  const closeSearch = () => {
-    document.body.style.cssText = "width: '';overflow: ''"
-    const $searchDialog = document.querySelector('#algolia-search .search-dialog')
-    $searchDialog.style.animation = 'search_close .5s'
-    setTimeout(() => { $searchDialog.style.cssText = "display: none; animation: ''" }, 500)
-    btf.fadeOut(document.getElementById('search-mask'), 0.5)
-  }
-
-  const searchClickFn = () => {
-    document.querySelector('#search-button > .search').addEventListener('click', openSearch)
-    document.getElementById('search-mask').addEventListener('click', closeSearch)
-    document.querySelector('#algolia-search .search-close-button').addEventListener('click', closeSearch)
-  }
-
-  searchClickFn()
-
-  window.addEventListener('pjax:complete', function () {
-    getComputedStyle(document.querySelector('#algolia-search .search-dialog')).display === 'block' && closeSearch()
-    searchClickFn()
   })
 
-  const algolia = GLOBAL_CONFIG.algolia
-  const isAlgoliaValid = algolia.appId && algolia.apiKey && algolia.indexName
+  var closeSearch = function () {
+    $('body').css('overflow', 'auto')
+    $('.search-dialog').velocity('stop')
+      .velocity('transition.expandOut', {
+        duration: 300
+      })
+    $('.search-mask').velocity('stop')
+      .velocity('transition.fadeOut', {
+        duration: 300
+      })
+  }
+  $('.search-mask, .search-close-button').on('click', closeSearch)
+
+
+
+  var algolia = GLOBAL_CONFIG.algolia
+  var isAlgoliaValid = algolia.appId && algolia.apiKey && algolia.indexName
   if (!isAlgoliaValid) {
     return console.error('Algolia setting is invalid!')
   }
 
-  const search = instantsearch({
+  var search = instantsearch({
     appId: algolia.appId,
     apiKey: algolia.apiKey,
     indexName: algolia.indexName,
@@ -48,9 +52,9 @@ window.addEventListener('load', () => {
       hitsPerPage: algolia.hits.per_page || 10
     },
     searchFunction: function (helper) {
-      const searchInput = document.querySelector('#algolia-search-input input')
+      var searchInput = $('#algolia-search-input').find('input')
 
-      if (searchInput.value) {
+      if (searchInput.val()) {
         helper.search()
       }
     }
@@ -69,7 +73,7 @@ window.addEventListener('load', () => {
       container: '#algolia-hits',
       templates: {
         item: function (data) {
-          const link = data.permalink ? data.permalink : (GLOBAL_CONFIG.root + data.path)
+          var link = data.permalink ? data.permalink : (GLOBAL_CONFIG.root + data.path)
           return (
             '<a href="' + link + '" class="algolia-hit-item-link">' +
             data._highlightResult.title.value +
@@ -95,7 +99,7 @@ window.addEventListener('load', () => {
       container: '#algolia-stats',
       templates: {
         body: function (data) {
-          const stats = GLOBAL_CONFIG.algolia.languages.hits_stats
+          var stats = GLOBAL_CONFIG.algolia.languages.hits_stats
             .replace(/\$\{hits}/, data.nbHits)
             .replace(/\$\{time}/, data.processingTimeMS)
           return (
@@ -116,10 +120,10 @@ window.addEventListener('load', () => {
       scrollTo: false,
       showFirstLast: false,
       labels: {
-        first: '<i class="fas fa-angle-double-left"></i>',
-        last: '<i class="fas fa-angle-double-right"></i>',
-        previous: '<i class="fas fa-angle-left"></i>',
-        next: '<i class="fas fa-angle-right"></i>'
+        first: '<i class="fa fa-angle-double-left"></i>',
+        last: '<i class="fa fa-angle-double-right"></i>',
+        previous: '<i class="fa fa-angle-left"></i>',
+        next: '<i class="fa fa-angle-right"></i>'
       },
       cssClasses: {
         root: 'pagination',
@@ -130,9 +134,6 @@ window.addEventListener('load', () => {
       }
     })
   )
-  search.start()
 
-  window.pjax && search.on('render', () => {
-    window.pjax.refresh(document.getElementById('algolia-hits'))
-  })
+  search.start()
 })
