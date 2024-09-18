@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JISI 集思科技</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-09-18T16:01:53.956Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>海康DEMO参数保存</title>
+    <link href="http://example.com/2022/10/15/%E6%B5%B7%E5%BA%B7DEMO%E5%8F%82%E6%95%B0%E4%BF%9D%E5%AD%98/"/>
+    <id>http://example.com/2022/10/15/%E6%B5%B7%E5%BA%B7DEMO%E5%8F%82%E6%95%B0%E4%BF%9D%E5%AD%98/</id>
+    <published>2022-10-15T09:17:08.000Z</published>
+    <updated>2024-09-18T16:01:53.956Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="关于海康相机自带DEMO的参数保存"><a href="#关于海康相机自带DEMO的参数保存" class="headerlink" title="关于海康相机自带DEMO的参数保存"></a>关于海康相机自带DEMO的参数保存</h3><blockquote><p>如图，当调整好参数后，点右上角“保存”按钮时，弹出保存对话框</p></blockquote><p><img src="https://tc.jisicn.top/img/202404251640499.png" alt="海康_02"></p><blockquote><p>保存配置：选用户集1<br>加载配置：选用户集1 （与保存配置一致）<br>重点</p></blockquote><p><img src="https://tc.jisicn.top/img/202404251641007.png" alt="海康_03"></p><blockquote><p>注：如果遇到问题，可以选“默认”<br>    选默认后，每次相机断电重启，相机将恢复初始化</p></blockquote><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;关于海康相机自带DEMO的参数保存&quot;&gt;&lt;a href=&quot;#关于海康相机自带DEMO的参数保存&quot; class=&quot;headerlink&quot; title=&quot;关于海康相机自带DEMO的参数保存&quot;&gt;&lt;/a&gt;关于海康相机自带DEMO的参数保存&lt;/h3&gt;&lt;blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Modbus通讯</title>
+    <link href="http://example.com/2022/10/11/Modbus%E9%80%9A%E8%AE%AF/"/>
+    <id>http://example.com/2022/10/11/Modbus%E9%80%9A%E8%AE%AF/</id>
+    <published>2022-10-11T02:02:29.000Z</published>
+    <updated>2024-09-18T16:01:30.799Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="让通讯更简单"><a href="#让通讯更简单" class="headerlink" title="让通讯更简单"></a><code>让通讯更简单</code></h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">CCD参数</span><br><span class="line">端口号</span><br><span class="line">读起始地址</span><br><span class="line">写起始地址</span><br></pre></td></tr></table></figure><p>如下图为信捷PLC编程示例</p><p><img src="https://tc.jisicn.top/img/202404251632858.png" alt="信捷PLC IO示例"></p><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;让通讯更简单&quot;&gt;&lt;a href=&quot;#让通讯更简单&quot; class=&quot;headerlink&quot; title=&quot;让通讯更简单&quot;&gt;&lt;/a&gt;&lt;code&gt;让通讯更简单&lt;/code&gt;&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="通讯" scheme="http://example.com/tags/%E9%80%9A%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图纸</title>
+    <link href="http://example.com/2022/05/05/%E5%9B%BE%E7%BA%B8/"/>
+    <id>http://example.com/2022/05/05/%E5%9B%BE%E7%BA%B8/</id>
+    <published>2022-05-05T07:58:19.000Z</published>
+    <updated>2024-09-18T16:02:49.775Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="常用尺寸集"><a href="#常用尺寸集" class="headerlink" title="常用尺寸集"></a>常用尺寸集</h1><h3 id="如需其它尺寸，请电联，谢谢！"><a href="#如需其它尺寸，请电联，谢谢！" class="headerlink" title="如需其它尺寸，请电联，谢谢！"></a>如需其它尺寸，请电联，谢谢<em>！</em></h3><h3 id="电话：180-2919-9900"><a href="#电话：180-2919-9900" class="headerlink" title="电话：180-2919-9900"></a>电话：180-2919-9900</h3><h3 id="Email-122-x68-x6f-117-x30-x36-48-52-64-x66-111-120-109-97-105-108-46-x63-x6f-109"><a href="#Email-122-x68-x6f-117-x30-x36-48-52-64-x66-111-120-109-97-105-108-46-x63-x6f-109" class="headerlink" title="Email: &#122;&#x68;&#x6f;&#117;&#x30;&#x36;&#48;&#52;&#64;&#x66;&#111;&#120;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;"></a>Email: <a href="mailto:&#122;&#x68;&#x6f;&#117;&#x30;&#x36;&#48;&#52;&#64;&#x66;&#111;&#120;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;">&#122;&#x68;&#x6f;&#117;&#x30;&#x36;&#48;&#52;&#64;&#x66;&#111;&#120;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a></h3><hr><blockquote><p><strong>相机_M502（M）</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/%E7%9B%B8%E6%9C%BA_M502%EF%BC%88M%EF%BC%89.png" width="100%" height="100%"></div><hr><blockquote><p><strong>相机_MV-CA060-11GM</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CA060-11GM.png" width="100%" height="100%"></div><hr><blockquote><p><strong>相机_MV-CU060-10GM</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CU060.png" width="100%" height="100%"></div><hr><blockquote><p><strong>环形光_H3512</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H3512.png" width="100%" height="100%"></div><hr><blockquote><p><strong>条形光_T6020</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/T6020.png" width="100%" height="100%"></div><hr><blockquote><p><strong>环形光_H5030</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H5030.png" width="100%" height="100%"></div><hr><blockquote><p><strong>环形光_H100-50-27</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-50-27.png" width="100%" height="100%"></div><hr><blockquote><p><strong>环形光_H100-60-23</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-60-23.png" width="100%" height="100%"></div><hr><blockquote><p><strong>环形光_H120-80-30</strong></p></blockquote><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H120-80-30.png" width="100%" height="100%"></div><hr><h3 id="补充中……"><a href="#补充中……" class="headerlink" title="补充中……"></a>补充中……</h3><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;常用尺寸集&quot;&gt;&lt;a href=&quot;#常用尺寸集&quot; class=&quot;headerlink&quot; title=&quot;常用尺寸集&quot;&gt;&lt;/a&gt;常用尺寸集&lt;/h1&gt;&lt;h3 id=&quot;如需其它尺寸，请电联，谢谢！&quot;&gt;&lt;a href=&quot;#如需其它尺寸，请电联，谢谢！&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="图纸" scheme="http://example.com/tags/%E5%9B%BE%E7%BA%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>海康MVS演示程序</title>
+    <link href="http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://example.com/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/</id>
+    <published>2022-05-04T03:13:22.000Z</published>
+    <updated>2024-09-18T16:02:05.523Z</updated>
+    
+    <content type="html"><![CDATA[<center><video width="100%" height="50%" controls poster="  " autoplay="autoplay">  <source src="https://files.yuchi.eu.org:16443/tools/blog/%E5%BD%95%E5%88%B6/JS%202022-05-04%20MVS%E6%BC%94%E7%A4%BA.mp4"></video></center><hr><h1 id="关于海康相机的DEMO演示程序"><a href="#关于海康相机的DEMO演示程序" class="headerlink" title="关于海康相机的DEMO演示程序"></a>关于海康相机的DEMO演示程序</h1><ol><li><h1 id="打开演示程序”MVS”"><a href="#打开演示程序”MVS”" class="headerlink" title="打开演示程序”MVS”"></a>打开演示程序”MVS”</h1></li><li><p>看到左侧”以太网”,程序会自动扫描出所有连接的相机</p></li><li><p>双击下面的相机”MV-CA060-11GM”,双击后程序便会打开相机,但是并不会马上采集,只是将相机加载进入</p></li><li><p>点击”采集”按钮</p></li><li><p>此时程序进入动态采集状态</p></li></ol><hr><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>如果是多相机,可以点击切换多相机画面,可以有多种模式选择,画面选定后,可以将左侧罗例出来的相机直接<strong>鼠标扡进对应的窗口</strong></p><p>另外,鼠标在每个小窗内偏下面三分之二处,晃动一下,会显示出一排按钮,第一个便是启动&#x2F;停止采集.</p><hr><h2 id="注"><a href="#注" class="headerlink" title="注"></a>注</h2><p>如果以上操作都没问题,但是<strong>没有图像</strong>并且相机的采集帧率都为0,如演示,</p><p>此时需要检查一下<strong>右侧</strong>–<strong>触发</strong>–<strong>触发模式</strong>将其关闭即可,见演示.</p><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;center&gt;
+&lt;video width=&quot;100%&quot; height=&quot;50%&quot; controls poster=&quot;  &quot; autoplay=&quot;autoplay&quot;&gt;
+  &lt;source src=&quot;https://files.yuchi.eu.org:16443/tools/bl</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>圆-扫描多直径</title>
+    <link href="http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/"/>
+    <id>http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/</id>
+    <published>2021-09-24T06:55:44.000Z</published>
+    <updated>2024-09-18T16:02:39.029Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="扫描多直径"><a href="#扫描多直径" class="headerlink" title="扫描多直径"></a>扫描多直径</h2><h4 id="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"><a href="#算法检测目的：扫描圆一圈的直径，以此来判断是否有缺" class="headerlink" title="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"></a>算法检测目的：扫描圆一圈的直径，以此来判断是否有缺</h4><blockquote><p>功能实现：通过扫描并计算多直径（圆等分），设置直径参数（参数中的“ROI标识”及“MAX”，来设置上限下限），最后返回符合条件的个数。</p></blockquote><h5 id="参数配制"><a href="#参数配制" class="headerlink" title="参数配制"></a>参数配制</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">ROI参数找圆参数（如下图）</span><br><span class="line">算法：“05.找圆”，需设置；</span><br><span class="line">对比度：边缘梯度值，需设置；</span><br><span class="line">边缘类型：黑到白或白到黑，需设置；</span><br><span class="line">扫描方向：左到右为外环向内环扫描，右到左为内环向外环扫描，需设置；</span><br><span class="line">辅助5：默认设为3，需设置；</span><br><span class="line"></span><br><span class="line">打开计算多直径（隐藏算法）</span><br><span class="line">Average：设为500（值为500时打开隐藏算法）；</span><br><span class="line">ROI标识：MIN 管控直径下限（值参考图像中的计算值MIN）；</span><br><span class="line">MAX：MAX 管控直径上限（值参考图像中的计算值MAX）；</span><br></pre></td></tr></table></figure><p><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-01.png"></p><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">数据参数配制（如下图）</span><br><span class="line">算法：“半径”，需设置；</span><br><span class="line">比例尺：设为1，不是计算数据，通过数量来管控，需设置；</span><br><span class="line">负公差：需设置；</span><br><span class="line">标准值：需设置；</span><br><span class="line">正公差：需设置；</span><br></pre></td></tr></table></figure><p><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-02.png"></p><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END Thanks</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;扫描多直径&quot;&gt;&lt;a href=&quot;#扫描多直径&quot; class=&quot;headerlink&quot; title=&quot;扫描多直径&quot;&gt;&lt;/a&gt;扫描多直径&lt;/h2&gt;&lt;h4 id=&quot;算法检测目的：扫描圆一圈的直径，以此来判断是否有缺&quot;&gt;&lt;a href=&quot;#算法检测目的：扫描圆一圈的直径，</summary>
+      
+    
+    
+    
+    
+    <category term="算法" scheme="http://example.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据-组强制OK</title>
+    <link href="http://example.com/2021/09/02/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/"/>
+    <id>http://example.com/2021/09/02/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/</id>
+    <published>2021-09-02T15:38:18.000Z</published>
+    <updated>2024-09-18T16:02:21.398Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="数据组测试结果强制OK信号"><a href="#数据组测试结果强制OK信号" class="headerlink" title="数据组测试结果强制OK信号"></a>数据组测试结果强制OK信号</h2><h4 id="使用场景："><a href="#使用场景：" class="headerlink" title="使用场景："></a>使用场景：</h4><p>自动CCD检测机，机器自动送料但结构上并没有设计排不良位，测试不良时CCD 输出NG信号，PLC收到NG信号控制机构停机，待人工处理不良品（如手动拿走）。</p><p>不良品处理后，按启动按钮重启机器运作，此时为安全起见，往往会重新对当然位置<strong>先</strong>做一次CCD测试，以防产品漏检，但是，由于上一次测试不良，人工已将产品拿走，当重测时当前实际为空并没有产品，重复测试依旧为NG，机器就会陷入<strong>死循环</strong>无法启动。</p><p><strong>因此，此时就需要一个功能，例如先判断当前是否为空，为空时就算测试NG，也需要强制输出OK信号。</strong></p><hr><h4 id="参数设定："><a href="#参数设定：" class="headerlink" title="参数设定："></a>参数设定：</h4><ol><li>首先在数据最前面插入一个新数据（使新插入的数据在最前面编号为0），具体操作在数据页空白处点鼠标右键选择数据再选择插入。</li><li>算法选择“组强制OK”</li><li>数据源下第1个源表示数据组号，如下图第1个为0，表示归组为0的数据，此时对参数配制下第1个配制值，如下图第1个为3，表示0组以3号数据为判断依据NG时强时输出OK（通常在数据中单独 加一个数据来判断是否为空产品，然后第1个配制便指向这个数据）。</li><li>同上，数据源下第2个源表示数据组号，如下图第2个为1，表示归组为1的数据，此时对参数配制下第2个配制值，如下图第2个为6，表示1组以6号数据为判断依据NG时强时输出OK（通常在数据中单独加一个数据来判断是否为空产品，然后第2个配制便指向这个数据）。</li></ol><p><strong>第一个数据源对应第一个参数配制，第二个数据源对应第二个参数配制。</strong></p><hr><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK.png" width="40%" height="40%"></div><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li><h5 id="注：要实现这个功能，必须在0-数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。"><a href="#注：要实现这个功能，必须在0-数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。" class="headerlink" title="注：要实现这个功能，必须在0#数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。"></a>注：要实现这个功能，必须在0#数据，算法为“组强制OK”。软件就是先判断第0号数据中算法是否为“组强制OK”，如果是便启用功能。</h5></li></ul><hr><blockquote><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数据组测试结果强制OK信号&quot;&gt;&lt;a href=&quot;#数据组测试结果强制OK信号&quot; class=&quot;headerlink&quot; title=&quot;数据组测试结果强制OK信号&quot;&gt;&lt;/a&gt;数据组测试结果强制OK信号&lt;/h2&gt;&lt;h4 id=&quot;使用场景：&quot;&gt;&lt;a href=&quot;#使用场景</summary>
+      
+    
+    
+    
+    
+    <category term="数据" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CCD-数据校正</title>
+    <link href="http://example.com/2021/06/17/CCD-%E6%95%B0%E6%8D%AE%E6%A0%A1%E6%AD%A3/"/>
+    <id>http://example.com/2021/06/17/CCD-%E6%95%B0%E6%8D%AE%E6%A0%A1%E6%AD%A3/</id>
+    <published>2021-06-17T15:26:10.000Z</published>
+    <updated>2024-09-18T16:01:05.099Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h3 id="数据校正"><a href="#数据校正" class="headerlink" title="数据校正"></a>数据校正</h3><h4 id="位置：右边侧边栏-任务-数据-如图"><a href="#位置：右边侧边栏-任务-数据-如图" class="headerlink" title="位置：右边侧边栏--任务--数据(如图)"></a><code>位置：右边侧边栏--任务--数据(如图)</code></h4></blockquote><h4 id="查找数据"><a href="#查找数据" class="headerlink" title="查找数据"></a>查找数据</h4><ol><li><h5 id="在数据页面通过上下切换编号查找要调整的数据。"><a href="#在数据页面通过上下切换编号查找要调整的数据。" class="headerlink" title="在数据页面通过上下切换编号查找要调整的数据。"></a>在数据页面通过上下切换编号查找要调整的数据。</h5></li><li><h5 id="如果数据标签有备注，也可以通过自定义标签来查找数据。"><a href="#如果数据标签有备注，也可以通过自定义标签来查找数据。" class="headerlink" title="如果数据标签有备注，也可以通过自定义标签来查找数据。"></a>如果数据标签有备注，也可以通过自定义标签来查找数据。</h5></li></ol><h4 id="调整数据"><a href="#调整数据" class="headerlink" title="调整数据"></a>调整数据</h4><ol><li><h5 id="通过调整比例尺大小来放大或缩小数据。（常规用法）"><a href="#通过调整比例尺大小来放大或缩小数据。（常规用法）" class="headerlink" title="通过调整比例尺大小来放大或缩小数据。（常规用法）"></a>通过调整比例尺大小来放大或缩小数据。（常规用法）</h5></li><li><h5 id="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"><a href="#也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”-然后在数据页点鼠标右键弹出菜单，选择-单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）" class="headerlink" title="也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）"></a>也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）</h5></li><li><h5 id="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"><a href="#如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。" class="headerlink" title="如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。"></a>如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。</h5><blockquote><p>注：批量校验以组为单位。</p></blockquote></li></ol><hr><p><img src="https://tc.jisicn.top/img/202404251630850.png" alt="校正数据"></p><div align="center">    <img src="https://tc.jisicn.top/img/202404251631424.png" width="30%" height="30%"></div><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h3 id=&quot;数据校正&quot;&gt;&lt;a href=&quot;#数据校正&quot; class=&quot;headerlink&quot; title=&quot;数据校正&quot;&gt;&lt;/a&gt;数据校正&lt;/h3&gt;&lt;h4 id=&quot;位置：右边侧边栏-任务-数据-如图&quot;&gt;&lt;a href=&quot;#位置：右边侧边栏-任务-数据-</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx代理的几种模式</title>
+    <link href="http://example.com/2021/06/15/Nginx%E4%BB%A3%E7%90%86%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://example.com/2021/06/15/Nginx%E4%BB%A3%E7%90%86%E7%9A%84%E5%87%A0%E7%A7%8D%E6%A8%A1%E5%BC%8F/</id>
+    <published>2021-06-15T11:58:52.000Z</published>
+    <updated>2024-09-18T16:01:39.081Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Nginx代理的几种模式"><a href="#Nginx代理的几种模式" class="headerlink" title="Nginx代理的几种模式"></a>Nginx代理的几种模式</h1><p>原文：<a href="https://www.cnblogs.com/gbq-dog/p/10653054.html">https://www.cnblogs.com/gbq-dog/p/10653054.html</a></p><p><strong>目录</strong></p><ul><li>一、正向代理(Forward Proxy)</li><li>二、反向代理（reverse proxy）</li><li>三、透明代理</li></ul><hr><p>转载自一位大佬</p><p>　　通常我们都知道Nginx性能很高，尤其是作为一个代理服务器，因为它用的是epoll模型，就比如Python Django Web的性能不行，我们可能就会在前端加一个nginx代理，从而提高总体的处理性能问题，代理服务技术是在互联网早期就出现被使用的。一般实现代理技术的方式就是在服务器上安装代理服务软件，让其成为一个代理服务器，从而实现代理技术。常用的代理技术分为正向代理、反向代理和透明代理。</p><h2 id="一、正向代理-Forward-Proxy"><a href="#一、正向代理-Forward-Proxy" class="headerlink" title="一、正向代理(Forward Proxy)"></a>一、正向代理(Forward Proxy)</h2><p>　　一般情况下，如果没有特别说明，代理技术默认说的是正向代理技术。</p><p>　　正向代理（forward）是一个位于客户端 【用户A】和原始服务器(origin server)【服务器B】之间的服务器【代理服务器Z】，为了从原始服务器取得内容，用户A向代理服务器Z发送一个请求并指定目标(服务器B)，然后代理服务器Z向服务器B转交请求并将获得的内容返回给客户端。客户端必须要进行一些特别的设置才能使用正向代理，如下图所示：</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251633560.png" width="70%" height="70%"></div><p>从上图看，所谓的正向代理就是代理服务器【Z】替代访问方【用户A】去访问目标服务器【服务器B】。</p><p>下面就是正向代理的意义以及场景</p><h4 id="1、用户访问本来无法访问的服务器B的资源"><a href="#1、用户访问本来无法访问的服务器B的资源" class="headerlink" title="1、用户访问本来无法访问的服务器B的资源!"></a>1、用户访问本来无法访问的服务器B的资源!</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251633961.png" width="70%" height="70%"></div><p>　　假设最初用户A要访问服务器B需要经过R1和R2路由器这样一个路由节点，如果路由器R1或者路由器R2发生故障，那么就无法访问服务器B了。但是如果用户A让代理服务器Z去代替自己访问服务器B，由于代理服务器Z没有在路由器R1或R2节点中，而是通过其它的路由节点访问服务器B，那么用户A就可以得到服务器B的数据了。<br>现实中的例子就是“FQ”。不过自从VPN技术被广泛应用外，“FQ”不但使用了传统的正向代理技术，有的还使用了VPN技术。例如IP-SECT动态vpn技术等</p><h4 id="2、加速访问服务器B资源"><a href="#2、加速访问服务器B资源" class="headerlink" title="2、加速访问服务器B资源"></a>2、加速访问服务器B资源</h4><p>　　这种说法目前不像以前那么流行了，主要是带宽流量的飞速发展。早期的正向代理中，很多人使用正向代理就是提速。<br>还是如图2假设用户A到服务器B，经过R1路由器和R2路由器，而R1到R2路由器的链路是一个低带宽链路。而用户A到代理服务器Z，从代理服务器Z到服务器B都是高带宽链路。那么很显然就可以加速访问服务器B了。</p><h4 id="3、Cache作用"><a href="#3、Cache作用" class="headerlink" title="3、Cache作用"></a>3、Cache作用</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251634597.png" width="70%" height="70%"></div><p>　　Cache（缓存）技术和代理服务技术是紧密联系的（不光是正向代理，反向代理也使用了Cache（缓存）技术。如上图所示，如果在用户A访问服务器B某数据F之前，已经有人通过代理服务器Z访问过服务器B上得数据F，那么代理服务器Z会把数据F保存一段时间，如果有人正好取该数据F，那么代理服务器Z不再访问服务器B，而把缓存的数据F直接发给用户A。这一技术在Cache中术语就叫Cache命中。如果有更多的像用户A的用户来访问代理服务器Z，那么这些用户都可以直接从代理服务器Z中取得数据F，而不用千里迢迢的去服务器B下载数据了。</p><h4 id="4、客户端访问授权"><a href="#4、客户端访问授权" class="headerlink" title="4、客户端访问授权"></a>4、客户端访问授权</h4><p>　　这方面的内容现今使用的还是比较多的，例如一些公司采用ISA Server做为正向代理服务器来授权用户是否有权限访问互联网，如下图所示：</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251635080.png" width="70%" height="70%"></div><p>　　如上图防火墙作为网关，用来过滤外网对其的访问。假设用户A和用户B都设置了代理服务器，用户A允许访问互联网，而用户B不允许访问互联网（这个在代理服务器Z上做限制）这样用户A因为授权，可以通过代理服务器访问到服务器B，而用户B因为没有被代理服务器Z授权，所以访问服务器B时，数据包会被直接丢弃。</p><h4 id="5、隐藏访问者的行踪"><a href="#5、隐藏访问者的行踪" class="headerlink" title="5、隐藏访问者的行踪"></a>5、隐藏访问者的行踪</h4><p>　　如下图所示，我们可以看出服务器B并不知道访问自己的实际是用户A，因为代理服务器Z代替用户A去直接与服务器B进行交互。如果代理服务器Z被用户A完全控制（或不完全控制），会惯以“肉鸡”术语称呼。</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251635578.png" width="70%" height="70%"></div><p>总结：</p><p>　　正向代理是一个位于客户端和原始服务器(origin server)之间的服务器，为了从原始服务器取得内容，客户端向代理发送一个请求并指定目标(原始服务器)，然后代理向原始服务器转交请求并将获得的内容返回给客户端。客户端必须设置正向代理服务器，当然前提是要知道正向代理服务器的IP地址，还有代理程序的端口。</p><h4 id="Nginx正向代理配置示例如下："><a href="#Nginx正向代理配置示例如下：" class="headerlink" title="Nginx正向代理配置示例如下："></a>Nginx正向代理配置示例如下：</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line">server&#123;</span><br><span class="line">        resolver 8.8.8.8;</span><br><span class="line">        resolver_timeout 30s; </span><br><span class="line">        listen 82;</span><br><span class="line">        location / &#123;</span><br><span class="line">                proxy_pass http://$http_host$request_uri;</span><br><span class="line">                proxy_set_header Host $http_host;</span><br><span class="line">                proxy_buffers 256 4k;</span><br><span class="line">                proxy_max_temp_file_size 0;</span><br><span class="line">                proxy_connect_timeout 30;</span><br><span class="line">                proxy_cache_valid 200 302 10m;</span><br><span class="line">                proxy_cache_valid 301 1h;</span><br><span class="line">                proxy_cache_valid any 1m;</span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br><span class="line">1、不能有hostname。 </span><br><span class="line">2、必须有resolver, 即dns，即上面的8.8.8.8，超时时间（30秒）可选。 </span><br><span class="line">3、配置正向代理参数，均是由 Nginx 变量组成。</span><br><span class="line">proxy_pass $scheme://$host$request_uri;  </span><br><span class="line">proxy_set_header Host $http_host;  </span><br><span class="line">4、配置缓存大小，关闭磁盘缓存读写减少I/O，以及代理连接超时时间。</span><br><span class="line">proxy_buffers 256 4k;  </span><br><span class="line">proxy_max_temp_file_size 0;  </span><br><span class="line">proxy_connect_timeout 30;  </span><br><span class="line">5、配置代理服务器 Http 状态缓存时间。</span><br><span class="line">proxy_cache_valid 200 302 10m;  </span><br><span class="line">proxy_cache_valid 301 1h;  </span><br><span class="line">proxy_cache_valid any 1m; </span><br><span class="line">配置好后，重启nginx，以浏览器为例，要使用这个代理服务器，则只需将浏览器代理设置为http://+服务器ip地址+:+82（82是刚刚设置的端口号）即可使用了。</span><br></pre></td></tr></table></figure><h2 id="二、反向代理（reverse-proxy）"><a href="#二、反向代理（reverse-proxy）" class="headerlink" title="二、反向代理（reverse proxy）"></a>二、反向代理（reverse proxy）</h2><p>　　反向代理正好与正向代理相反，对于客户端而言代理服务器就像是原始服务器，并且客户端不需要进行任何特别的设置。客户端向反向代理的命名空间(name-space)中的内容发送普通请求，接着反向代理将判断向何处(原始服务器)转交请求，并将获得的内容返回给客户端。</p><p>使用反向代理服务器的作用如下：</p><h4 id="1、保护和隐藏原始资源服务器"><a href="#1、保护和隐藏原始资源服务器" class="headerlink" title="1、保护和隐藏原始资源服务器"></a>1、保护和隐藏原始资源服务器</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251636306.png" width="70%" height="70%"></div><p>　　用户A始终认为它访问的是原始服务器B而不是代理服务器Z，但实用际上反向代理服务器接受用户A的应答，从原始资源服务器B中取得用户A的需求资源，然后发送给用户A。由于防火墙的作用，只允许代理服务器Z访问原始资源服务器B。尽管在这个虚拟的环境下，防火墙和反向代理的共同作用保护了原始资源服务器B，但用户A并不知情。</p><h4 id="2、负载均衡"><a href="#2、负载均衡" class="headerlink" title="2、负载均衡"></a>2、负载均衡</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251636253.png" width="70%" height="70%"></div><p>　　当反向代理服务器不止一个的时候，我们甚至可以把它们做成集群，当更多的用户访问资源服务器B的时候，让不同的代理服务器Z（x）去应答不同的用户，然后发送不同用户需要的资源。<br>当然反向代理服务器像正向代理服务器一样拥有Cache的作用，它可以缓存原始资源服务器B的资源，而不是每次都要向原始资源服务器组请求数据，特别是一些静态的数据，比如图片和文件，如果这些反向代理服务器能够做到和用户X来自同一个网络，那么用户X访问反向代理服务器X，就会得到很高质量的速度。这正是CDN技术的核心。如下图所示：</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251637432.png" width="70%" height="70%"></div><p>　　反向代理结论与正向代理正好相反，对于客户端而言它就像是原始服务器，并且客户端不需要进行任何特别的设置。客户端向反向代理的命名空间(name-space)中的内容发送普通请求，接着反向代理将判断向何处(原始服务器)转交请求，并将获得的内容返回给客户端，就像这些内容原本就是它自己的一样。<br>基本上，网上做正反向代理的程序很多，能做正向代理的软件大部分也可以做反向代理。开源软件中最流行的就是squid，既可以做正向代理，也有很多人用来做反向代理的前端服务器。另外MS ISA也可以用来在Windows平台下做正向代理。反向代理中最主要的实践就是WEB服务，近些年来最火的就是Nginx了。网上有人说Nginx不能做正向代理，其实是不对的。Nginx也可以做正向代理，不过用的人比较少了。</p><h4 id="Nginx反向代理示例："><a href="#Nginx反向代理示例：" class="headerlink" title="Nginx反向代理示例："></a>Nginx反向代理示例：</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br></pre></td><td class="code"><pre><span class="line">http &#123;</span><br><span class="line">#    省略了前面一般的配置，直接从负载均衡这里开始</span><br><span class="line">#    设置地址池，后端3台服务器</span><br><span class="line">    upstream http_server_pool &#123;</span><br><span class="line">        server 192.168.1.2:8080 weight=2 max_fails=2 fail_timeout=30s;</span><br><span class="line">        server 192.168.1.3:8080 weight=3 max_fails=2 fail_timeout=30s;</span><br><span class="line">        server 192.168.1.4:8080 weight=4 max_fails=2 fail_timeout=30s;</span><br><span class="line">    &#125;</span><br><span class="line">#    一个虚拟主机，用来反向代理http_server_pool这组服务器</span><br><span class="line">    server &#123;</span><br><span class="line">        listen       80;</span><br><span class="line">#        外网访问的域名        </span><br><span class="line">        server_name  www.test.com; </span><br><span class="line">        location / &#123;</span><br><span class="line">#           后端服务器返回500 503 404错误，自动请求转发到upstream池中另一台服务器</span><br><span class="line">            proxy_next_upstream error timeout invalid_header http_500 http_503 http_404;</span><br><span class="line">            proxy_pass http://http_server_pool;</span><br><span class="line">            proxy_set_header Host www.test.com;</span><br><span class="line">            proxy_set_header X-Real-IP $remote_addr;</span><br><span class="line">            proxy_set_header X-Forwarded-For  $proxy_add_x_forwarded_for;</span><br><span class="line">        &#125;</span><br><span class="line">        access_log  logs/www.test.com.access.log  combined;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">最简单的反向代理演示（在一台服务器上做代理服务器，将http请求转发到另一台IIS服务器上，通过二级域名形式访问。）编辑vim nginx.conf</span><br><span class="line">server &#123;</span><br><span class="line">    listen    80;</span><br><span class="line">    server_name test.zhoumengkang.com;</span><br><span class="line">    location / &#123;</span><br><span class="line">        proxy_pass http://121.199.**.*:80;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">参考：http://www.blogjava.net/xiaomage234/archive/2011/09/08/358247.html</span><br></pre></td></tr></table></figure><h2 id="三、透明代理"><a href="#三、透明代理" class="headerlink" title="三、透明代理"></a>三、透明代理</h2><p>　　透明代理的意思是客户端根本不需要知道有代理服务器的存在，它改编你的request fields（报文），并会传送真实IP。注意，加密的透明代理则是属于匿名代理，意思是不用设置使用代理了。<br>透明代理实践的例子就是时下很多公司使用的行为管理软件。如下图所示：</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251637653.png" width="70%" height="70%"></div><p>　　用户A和用户B并不知道行为管理设备充当透明代理行为，当用户A或用户B向服务器A或服务器B提交请求的时候，透明代理设备根据自身策略拦截并修改用户A或B的报文，并作为实际的请求方，向服务器A或B发送请求，当接收信息回传，透明代理再根据自身的设置把允许的报文发回至用户A或B，如上图，如果透明代理设置不允许访问服务器B，那么用户A或者用户B就不会得到服务器B的数据。</p><h4 id="Nginx透明代理配置示例："><a href="#Nginx透明代理配置示例：" class="headerlink" title="Nginx透明代理配置示例："></a>Nginx透明代理配置示例：</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"># cat /etc/nginx/sites-enabled/proxy</span><br><span class="line">       server &#123;</span><br><span class="line">                resolver        8.8.8.8;</span><br><span class="line">                access_log      off;</span><br><span class="line">                listen  [::]:8080;</span><br><span class="line">                location / &#123;</span><br><span class="line">                        proxy_pass      $scheme://$host$request_uri;</span><br><span class="line">                        proxy_set_header Host $http_host;</span><br><span class="line">                        proxy_buffers   256 4k;</span><br><span class="line">                        proxy_max_temp_file_size        0k;</span><br><span class="line">                        &#125;</span><br><span class="line">                &#125;</span><br><span class="line"> </span><br><span class="line">iptables -t nat -A PREROUTING -s 10.8.0.0/24 -p tcp --dport 80 -j DNAT --to 192.168.0.253:8080</span><br><span class="line">RAW Paste Data</span><br><span class="line"># cat /etc/nginx/sites-enabled/proxy</span><br><span class="line">       server &#123;</span><br><span class="line">                resolver        8.8.8.8;</span><br><span class="line">                access_log      off;</span><br><span class="line">                listen  [::]:8080;</span><br><span class="line">                location / &#123;</span><br><span class="line">                        proxy_pass      $scheme://$host$request_uri;</span><br><span class="line">                        proxy_set_header Host $http_host;</span><br><span class="line">                        proxy_buffers   256 4k;</span><br><span class="line">                        proxy_max_temp_file_size        0k;</span><br><span class="line">                        &#125;</span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">iptables -t nat -A PREROUTING -s 10.8.0.0/24 -p tcp --dport 80 -j DNAT --to 192.168.0.253:8080</span><br></pre></td></tr></table></figure><p>原文：<a href="https://www.cnblogs.com/gbq-dog/p/10653054.html">https://www.cnblogs.com/gbq-dog/p/10653054.html</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Nginx代理的几种模式&quot;&gt;&lt;a href=&quot;#Nginx代理的几种模式&quot; class=&quot;headerlink&quot; title=&quot;Nginx代理的几种模式&quot;&gt;&lt;/a&gt;Nginx代理的几种模式&lt;/h1&gt;&lt;p&gt;原文：&lt;a href=&quot;https://www.cnblog</summary>
+      
+    
+    
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CCD-CPK统计</title>
+    <link href="http://example.com/2021/06/15/CCD-CPK%E7%BB%9F%E8%AE%A1/"/>
+    <id>http://example.com/2021/06/15/CCD-CPK%E7%BB%9F%E8%AE%A1/</id>
+    <published>2021-06-15T11:20:03.000Z</published>
+    <updated>2024-09-18T16:00:38.805Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><h3 id="CPK统计"><a href="#CPK统计" class="headerlink" title="CPK统计"></a>CPK统计</h3></blockquote><p>界面入口：CCD程序页面上方工具栏，品质–CPK。</p><p>参数设定：</p><ul><li><h4 id="显示方式"><a href="#显示方式" class="headerlink" title="显示方式"></a>显示方式</h4><ul><li>CPK双边公差</li><li>CPK单边公差</li><li>CP</li><li>CA</li></ul></li><li><h4 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h4><ul><li>前10组参数有效</li><li>设定格式 1-0 ，首数字表示CCD编号，如1表示CCD1；尾数字表示数据编号，如0表示CCD1中的第1个数据，对应CCD1任务–数据中的编号；中间为<strong>英文</strong>模式下横杠。</li></ul><h4 id="注：前10组有效，可以获取任意CCD下的任意数据"><a href="#注：前10组有效，可以获取任意CCD下的任意数据" class="headerlink" title="注：前10组有效，可以获取任意CCD下的任意数据."></a><code>注：前10组有效，可以获取任意CCD下的任意数据.</code></h4></li><li><h4 id="导出EXCEL"><a href="#导出EXCEL" class="headerlink" title="导出EXCEL"></a>导出EXCEL</h4><ul><li>根据数据编号导出EXCEL，如果数据切换到2，此时点导出EXCEL为导出第三个CPK的所有数据（1. 数据编号为0起始，故2为第三个CPK数据；2. 默认保存500个数据，且自动循环保存）</li></ul></li></ul><hr><div align="center">    <img src="https://tc.jisicn.top/img/202404251606425.png" width="100%" height="100%"></div><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;h3 id=&quot;CPK统计&quot;&gt;&lt;a href=&quot;#CPK统计&quot; class=&quot;headerlink&quot; title=&quot;CPK统计&quot;&gt;&lt;/a&gt;CPK统计&lt;/h3&gt;&lt;/blockquote&gt;
+&lt;p&gt;界面入口：CCD程序页面上方工具栏，品质–CPK。&lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LED灯珠检测</title>
+    <link href="http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/"/>
+    <id>http://example.com/2021/06/14/LED%E7%81%AF%E7%8F%A0%E6%A3%80%E6%B5%8B/</id>
+    <published>2021-06-14T15:41:12.000Z</published>
+    <updated>2024-09-18T16:01:23.699Z</updated>
+    
+    <content type="html"><![CDATA[<p>参数路径：测试程序<strong>根目录</strong>–<strong>Config</strong>文件夹–<strong>“复位信号”</strong>（如下）</p><pre><code>[复位信号] led排序开关 = &quot;false&quot;     #启动编号排序显示，“true”为开启；“false”为关闭。 字体大小 = &quot;56&quot;          #排序编号字体大小设定，默认为56单次测试数 = &quot;5&quot;    #测试数量设定，如参数为5表示当前测试5个产品。若每次只需测2个产品，则改为2。起始位置Y = &quot;150&quot;   #设定Y方向的位置端口号1 = &quot;-1&quot;      #CCD1显示复位，收到信号即表示为新的产品，起始位置。端口号1 = &quot;-1&quot;      #CCD2显示复位，收到信号即表示为新的产品，起始位置。</code></pre><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">[串口参数]</span><br><span class="line">serial type = &quot;RTU&quot;      #RTU模式</span><br><span class="line">unit ID = &quot;1&quot;            #停止位1</span><br><span class="line">baud rate = &quot;115200&quot;     #波特率 默认19200</span><br><span class="line">parity (Even) = &quot;2&quot;      #偶校验</span><br><span class="line">address1 = &quot;4330&quot;        #CCD1 输出信号对应PLC内部起始地址</span><br><span class="line">address2 = &quot;430&quot;         #CCD2 输出信号对应PLC内部起始地址</span><br><span class="line">address3 = &quot;4430&quot;        #CCD3 输出信号对应PLC内部起始地址</span><br><span class="line">address4 = &quot;4530&quot;        #CCD4 输出信号对应PLC内部起始地址</span><br></pre></td></tr></table></figure><blockquote><h4 id="参数如图"><a href="#参数如图" class="headerlink" title="参数如图"></a>参数如图</h4></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251628606.png" width="100%" height="100%"></div><hr><blockquote><h4 id="MODBUS通讯设置"><a href="#MODBUS通讯设置" class="headerlink" title="MODBUS通讯设置"></a>MODBUS通讯设置</h4></blockquote><ol><li><h5 id="输入（启动端口）"><a href="#输入（启动端口）" class="headerlink" title="输入（启动端口）"></a>输入（启动端口）</h5><ul><li>M300~M308：启动CCD</li><li>M309：复位CCD1（配制参数中“端口号1”）   </li><li>M308：复位CCD2（配制参数中“端口号2”）</li></ul></li><li><h5 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h5><ul><li>M4330~M4338：CCD1输出OK、NG端口&#x2F;M4330：完成信号</li><li>M430~M438：CCD2输出OK、NG端口&#x2F;M430：完成信号</li><li>M4430~M4438：CCD3输出OK、NG端口&#x2F;M4430：完成信号</li><li>M4530~M4538：CCD4输出OK、NG端口&#x2F;M4530：完成信号</li></ul></li></ol><hr><blockquote><p>更新后</p></blockquote><ol><li><h5 id="输入（启动端口）-1"><a href="#输入（启动端口）-1" class="headerlink" title="输入（启动端口）"></a>输入（启动端口）</h5><ul><li>M5000~M5007：启动CCD（设置–参数–起始值）</li><li>M5008：复位CCD1（配制参数中“端口号1”）   </li><li>M5009：复位CCD2（配制参数中“端口号2”） </li><li>M5010：复位CCD3（配制参数中“端口号3”）</li></ul></li><li><h5 id="输出-1"><a href="#输出-1" class="headerlink" title="输出"></a>输出</h5><ul><li>M5100~M5108：CCD1输出OK、NG端口&#x2F;M5100：完成信号</li><li>M5200~M5208：CCD2输出OK、NG端口&#x2F;M5200：完成信号</li><li>M5300~M5308：CCD3输出OK、NG端口&#x2F;M5300：完成信号</li><li>M5400~M5408：CCD4输出OK、NG端口&#x2F;M5400：完成信号</li></ul></li></ol><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;参数路径：测试程序&lt;strong&gt;根目录&lt;/strong&gt;–&lt;strong&gt;Config&lt;/strong&gt;文件夹–&lt;strong&gt;“复位信号”&lt;/strong&gt;（如下）&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[复位信号] 
+led排序开关 = &amp;quot;false&amp;quot;  </summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书，led" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8Cled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CCD-升级程序</title>
+    <link href="http://example.com/2021/06/14/CCD-%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://example.com/2021/06/14/CCD-%E5%8D%87%E7%BA%A7%E7%A8%8B%E5%BA%8F/</id>
+    <published>2021-06-14T13:23:24.000Z</published>
+    <updated>2024-09-18T16:00:55.194Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="CCD程序升级步骤："><a href="#CCD程序升级步骤：" class="headerlink" title="CCD程序升级步骤："></a>CCD程序升级步骤：</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1. 下载最新CCD程序升级文件（通常为一个压缩文件）</span><br><span class="line">2. 解压文件</span><br><span class="line">3. 复制升级文件到CCD程序根目录</span><br><span class="line">4. 升级完成</span><br></pre></td></tr></table></figure><h3 id="解压升级文件"><a href="#解压升级文件" class="headerlink" title="解压升级文件"></a>解压升级文件</h3><blockquote><p>在下载的压缩包上，点右键，解压</p></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251622588.png" width="100%" height="100%"></div><h3 id="打开程序根目录"><a href="#打开程序根目录" class="headerlink" title="打开程序根目录"></a>打开程序<strong>根目录</strong></h3><blockquote><ol><li>如果知道程序路径，可直接进入，如打开<strong>我的电脑</strong>–<strong>D盘</strong>–<strong>CCD程序</strong></li><li>如果不清楚路径，可以在WINDOWS桌面，右键CCD图标，选择属性，最打<strong>打开文件所在位置</strong>（如果是在win7系统应该为<strong>查找目标</strong>）</li></ol></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251624123.png" width="100%" height="100%"></div><div align="center">    <img src="https://tc.jisicn.top/img/202404251623431.png" width="50%" height="50%"></div><h3 id="升级"><a href="#升级" class="headerlink" title="升级"></a>升级</h3><blockquote><p> 将解压出来的所有文件复制到<strong>根目录</strong>，此时通常会弹出提示框<strong>是否移动并替换</strong>，点击是</p></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251624387.png" width="100%" height="100%"></div><blockquote><h3 id="更新完成"><a href="#更新完成" class="headerlink" title="更新完成"></a>更新完成</h3></blockquote><hr><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>关于2022-04-07之前的程序更新，需补上<strong>大恒</strong>、<strong>海康</strong>与<strong>D3</strong>的最新驱动。</p><h3 id="下载地址："><a href="#下载地址：" class="headerlink" title="下载地址："></a>下载地址：</h3><ul><li><a href="https://cloud.jisi.cf/api/v3/file/source/780/geek.7z?sign=puDFpnLNFD4_0giq3elYpoCxwz33Ope7Y9V_Z_XtO0k=:0">卸载工具</a></li><li><a href="https://cloud.jisi.cf/api/v3/file/source/382/Galaxy_Windows_CN_32bits-64bits_1.12.2107.9211.rar?sign=uH_OAmTZBqY3aRhM1oHy04vFXiiN4DZkwUSCSUQHvWA=:0">大恒相机</a></li><li><a href="https://cloud.jisi.cf/api/v3/file/source/789/MVS_STD_3.4.0_220105.zip?sign=_FaBA8L6-mNvpwE2vivh96dfHgHyoGrwPh0nuBvLCJ4=:0">海康相机</a></li><li><a href="https://cloud.jisi.cf/api/v3/file/source/782/DS_DRIVERS_V2.26.58.24.rar?sign=Bks9BV3U8JJWPkn1pVX1AAv98prvQ1jMkvxAj5QUagg=:0">D3相机</a></li></ul><p><strong>！！！</strong><br>如果电脑里已经存在大恒与海康的相关驱动，请使用我们提供的专用<a href="https://cloud.jisi.cf/api/v3/file/source/780/geek.7z?sign=puDFpnLNFD4_0giq3elYpoCxwz33Ope7Y9V_Z_XtO0k=:0">卸载工具</a>先将其卸载，再重新安装最新驱动。<br><strong>！！！</strong><br>如果判定驱动是否存在，可以左下角开始菜单–程序里查看是否有存在文件夹。</p><ul><li>大恒：Daheng Galaxy Devices</li><li>海康：MVS</li><li>迈德：MingVision</li><li>D3：BasedCam2</li></ul><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;CCD程序升级步骤：&quot;&gt;&lt;a href=&quot;#CCD程序升级步骤：&quot; class=&quot;headerlink&quot; title=&quot;CCD程序升级步骤：&quot;&gt;&lt;/a&gt;CCD程序升级步骤：&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;tabl</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CCD-登陆及移动ROI</title>
+    <link href="http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/"/>
+    <id>http://example.com/2021/06/09/CCD-%E7%99%BB%E9%99%86%E5%8F%8A%E7%A7%BB%E5%8A%A8ROI/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2024-09-18T16:00:47.328Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h4 id="登陆CCD"><a href="#登陆CCD" class="headerlink" title="登陆CCD"></a>登陆CCD</h4><ul><li><strong>用户–输入密码（初始密码：8）–登陆</strong></li><li>打开程序默认为上锁状态，所有参数不可修改，需要登陆解锁（如下图）</li></ul></li></ul><div align="center">    <img src="https://tc.jisicn.top/img/202404251614279.png" width="100%" height="100%"></div><hr><ul><li><h4 id="移动ROI"><a href="#移动ROI" class="headerlink" title="移动ROI"></a>移动ROI</h4><ol><li><p>如图在上方工具栏选择<strong>工具–矩形工具</strong></p></li><li><p>右侧边栏<strong>任务–ROI–通过上下箭头选到需要修改的ROI（图中对应编号ROI会显示蓝色）</strong></p></li><li><p>将鼠标移到目标修改的ROI上进行调整</p><ol><li><p>拖动ROI的位置：鼠标移到ROI的<strong>中心</strong>，按住左键移动，<strong>完成点鼠标右键–保存ROI</strong></p></li><li><p>放大缩小：鼠标移到ROI的<strong>任意一个角</strong>，按住左键放大缩小，<strong>完成点鼠标右键–保存ROI</strong></p></li></ol></li></ol></li></ul><blockquote><p>注：完成ROI的修改，需<strong>鼠标右键保存ROI</strong>，否则保存无效。</p></blockquote><div align="center">    <img src="https://tc.jisicn.top/img/202404251614900.png" width="100%" height="100%"></div><hr><ul><li><h4 id="鼠标右键保存ROI"><a href="#鼠标右键保存ROI" class="headerlink" title="鼠标右键保存ROI"></a>鼠标右键保存ROI</h4></li></ul><div align="center">    <img src="https://tc.jisicn.top/img/202404251615607.png" width="50%" height="50%"></div><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&quot;登陆CCD&quot;&gt;&lt;a href=&quot;#登陆CCD&quot; class=&quot;headerlink&quot; title=&quot;登陆CCD&quot;&gt;&lt;/a&gt;登陆CCD&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;用户–输入密码（初始密码：8）–登陆&lt;/strong&gt;&lt;/li&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    
+    <category term="ccd" scheme="http://example.com/tags/ccd/"/>
+    
+    <category term="说明书" scheme="http://example.com/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>东莞市集思光电科技有限公司</title>
+    <link href="http://example.com/2021/06/09/hello-world/"/>
+    <id>http://example.com/2021/06/09/hello-world/</id>
+    <published>2021-06-09T07:06:45.000Z</published>
+    <updated>2024-09-18T16:01:15.406Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Welcome-to-东莞市集思光电科技有限公司"><a href="#Welcome-to-东莞市集思光电科技有限公司" class="headerlink" title="Welcome to 东莞市集思光电科技有限公司  !"></a>Welcome to <a href="https://dgjisi.eu.org/">东莞市集思光电科技有限公司 </a> !</h4><audio id="audio" controls preload="none" autoplay="autoplay">      <source id="mp3" src></audio><p><img src="https://tc.jisicn.top/img/202404251626883.png" alt="hello world_02"></p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><blockquote><p>手机连接器 自动检测</p><p>电脑周边连接器 自动检测</p><p>视觉自动定位</p><p>颜色自动识别</p><p>OCR识别</p></blockquote><hr><h3 id="更新程序下载"><a href="#更新程序下载" class="headerlink" title="更新程序下载"></a>更新程序下载</h3><p><left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left></left></left></p><p><left><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a><left></left></left></p><hr><p><img src="https://tc.jisicn.top/img/202404251627225.jpg" alt="0602-04"></p><hr><center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="Https://www.dgjisi.ml" target="_blank">https://www.dgjisi.ml</a></center><center><a href="Https://www.dgjisi.eu.org" target="_blank">https://jisi.vercel.app</a></center><center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center><hr><blockquote><h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote><p>关注公众号，并发送<strong>“CCD”</strong>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Welcome-to-东莞市集思光电科技有限公司&quot;&gt;&lt;a href=&quot;#Welcome-to-东莞市集思光电科技有限公司&quot; class=&quot;headerlink&quot; title=&quot;Welcome to 东莞市集思光电科技有限公司  !&quot;&gt;&lt;/a&gt;Welcome to </summary>
+      
+    
+    
+    
+    
+    <category term="公司" scheme="http://example.com/tags/%E5%85%AC%E5%8F%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用网址</title>
+    <link href="http://example.com/2021/06/09/%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80/"/>
+    <id>http://example.com/2021/06/09/%E5%B8%B8%E7%94%A8%E7%BD%91%E5%9D%80/</id>
+    <published>2021-06-09T01:33:15.000Z</published>
+    <updated>2024-09-18T16:03:02.796Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><h3 id="Base64-Encode"><a href="#Base64-Encode" class="headerlink" title="Base64 Encode"></a><a href="https://codebeautify.org/base64-encode">Base64 Encode</a></h3></li><li><h3 id="远程助手-TOdesk"><a href="#远程助手-TOdesk" class="headerlink" title="远程助手_TOdesk"></a><a href="https://www.todesk.com/">远程助手_TOdesk</a></h3></li><li><h3 id="远程助手-向日葵"><a href="#远程助手-向日葵" class="headerlink" title="远程助手_向日葵"></a><a href="https://sunlogin.oray.com/download/">远程助手_向日葵</a></h3></li><li><h3 id="软件下载-ZD423"><a href="#软件下载-ZD423" class="headerlink" title="软件下载 ZD423"></a><a href="https://www.zdfans.com/">软件下载 ZD423</a></h3></li><li><h3 id="吾爱破解"><a href="#吾爱破解" class="headerlink" title="吾爱破解"></a><a href="https://www.52pojie.cn/">吾爱破解</a></h3></li><li><h3 id="WIN系统下载"><a href="#WIN系统下载" class="headerlink" title="WIN系统下载"></a><a href="https://tb.rg-adguard.net/public.php">WIN系统下载</a></h3></li><li><h3 id="远程助手-RustDesk-32位系统"><a href="#远程助手-RustDesk-32位系统" class="headerlink" title="远程助手_RustDesk 32位系统"></a><a href="https://cloud.jisi.cf/api/v3/file/source/1291/rustdesk-1.1.9-windows_x32.zip?sign=-ZUl9l0gmOmxZQos-eNg8CuUdWoMjwd6e-CArYnRhTk=:0">远程助手_RustDesk 32位系统</a></h3></li><li><h3 id="远程助手-RustDesk-64位系统"><a href="#远程助手-RustDesk-64位系统" class="headerlink" title="远程助手_RustDesk 64位系统"></a><a href="https://cloud.jisi.cf/api/v3/file/source/1277/rustdesk-1.1.9-windows_x64.zip?sign=qM5Tj1lFUIRSl579gwQ0v1XVJ8GSk216TtSWJDO7WHA=:0">远程助手_RustDesk 64位系统</a></h3></li><li><h3 id="窗口洞洞波"><a href="#窗口洞洞波" class="headerlink" title="窗口洞洞波"></a><a href="https://jisi.lanzout.com/b0izsr40d">窗口洞洞波</a></h3></li></ol><hr><p>五笔下载地址</p><p><a href="http://www.wangma.net.cn/">http://www.wangma.net.cn/</a> 王码五笔<br><a href="https://rime.im/download/">https://rime.im/download/</a> ，RIME／中州韵输入法引擎，是一个跨平台的输入法算法框架。<br><a href="https://github.com/Aisaray/rime-wubi86-jidian">https://github.com/Aisaray/rime-wubi86-jidian</a> 86五笔极点码表小狼毫(Windows)<br><a href="https://www.icesofts.com/download.html">https://www.icesofts.com/download.html</a> 冰凌五笔输入法(2023·浅冬版)<br><a href="https://wubi.sogou.com/">https://wubi.sogou.com/</a> 搜狗五笔<br><a href="http://qq.pinyin.cn/wubi/">http://qq.pinyin.cn/wubi/</a> QQ五笔<br><a href="https://wubi.aardio.com/">https://wubi.aardio.com/</a> 微软的五笔助手，系统自带的五笔<br><a href="http://www.freewb.org/">http://www.freewb.org/</a> 极点五笔<br><a href="http://www.jpwb.cc/index.htm">http://www.jpwb.cc/index.htm</a>  极品五笔<br><a href="https://www.cnprint.org/bbs/thread/197/315965/">https://www.cnprint.org/bbs/thread/197/315965/</a> 黄狗五笔 。<br><a href="http://znwb.com/">http://znwb.com/</a> 智能陈桥五笔-目前收费<br><a href="http://www.wnwb.com/">http://www.wnwb.com/</a> 万能五笔<br><a href="http://www.jlwubi.com/">http://www.jlwubi.com/</a> 精灵五笔<br><a href="https://shurufa.baidu.com/wubi/">https://shurufa.baidu.com/wubi/</a> 百度五笔<br><a href="https://suke.kim/index.html">https://suke.kim/index.html</a> 可可五笔<br><a href="http://flypy.ysepan.com/">http://flypy.ysepan.com/</a> 花儿五笔 </p><hr><h2 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h2><p>查看本机连接过的WiFi密码，在记事本中保存为bat格式，编码选择ANSI，使用管理员权限运行批处理。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">@echo off</span><br><span class="line">title 批处理查看所有连接过的WiFi名称和密码</span><br><span class="line">echo. &amp; echo 请用管理员权限运行此批处理，否则可能无法获取到密码</span><br><span class="line">echo.</span><br><span class="line">for /f &quot;tokens=3*&quot; %%i in (&#x27;netsh wlan show profiles ^| findstr &quot;所有用户配置文件&quot;&#x27;) do (</span><br><span class="line">call :GetPass %%i %%j</span><br><span class="line">)</span><br><span class="line">pause</span><br><span class="line">goto :eof</span><br><span class="line"> </span><br><span class="line">:GetPass</span><br><span class="line">echo,WiFi : %*</span><br><span class="line">setlocal enabledelayedexpansion</span><br><span class="line">for /f &quot;delims=&quot; %%a in (&#x27;netsh wlan show profile name^=&quot;%*&quot; key^=clear ^| findstr &quot;关键内容&quot;&#x27;) do (</span><br><span class="line">set var=%%a</span><br><span class="line">set var1=!var:关键内容=密码!</span><br><span class="line">set var2=!var1: =!</span><br><span class="line">set var3=!var2:^:= : !</span><br><span class="line">echo,!var3!</span><br><span class="line">)</span><br><span class="line">echo,=========================</span><br><span class="line">endlocal</span><br><span class="line">goto :eof</span><br></pre></td></tr></table></figure><p>查看本机连接过的所有无线记录<br><code>for /f &quot;skip=9 tokens=1,2 delims=:&quot; %i in (&#39;netsh wlan show profiles&#39;) do @echo %j | findstr -i -v echo | netsh wlan show profiles %j key=clear</code></p><hr><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;h3 id=&quot;Base64-Encode&quot;&gt;&lt;a href=&quot;#Base64-Encode&quot; class=&quot;headerlink&quot; title=&quot;Base64 Encode&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://codebeautify.org/base</summary>
+      
+    
+    
+    
+    
+    <category term="网址" scheme="http://example.com/tags/%E7%BD%91%E5%9D%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑使用手机数据上网</title>
+    <link href="http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/"/>
+    <id>http://example.com/2021/06/09/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/</id>
+    <published>2021-06-09T01:33:15.000Z</published>
+    <updated>2024-09-18T16:02:13.906Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="方法-步骤"><a href="#方法-步骤" class="headerlink" title="方法&#x2F;步骤"></a>方法&#x2F;步骤</h2><h4 id="1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"><a href="#1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）" class="headerlink" title="1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）"></a>1. 手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）</h4><h4 id="2-打开手机开发者模式并勾选USB调试"><a href="#2-打开手机开发者模式并勾选USB调试" class="headerlink" title="2.打开手机开发者模式并勾选USB调试"></a>2.打开手机开发者模式并勾选USB调试</h4><h4 id="3-进移动热点打开USB网络共享"><a href="#3-进移动热点打开USB网络共享" class="headerlink" title="3.进移动热点打开USB网络共享"></a>3.进移动热点打开USB网络共享</h4><hr><h5 id="打开手机开发者模式并勾选USB调试"><a href="#打开手机开发者模式并勾选USB调试" class="headerlink" title="打开手机开发者模式并勾选USB调试"></a>打开手机开发者模式并勾选USB调试</h5><center><video width="315" height="315" controls>  <source src="https://files.yuchi.eu.org:16443/tools/blog/%E5%BD%95%E5%88%B6/%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F.mp4"></video></center><h5 id="打开USB网络共享"><a href="#打开USB网络共享" class="headerlink" title="打开USB网络共享"></a>打开USB网络共享</h5><center><video width="315" height="315" controls>  <source src="https://files.yuchi.eu.org:16443/tools/blog/%E5%BD%95%E5%88%B6/%E6%89%8B%E6%9C%BAusb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.mp4"></video></center><hr><h2 id="电脑使用手机数据上网-USB共享网络"><a href="#电脑使用手机数据上网-USB共享网络" class="headerlink" title="电脑使用手机数据上网(USB共享网络)"></a>电脑使用手机数据上网(USB共享网络)</h2><p>相信很多人都会发现手机设置里有个<strong>USB共享网络</strong>的功能，可是平常这个功能都是暗的。究竟要如何使用呢，这篇文章就让我来教你们。</p><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%201_2.jpg" width="50%" height="50%"></div><hr><h2 id="工具-原料"><a href="#工具-原料" class="headerlink" title="工具&#x2F;原料"></a>工具&#x2F;原料</h2><ul><li>一部4G手机</li><li>数据线</li><li>电脑</li></ul><h2 id="方法-步骤-1"><a href="#方法-步骤-1" class="headerlink" title="方法&#x2F;步骤"></a>方法&#x2F;步骤</h2><p>1. </p><p>   用<strong>数据线</strong>先连接<strong>电脑，</strong>这时电脑没有网络。</p><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%202.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%203.jpg" width="50%" height="50%"></div><p>2. </p><p>   在<strong>手机</strong>设置里1.打开<strong>USB调试</strong>（设置→开发者选项→USB调试），</p><p>   ​          2.打开<strong>移动网络</strong> (设置→无线和网络→移动网络) 。</p><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%204.jpg" width="50%" height="50%"></div><p>3. </p><p>   最重要一步了，这时候你会发现<strong>USB共享网络</strong>开关亮了，没错打开它。</p><p>   <strong>USB共享网络</strong>（设置→无线和网络→移动网络共享→USB共享网络）</p><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%201_6.jpg"></div><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%206.jpg" width="50%" height="50%"></div><p>4. </p><p>   这时电脑就提示正在连接<strong>以太网</strong>了，连接好就可以正常上网了。</p><p>   测试下网速：7.71mb&#x2F;s</p><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%207.jpg" width="50%" height="50%"></div><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%208.jpg" width="50%" height="50%"></div><p>   END</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>数据线不能是只能充电的要可以数据传输的才行。</li><li>连接好后尽量不要移动手机端，以免误触。</li></ul><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;方法-步骤&quot;&gt;&lt;a href=&quot;#方法-步骤&quot; class=&quot;headerlink&quot; title=&quot;方法&amp;#x2F;步骤&quot;&gt;&lt;/a&gt;方法&amp;#x2F;步骤&lt;/h2&gt;&lt;h4 id=&quot;1-手机连电脑（注：尽量用原装数据线，有的线只提供充电不能传输数据）&quot;&gt;&lt;a href</summary>
+      
+    
+    
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>winTop（窗口置顶器）</title>
+    <link href="http://example.com/2021/06/09/%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%99%A8/"/>
+    <id>http://example.com/2021/06/09/%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6%E5%99%A8/</id>
+    <published>2021-06-09T01:33:15.000Z</published>
+    <updated>2024-09-18T16:01:46.879Z</updated>
+    
+    <content type="html"><![CDATA[<p>winTop（窗口置顶器）</p><p>适用：windows系统                                   </p><p>文件大小：1.08 MB                                     </p><hr><div align="center">    <img src="https://tc.jisicn.top/img/202404251639071.jpg" width="50%" height="50%"></div><p>winTop是款功能很专一的窗口置顶工具，它可以让任何程序窗口一直置顶在最前面，使用简单。</p><p><strong>winTop功能特色</strong></p><p>1、总在最前面<br>始终在其他窗口顶部保留一个窗口或将其恢复。<br>（例如：计算器总是在记事本之上）</p><p>2、易于使用它<br>①将手拖到目标窗口，释放鼠标。<br>②使用快捷键（Ctrl+ F8）将窗口始终置于顶部。</p><p>3、更多功能<br>从窗口开始、快捷键设置、最小化到托盘、开始最小化。</p><p><strong>winTop使用教程</strong></p><p>1、解压缩<br>2、双击“winTop.exe”打开软件。<br>3、方法1：拖动手到目标窗口，释放鼠标即可。<br>4、方法2：ctrl+F8 顶&#x2F;取消。</p><hr><p>软件下载：<a href="https://jisi.lanzoui.com/iD3hfsg4lfe">https://jisi.lanzoui.com/iD3hfsg4lfe</a> 提取码：jisi</p><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;winTop（窗口置顶器）&lt;/p&gt;
+&lt;p&gt;适用：windows系统                                   &lt;/p&gt;
+&lt;p&gt;文件大小：1.08 MB                                     &lt;/p&gt;
+&lt;hr&gt;
+&lt;d</summary>
+      
+    
+    
+    
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+</feed>

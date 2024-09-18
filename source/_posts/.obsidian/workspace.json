@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "ffebaa92176c1dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "df19943a572499b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff20c923759b9411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "海康MVS演示程序.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "10181fa259756e11"
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "12a5e05f3551429e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59e2d3986172454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "海康MVS演示程序.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "10181fa259756e11"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0c3a4c99f1468e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5207d31fb56d7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d4b9e1e82a4e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "469f4c45b506ce8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f31da57cabd018e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d0cb422aeb283bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b1e4a5098e0fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5950afad6db042",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "海康MVS演示程序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "ff20c923759b9411",
+  "lastOpenFiles": [
+    "图纸.md",
+    "CCD-数据校正.md",
+    "hello-world.md",
+    "常用网址.md",
+    "窗口置顶器.md",
+    "Nginx代理的几种模式.md",
+    "Modbus通讯.md",
+    "LED灯珠检测.md",
+    "CCD-CPK统计.md",
+    "CCD-升级程序.md",
+    "CCD-登陆及移动ROI.md"
+  ]
+}

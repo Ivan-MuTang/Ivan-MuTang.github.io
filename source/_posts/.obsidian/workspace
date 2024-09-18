@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "ffebaa92176c1dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "961e96963428ea14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello-world.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "0a5095de853b3c94"
+      },
+      {
+        "id": "7dfbe45844c41bc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello-world.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "0a5095de853b3c94"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0c3a4c99f1468e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5207d31fb56d7ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d4b9e1e82a4e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "469f4c45b506ce8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d0cb422aeb283bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b1e4a5098e0fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5950afad6db042",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello-world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "961e96963428ea14",
+  "lastOpenFiles": [
+    "常用网址.md",
+    "窗口置顶器.md",
+    "hello-world.md",
+    "Modbus通讯.md",
+    "CCD-升级程序.md",
+    "海康MVS演示程序.md",
+    "手机USB共享网络.md",
+    "数据-组强制OK.md",
+    "图纸.md",
+    "圆-扫描多直径.md"
+  ]
+}

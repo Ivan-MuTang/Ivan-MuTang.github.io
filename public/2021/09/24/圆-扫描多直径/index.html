@@ -1,0 +1,182 @@
+<!DOCTYPE html><html lang="en" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>圆-扫描多直径 | JISI 集思科技</title><meta name="author" content="John Doe"><meta name="copyright" content="John Doe"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="扫描多直径算法检测目的：扫描圆一圈的直径，以此来判断是否有缺 功能实现：通过扫描并计算多直径（圆等分），设置直径参数（参数中的“ROI标识”及“MAX”，来设置上限下限），最后返回符合条件的个数。  参数配制1234567891011ROI参数找圆参数（如下图）	算法：“05.找圆”，需设置；	对比度：边缘梯度值，需设置；	边缘类型：黑到白或白到黑，需设置；	扫描方向：左到右为外环向内环扫描，右到">
+<meta property="og:type" content="article">
+<meta property="og:title" content="圆-扫描多直径">
+<meta property="og:url" content="http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/index.html">
+<meta property="og:site_name" content="JISI 集思科技">
+<meta property="og:description" content="扫描多直径算法检测目的：扫描圆一圈的直径，以此来判断是否有缺 功能实现：通过扫描并计算多直径（圆等分），设置直径参数（参数中的“ROI标识”及“MAX”，来设置上限下限），最后返回符合条件的个数。  参数配制1234567891011ROI参数找圆参数（如下图）	算法：“05.找圆”，需设置；	对比度：边缘梯度值，需设置；	边缘类型：黑到白或白到黑，需设置；	扫描方向：左到右为外环向内环扫描，右到">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png">
+<meta property="article:published_time" content="2021-09-24T06:55:44.000Z">
+<meta property="article:modified_time" content="2024-09-18T16:02:39.029Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="算法">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png"><link rel="shortcut icon" href="https://tc.jisicn.top/img/jisi_05.png"><link rel="canonical" href="http://example.com/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><meta/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: 'Copy Successful',
+    error: 'Copy Error',
+    noSupport: 'Browser Not Supported'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: 'Just now',
+    min: 'minutes ago',
+    hour: 'hours ago',
+    day: 'days ago',
+    month: 'months ago'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.11.1/dist/infinitegrid.min.js',
+    buttonText: 'Load More'
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '圆-扫描多直径',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2024-09-19 00:02:39'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          const now = new Date()
+          const hour = now.getHours()
+          const isNight = hour <= 6 || hour >= 18
+          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+          else if (t === 'light') activateLightMode()
+          else activateDarkMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="JISI 集思科技" type="application/atom+xml">
+</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8F.png" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">16</div></a><a href="/tags/"><div class="headline">Tags</div><div class="length-num">11</div></a><a href="/categories/"><div class="headline">Categories</div><div class="length-num">0</div></a></div><hr class="custom-hr"/></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png')"><nav id="nav"><span id="blog-info"><a href="/" title="JISI 集思科技"><span class="site-name">JISI 集思科技</span></a></span><div id="menus"><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">圆-扫描多直径</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">Created</span><time class="post-meta-date-created" datetime="2021-09-24T06:55:44.000Z" title="Created 2021-09-24 14:55:44">2021-09-24</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">Updated</span><time class="post-meta-date-updated" datetime="2024-09-18T16:02:39.029Z" title="Updated 2024-09-19 00:02:39">2024-09-19</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="圆-扫描多直径"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">Post Views:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h2 id="扫描多直径"><a href="#扫描多直径" class="headerlink" title="扫描多直径"></a>扫描多直径</h2><h4 id="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"><a href="#算法检测目的：扫描圆一圈的直径，以此来判断是否有缺" class="headerlink" title="算法检测目的：扫描圆一圈的直径，以此来判断是否有缺"></a>算法检测目的：扫描圆一圈的直径，以此来判断是否有缺</h4><blockquote>
+<p>功能实现：通过扫描并计算多直径（圆等分），设置直径参数（参数中的“ROI标识”及“MAX”，来设置上限下限），最后返回符合条件的个数。</p>
+</blockquote>
+<h5 id="参数配制"><a href="#参数配制" class="headerlink" title="参数配制"></a>参数配制</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">ROI参数找圆参数（如下图）</span><br><span class="line">	算法：“05.找圆”，需设置；</span><br><span class="line">	对比度：边缘梯度值，需设置；</span><br><span class="line">	边缘类型：黑到白或白到黑，需设置；</span><br><span class="line">	扫描方向：左到右为外环向内环扫描，右到左为内环向外环扫描，需设置；</span><br><span class="line">	辅助5：默认设为3，需设置；</span><br><span class="line"></span><br><span class="line">打开计算多直径（隐藏算法）</span><br><span class="line">	Average：设为500（值为500时打开隐藏算法）；</span><br><span class="line">	ROI标识：MIN 管控直径下限（值参考图像中的计算值MIN）；</span><br><span class="line">	MAX：MAX 管控直径上限（值参考图像中的计算值MAX）；</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-01.png"></p>
+<hr>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">数据参数配制（如下图）</span><br><span class="line">	算法：“半径”，需设置；</span><br><span class="line">	比例尺：设为1，不是计算数据，通过数量来管控，需设置；</span><br><span class="line">	负公差：需设置；</span><br><span class="line">	标准值：需设置；</span><br><span class="line">	正公差：需设置；</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84-02.png"></p>
+<hr>
+<blockquote>
+<h4 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h4></blockquote>
+<p>关注公众号，并发送<strong>“CCD”</strong>获取</p>
+<div align="center">
+    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%">
+</div>
+
+
+
+<hr>
+<div align="center"><font size="50">END Thanks</font></div></article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>Author: </span><span class="post-copyright-info"><a target="_blank" rel="noopener" href="https://jisicn.top">JISI</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>Link: </span><span class="post-copyright-info"><a target="_blank" rel="noopener" href="https://jisicn.top">https://jisicn.top</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>Copyright Notice: </span><span class="post-copyright-info">此文章版權歸东莞集思所有，如有轉載，請註明來自原作者</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E7%AE%97%E6%B3%95/">算法</a></div><div class="post_share"><div class="social-share" data-image="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/" title="海康MVS演示程序"><img class="cover" src="https://tc.jisicn.top/img/202404251640939.png" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="cover of previous post"><div class="pagination-info"><div class="label">Previous</div><div class="prev_info">海康MVS演示程序</div></div></a></div><div class="next-post pull-right"><a href="/2021/09/02/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/" title="数据-组强制OK"><img class="cover" src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK-%E5%B0%81%E9%9D%A2.png" onerror="onerror=null;src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="cover of next post"><div class="pagination-info"><div class="label">Next</div><div class="next_info">数据-组强制OK</div></div></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8F.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/404.gif'" alt="avatar"/></div><div class="author-info__name">John Doe</div><div class="author-info__description">人生不止眼前的苟且，还有诗与远方</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">16</div></a><a href="/tags/"><div class="headline">Tags</div><div class="length-num">11</div></a><a href="/categories/"><div class="headline">Categories</div><div class="length-num">0</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://jisicn.top"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="http://wpa.qq.com/msgrd?v=3&amp;uin=909210402&amp;site=qq&amp;menu=yes" target="_blank" title="QQ"><i class="fab fa-qq"></i></a><a class="social-icon" href="mailto:dgjisi@foxmail.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a><a class="social-icon" href="https://github.com/" target="_blank" title="Github"><i class="fab fa-github"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>Announcement</span></div><div class="announcement_content"><div class="announcement_content"> JISI集思科技 </div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>Contents</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84"><span class="toc-number">1.</span> <span class="toc-text">扫描多直径</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%AE%97%E6%B3%95%E6%A3%80%E6%B5%8B%E7%9B%AE%E7%9A%84%EF%BC%9A%E6%89%AB%E6%8F%8F%E5%9C%86%E4%B8%80%E5%9C%88%E7%9A%84%E7%9B%B4%E5%BE%84%EF%BC%8C%E4%BB%A5%E6%AD%A4%E6%9D%A5%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E6%9C%89%E7%BC%BA"><span class="toc-number">1.0.1.</span> <span class="toc-text">算法检测目的：扫描圆一圈的直径，以此来判断是否有缺</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%8F%82%E6%95%B0%E9%85%8D%E5%88%B6"><span class="toc-number">1.0.1.1.</span> <span class="toc-text">参数配制</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E6%9C%80%E6%96%B0CCD%E7%A8%8B%E5%BA%8F"><span class="toc-number">1.0.2.</span> <span class="toc-text">如何获取最新CCD程序</span></a></li></ol></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>Recent Post</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2022/10/15/%E6%B5%B7%E5%BA%B7DEMO%E5%8F%82%E6%95%B0%E4%BF%9D%E5%AD%98/" title="海康DEMO参数保存"><img src="https://tc.jisicn.top/img/202404251640939.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="海康DEMO参数保存"/></a><div class="content"><a class="title" href="/2022/10/15/%E6%B5%B7%E5%BA%B7DEMO%E5%8F%82%E6%95%B0%E4%BF%9D%E5%AD%98/" title="海康DEMO参数保存">海康DEMO参数保存</a><time datetime="2022-10-15T09:17:08.000Z" title="Created 2022-10-15 17:17:08">2022-10-15</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2022/10/11/Modbus%E9%80%9A%E8%AE%AF/" title="Modbus通讯"><img src="https://tc.jisicn.top/img/202404251632815.jpg" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="Modbus通讯"/></a><div class="content"><a class="title" href="/2022/10/11/Modbus%E9%80%9A%E8%AE%AF/" title="Modbus通讯">Modbus通讯</a><time datetime="2022-10-11T02:02:29.000Z" title="Created 2022-10-11 10:02:29">2022-10-11</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2022/05/05/%E5%9B%BE%E7%BA%B8/" title="图纸"><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/%E5%B0%81%E9%9D%A2.jpg" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="图纸"/></a><div class="content"><a class="title" href="/2022/05/05/%E5%9B%BE%E7%BA%B8/" title="图纸">图纸</a><time datetime="2022-05-05T07:58:19.000Z" title="Created 2022-05-05 15:58:19">2022-05-05</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/" title="海康MVS演示程序"><img src="https://tc.jisicn.top/img/202404251640939.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="海康MVS演示程序"/></a><div class="content"><a class="title" href="/2022/05/04/%E6%B5%B7%E5%BA%B7MVS%E6%BC%94%E7%A4%BA%E7%A8%8B%E5%BA%8F/" title="海康MVS演示程序">海康MVS演示程序</a><time datetime="2022-05-04T03:13:22.000Z" title="Created 2022-05-04 11:13:22">2022-05-04</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/" title="圆-扫描多直径"><img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="圆-扫描多直径"/></a><div class="content"><a class="title" href="/2021/09/24/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/" title="圆-扫描多直径">圆-扫描多直径</a><time datetime="2021-09-24T06:55:44.000Z" title="Created 2021-09-24 14:55:44">2021-09-24</time></div></div></div></div></div></div></main><footer id="footer" style="background-image: url('https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9C%86-%E6%89%AB%E6%8F%8F%E5%A4%9A%E7%9B%B4%E5%BE%84/%E5%B0%81%E9%9D%A2.png')"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By John Doe</div><div class="framework-info"><span>Framework </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>Theme </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="Read Mode"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="Toggle Between Light And Dark Mode"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="Toggle between Single-column and Double-column"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="Setting"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="Table Of Contents"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="Back To Top"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
