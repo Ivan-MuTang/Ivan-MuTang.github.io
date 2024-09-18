@@ -151,14 +151,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://example.com/tags/%E5%85%AC%E5%8F%B8/</loc>
     <lastmod>2024-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%85%AC%E5%8F%B8/</loc>
+    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
