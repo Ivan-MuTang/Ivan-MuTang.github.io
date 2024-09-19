@@ -2,8 +2,9 @@
 title: 东莞市集思光电科技有限公司
 date: 2021-06-09 00:00:00
 updated: 2024-09-19 15:18:21
-tags: [公司]
-top: 1000
+tags:
+  - 公司
+top: 1
 copyright_author: JISI
 copyright_author_href: https://jisicn.top
 copyright_url: https://jisicn.top
