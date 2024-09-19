@@ -209,7 +209,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: Hi, welcome to <a href="https://jisicn.top">东莞市集思光电科技有限公司</a>!
   copyright: true # Copyright of theme and framework
 
 # aside (側邊欄)
