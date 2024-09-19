@@ -7,12 +7,13 @@ copyright_author: JISI
 copyright_author_href: 'https://jisicn.top'
 copyright_url: 'https://jisicn.top'
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
+abbrlink: sk1zki
 hidden: false
 cover: 'https://tc.jisicn.top/img/202404251640939.png'
-abbrlink: 18650
 date: 2022-10-15 17:17:08
 top_img:
 ---
+
 ### 关于海康相机自带DEMO的参数保存
 
 > 如图，当调整好参数后，点右上角“保存”按钮时，弹出保存对话框

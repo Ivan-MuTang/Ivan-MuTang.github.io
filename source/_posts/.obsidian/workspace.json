@@ -13,34 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "read-excel.md",
+                "file": "Templates/Front-matter.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            },
-            "group": "10181fa259756e11"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "12a5e05f3551429e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a59e2d3986172454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "read-excel.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "10181fa259756e11"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "read-excel.md",
+                "file": "Templates/Front-matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,23 +110,33 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ff20c923759b9411",
   "lastOpenFiles": [
-    "hello-world.md",
     "read-excel.md",
-    "海康MVS演示程序.md",
-    "图纸.md",
-    "CCD-数据校正.md",
-    "常用网址.md",
-    "窗口置顶器.md",
     "Nginx代理的几种模式.md",
     "Modbus通讯.md",
     "LED灯珠检测.md",
+    "hello-world.md",
     "CCD-CPK统计.md",
+    "CCD-数据校正.md",
     "CCD-升级程序.md",
-    "CCD-登陆及移动ROI.md"
+    "CCD-登陆及移动ROI.md",
+    "圆-扫描多直径.md",
+    "图纸.md",
+    "数据-组强制OK.md",
+    "手机USB共享网络.md",
+    "海康MVS演示程序.md",
+    "海康DEMO参数保存.md",
+    "窗口置顶器.md",
+    "常用网址.md",
+    "Templates/abbrlink.md",
+    "Templates/Front-matter.md",
+    "Scripts/get_url.js",
+    "Scripts",
+    "Templates"
   ]
 }
