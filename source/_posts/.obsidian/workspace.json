@@ -15,7 +15,7 @@
               "state": {
                 "file": "read-excel.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "10181fa259756e11"
