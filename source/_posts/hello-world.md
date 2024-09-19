@@ -12,7 +12,7 @@ top_img:
 hidden: false
 cover: https://tc.jisicn.top/img/202404251625906.gif
 ---
-#### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.eu.org) ! 
+## Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.eu.org) ! 
 
 <audio id="audio" controls="" preload="none" autoplay="autoplay">
       <source id="mp3" src="">
@@ -22,8 +22,9 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
 
 <div align="center"><img src="https://tc.jisicn.top/img/202404251626883.png" width="100%" height="50%"></img></div>
 
-
 ## 专业CCD视觉集成商
+
+
 
 ### 应用
 
@@ -40,50 +41,41 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
 ---
 
 
-### 更新程序下载
+## 更新程序下载
 
 <left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left>
 <left><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a><left>
 
 
+## 目录
 
+### P1/8
 ![集思科技目录1-1.png](https://tc.jisicn.top/img/jisi1-1.png)
-8-1
 
+### P2/8
 ![集思科技目录4-1.png](https://tc.jisicn.top/img/202304122217888.png)
-8-2
 
+### P3/8
 ![集思科技目录4-2.png](https://tc.jisicn.top/img/202304122218741.png)
-8-3
 
+### P4/8
 ![集思科技目录2-1.png](https://tc.jisicn.top/img/jisi1-2.png)
-8-4
 
+### P5/8
 ![集思科技目录2-2.png](https://tc.jisicn.top/img/202304122220646.png)
-8-5
 
+### P6/8
 ![集思科技目录3-1.png](https://tc.jisicn.top/img/202304122220692.png)
-8-6
 
+### P7/8
 ![集思科技目录3-2.png](https://tc.jisicn.top/img/202304212341976.png)
 
-8-7
-
+### P8/8
 ![集思科技目录1-2.png](https://tc.jisicn.top/img/202304122221293.png)
-8-8
-
-
-
-
-
 
 ---
 
 <div align="center"><img src="https://tc.jisicn.top/img/202404251627225.jpg" width="100%" height="50%"></img></div>
-
-
-
-
 
 ---
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
@@ -92,18 +84,14 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
 
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
-
-
 ----
-> #### 如何获取最新CCD程序
+## 如何获取最新CCD程序
 
 关注公众号，并发送**“CCD”**获取
 
 <div align="center">
     <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></img>
 </div>
-
-
 
 ------
 
