@@ -1,12 +1,12 @@
 ---
 title: <% tp.file.title %>  
+date: <% tp.date.now(format="YYYY-MM-DD HH:mm:ss") %>  
+updated: 2024-09-09 12:33:15
+abbrlink: <% tp.user.get_url() %>
 categories:  
   - <% tp.file.folder(relative=true) %>
 tags:  
   - ''
-abbrlink: <% tp.user.get_url() %>
-date: <% tp.date.now(format="YYYY-MM-DD HH:mm:ss") %>  
-updated: 2024-09-09 12:33:15
 copyright_author: JISI
 copyright_author_href: https://jisicn.top
 copyright_url: https://jisicn.top
