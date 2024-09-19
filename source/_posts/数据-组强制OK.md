@@ -1,14 +1,17 @@
 ---
 title: 数据-组强制OK
-date: 2021-09-02 23:38:18
-tags: [数据]
+tags:
+  - 数据
 copyright_author: JISI
-copyright_author_href: https://jisicn.top
-copyright_url: https://jisicn.top
+copyright_author_href: 'https://jisicn.top'
+copyright_url: 'https://jisicn.top'
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
-top_img: 
 hidden: false
-cover: https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK-%E5%B0%81%E9%9D%A2.png
+cover: >-
+  https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK/%E6%95%B0%E6%8D%AE-%E7%BB%84%E5%BC%BA%E5%88%B6OK-%E5%B0%81%E9%9D%A2.png
+abbrlink: 49662
+date: 2021-09-02 23:38:18
+top_img:
 ---
 
 ## 数据组测试结果强制OK信号

@@ -1,14 +1,17 @@
 ---
 title: CCD-CPK统计
-date: 2021-06-15 19:20:03
-tags: [ccd,说明书]
+tags:
+  - ccd
+  - 说明书
 copyright_author: JISI
-copyright_author_href: https://jisicn.top
-copyright_url: https://jisicn.top
+copyright_author_href: 'https://jisicn.top'
+copyright_url: 'https://jisicn.top'
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
 top_img: f
 hidden: false
-cover: https://tc.jisicn.top/img/202404251606990.png
+cover: 'https://tc.jisicn.top/img/202404251606990.png'
+abbrlink: 26133
+date: 2021-06-15 19:20:03
 ---
 
 > ### CPK统计

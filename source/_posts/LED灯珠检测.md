@@ -1,14 +1,17 @@
 ---
 title: LED灯珠检测
-date: 2021-06-14 23:41:12
-tags: [ccd,说明书，led]
+tags:
+  - ccd
+  - 说明书，led
 copyright_author: JISI
-copyright_author_href: https://jisicn.top
-copyright_url: https://jisicn.top
+copyright_author_href: 'https://jisicn.top'
+copyright_url: 'https://jisicn.top'
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
-top_img: 
 hidden: false
-cover: https://tc.jisicn.top/img/202404251628970.jpg
+cover: 'https://tc.jisicn.top/img/202404251628970.jpg'
+abbrlink: 19519
+date: 2021-06-14 23:41:12
+top_img:
 ---
 
 参数路径：测试程序**根目录**--**Config**文件夹--**“复位信号”**（如下）

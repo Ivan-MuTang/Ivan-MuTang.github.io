@@ -1,14 +1,17 @@
 ---
 title: 海康DEMO参数保存
-date: 2022-10-15 17:17:08
-tags: [ccd,说明书]
+tags:
+  - ccd
+  - 说明书
 copyright_author: JISI
-copyright_author_href: https://jisicn.top
-copyright_url: https://jisicn.top
+copyright_author_href: 'https://jisicn.top'
+copyright_url: 'https://jisicn.top'
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
-top_img: 
 hidden: false
-cover: https://tc.jisicn.top/img/202404251640939.png
+cover: 'https://tc.jisicn.top/img/202404251640939.png'
+abbrlink: 18650
+date: 2022-10-15 17:17:08
+top_img:
 ---
 ### 关于海康相机自带DEMO的参数保存
 
