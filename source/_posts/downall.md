@@ -14,7 +14,7 @@ copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明�
 top: 
 top_img: 
 hidden: false
-cover: ''
+cover: 'https://tc.jisicn.top/img/202409191818231.png'
 ---
 
 
