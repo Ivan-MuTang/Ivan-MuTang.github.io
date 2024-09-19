@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx代理的几种模式.md",
+                "file": "数据-组强制OK.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "downall.md",
+                "file": "工具下载.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx代理的几种模式.md",
+                "file": "工具下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +127,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff20c923759b9411",
+  "active": "d7920c445ba21927",
   "lastOpenFiles": [
-    "downall.md",
-    "Nginx代理的几种模式.md",
-    "read-excel.md",
-    "CCD-数据校正.md",
     "数据-组强制OK.md",
+    "工具下载.md",
+    "CCD-数据校正.md",
+    "read-excel.md",
+    "Nginx代理的几种模式.md",
     "窗口置顶器.md",
     "Templates/Front-matter.md",
     "Modbus通讯.md",
