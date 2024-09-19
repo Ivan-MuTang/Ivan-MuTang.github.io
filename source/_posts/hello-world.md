@@ -1,6 +1,7 @@
 ---
 title: 东莞市集思光电科技有限公司
-date: 2021-06-09 15:06:45
+date: 2021-06-09 00:00:00
+updated: 2024-09-19 15:18:21
 tags: [公司]
 top: 1000
 copyright_author: JISI
@@ -17,8 +18,9 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
       <source id="mp3" src="">
 </audio>
 
+![98e92999_9133505.jpeg](https://tc.jisicn.top/img/202405031228351.jpeg)
 
-![hello world_02](https://tc.jisicn.top/img/202404251626883.png)
+<div align="center"><img src="https://tc.jisicn.top/img/202404251626883.png" width="100%" height="50%"></img></div>
 
 
 ## 专业CCD视觉集成商
@@ -41,25 +43,56 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
 ### 更新程序下载
 
 <left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left>
-
 <left><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a><left>
 
+
+
+![集思科技目录1-1.png](https://tc.jisicn.top/img/jisi1-1.png)
+8-1
+
+![集思科技目录4-1.png](https://tc.jisicn.top/img/202304122217888.png)
+8-2
+
+![集思科技目录4-2.png](https://tc.jisicn.top/img/202304122218741.png)
+8-3
+
+![集思科技目录2-1.png](https://tc.jisicn.top/img/jisi1-2.png)
+8-4
+
+![集思科技目录2-2.png](https://tc.jisicn.top/img/202304122220646.png)
+8-5
+
+![集思科技目录3-1.png](https://tc.jisicn.top/img/202304122220692.png)
+8-6
+
+![集思科技目录3-2.png](https://tc.jisicn.top/img/202304212341976.png)
+
+8-7
+
+![集思科技目录1-2.png](https://tc.jisicn.top/img/202304122221293.png)
+8-8
+
+
+
+
+
+
 ---
 
-![0602-04](https://tc.jisicn.top/img/202404251627225.jpg)
+<div align="center"><img src="https://tc.jisicn.top/img/202404251627225.jpg" width="100%" height="50%"></img></div>
 
 
 
 
 
 ---
-<center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center>
+<center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
 
-<center><a href="Https://www.dgjisi.ml" target="_blank">https://www.dgjisi.ml</a></center>
-
-<center><a href="Https://www.dgjisi.eu.org" target="_blank">https://jisi.vercel.app</a></center>
+<center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
 
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
+
+
 
 ----
 > #### 如何获取最新CCD程序
@@ -74,5 +107,6 @@ cover: https://tc.jisicn.top/img/202404251625906.gif
 
 ------
 
-<div align='center' ><font size='50'>END</font></div>
+<div align='center' ><font size='50'>END THANKS</font></div>
+<div align='center'><font size='3'><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>
 
