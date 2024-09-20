@@ -13,7 +13,7 @@ copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明�
 top: 
 top_img: 
 hidden: false
-cover: https://tc.jisicn.top/img/202409201716506.png
+cover: https://tc.jisicn.top/img/202409201954317.png
 ---
 
 ## 关于WIN7电脑激活
