@@ -25,15 +25,12 @@ cover: ""
 ---
 
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
-
 <center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
-
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
 ----
 
 ## 如何获取最新CCD程序
-
 关注公众号，并发送**“CCD”**获取
 
 <div align="center">
