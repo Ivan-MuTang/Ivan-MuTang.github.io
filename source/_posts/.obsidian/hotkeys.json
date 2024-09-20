@@ -70,5 +70,14 @@
       ],
       "key": "2"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "templater-obsidian:Templates/NOW.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
   ]
 }
