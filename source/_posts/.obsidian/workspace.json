@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff20c923759b9411",
+            "id": "1c856119f3e26c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据-组强制OK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7920c445ba21927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具下载.md",
+                "file": "CCD-定位.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具下载.md",
+                "file": "CCD-定位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,13 +96,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cf9af0794626b4bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02703702854edf22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CCD-定位.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,28 +135,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7920c445ba21927",
+  "active": "1c856119f3e26c62",
   "lastOpenFiles": [
-    "数据-组强制OK.md",
-    "工具下载.md",
-    "CCD-数据校正.md",
-    "read-excel.md",
-    "Nginx代理的几种模式.md",
-    "窗口置顶器.md",
     "Templates/Front-matter.md",
-    "Modbus通讯.md",
-    "LED灯珠检测.md",
     "hello-world.md",
-    "CCD-CPK统计.md",
-    "CCD-升级程序.md",
-    "CCD-登陆及移动ROI.md",
-    "圆-扫描多直径.md",
-    "图纸.md",
-    "手机USB共享网络.md",
-    "海康MVS演示程序.md",
-    "海康DEMO参数保存.md",
+    "CCD-数据校正.md",
     "常用网址.md",
+    "CCD-CPK统计.md",
+    "CCD-定位.md",
+    "图纸.md",
+    "海康DEMO参数保存.md",
+    "CCD-升级程序.md",
     "Templates/abbrlink.md",
+    "工具下载.md",
+    "read-excel.md",
+    "窗口置顶器.md",
+    "Untitled.md",
+    "海康MVS演示程序.md",
+    "手机USB共享网络.md",
+    "数据-组强制OK.md",
+    "圆-扫描多直径.md",
+    "CCD-登陆及移动ROI.md",
+    "LED灯珠检测.md",
+    "Modbus通讯.md",
+    "Nginx代理的几种模式.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
