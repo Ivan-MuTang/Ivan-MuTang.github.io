@@ -22,12 +22,7 @@ top_img:
 
 ![98e92999_9133505.jpeg](https://tc.jisicn.top/img/202405031228351.jpeg)
 
-<div align="center"><img src="https://tc.jisicn.top/img/202404251626883.png" width="100%" height="50%"></img></div>
-
 ## 专业CCD视觉集成商
-
-
-
 ### 应用
 
 > 手机连接器 自动检测
@@ -40,14 +35,28 @@ top_img:
 >
 > OCR识别
 
----
-
+<div align="center"><img src="https://tc.jisicn.top/img/202404251626883.png" width="100%" height="50%"></img></div>
 
 ## 更新程序下载
+### 18版CCD程序发布地址
 
-<left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left>
-<left><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a><left>
+[下载 密码：dgjisi](https://jisi.lanzout.com/b013toura)
 
+	注：更新程序前建议先做好备份，常规更新只需更新"JISI.EXE"，否则可能会出现授权错误，或报错，如果更新后出现报错，建议尝试将备份目录下的“data”文件夹复制过来替换。
+
+---
+
+### 24版VISION 最新程序发布地址
+
+##### 最新安装包：
+
+	新装电脑下载整个文件包 | 更新程序，下载更新文件
+
+[下载 密码:jisi](https://jisi.lanzout.com/b0izjdtuf)
+
+##### 加密文件：
+
+---
 
 ## 目录
 
