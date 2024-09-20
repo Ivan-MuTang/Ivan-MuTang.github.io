@@ -16,7 +16,7 @@ hidden: false
 cover: https://tc.jisicn.top/img/202409201954317.png
 ---
 
-## 关于WIN7电脑激活
+## 关于WIN7系统激活
 <div STYLE="page-break-after: always;"></div>
 
 ### 一、先下载[激活工具](https://jisi.lanzout.com/iJZUd23nk9ra)
