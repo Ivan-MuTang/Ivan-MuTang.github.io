@@ -15,7 +15,7 @@ copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明�
 top: 
 top_img: 
 hidden: false
-cover: https://tc.jisicn.top/img/202409201705982.png
+cover: https://tc.jisicn.top/img/202409201710090.png
 ---
 
 ### Welcome to[东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
