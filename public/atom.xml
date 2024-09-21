@@ -6,7 +6,7 @@
   <link href="https://jisicn.top/atom.xml" rel="self"/>
   
   <link href="https://jisicn.top/"/>
-  <updated>2024-09-20T12:09:15.000Z</updated>
+  <updated>2024-09-21T05:16:33.000Z</updated>
   <id>https://jisicn.top/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>算法_四点基准</title>
+    <link href="https://jisicn.top/sk5dbl/"/>
+    <id>https://jisicn.top/sk5dbl/</id>
+    <published>2024-09-21T05:16:33.000Z</published>
+    <updated>2024-09-21T05:16:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="算法-四点基准"><a href="#算法-四点基准" class="headerlink" title="算法_四点基准"></a>算法_四点基准</h2><pre><code>通过四个点来拟合基准线</code></pre><h3 id="四点水平基准X"><a href="#四点水平基准X" class="headerlink" title="四点水平基准X"></a>四点水平基准X</h3><ul><li><p>根据当前ROI索引前四个点来拟合水平基准（前点1、2拟合Point1,前点3、4拟合Point2，再由Point1与Point2拟合基准）</p></li><li><p>参数：ROI标识设定100，开启。</p></li></ul><hr><h3 id="四点竖直基准Y"><a href="#四点竖直基准Y" class="headerlink" title="四点竖直基准Y"></a>四点竖直基准Y</h3><ul><li><p>根据当前ROI索引前四个点来拟合水平基准（前点1、2拟合Point1,前点3、4拟合Point2，再由Point1与Point2拟合基准）</p></li><li><p>参数：扫描方向改为<strong>前两点</strong>，开启。</p></li></ul><hr><div align="center"><img src="https://tc.jisicn.top/img/202405031228351.jpeg" width="100%" height="50%"></div><hr><center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center><center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center><hr><h2 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h2><p>关注公众号，并发送<code>CCD</code>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END THANKS</font></div><div align="center"><font size="3"><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;算法-四点基准&quot;&gt;&lt;a href=&quot;#算法-四点基准&quot; class=&quot;headerlink&quot; title=&quot;算法_四点基准&quot;&gt;&lt;/a&gt;算法_四点基准&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;通过四个点来拟合基准线
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;四点水平基准X&quot;</summary>
+      
+    
+    
+    
+    <category term="/" scheme="https://jisicn.top/categories/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>画线CCD</title>
+    <link href="https://jisicn.top/sk5d7u/"/>
+    <id>https://jisicn.top/sk5d7u/</id>
+    <published>2024-09-21T05:14:18.000Z</published>
+    <updated>2024-09-21T05:14:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="手动画线检测设备"><a href="#手动画线检测设备" class="headerlink" title="手动画线检测设备"></a>手动画线检测设备</h2><div align="center">    <img src="https://tc.jisicn.top/img/立式手工.jpg" width="50%" height="50%"></div><p>倍数计算公式：<br><code>倍数 = 显示器尺寸 x 25.4 / 6 x 0.5 x (0.7--4.5)</code></p><p>参数：</p><ol><li>显示器尺寸，如上图为15.6寸，而15.6 x 25.4表示将英制单位转换成公制</li><li>&#x2F;6 表示相机对角</li><li>x0.5 表示镜头目镜(镜头上可以看到，通常分0.5与0.35两种)</li><li>0.7–4.5表示物镜，取当前所在刻度值</li></ol><p>以上倍数仅供参考！</p><hr><h3 id="卧式支架尺寸"><a href="#卧式支架尺寸" class="headerlink" title="卧式支架尺寸"></a>卧式支架尺寸</h3><div align="center"><img src="https://tc.jisicn.top/img/202403271432768.jpg" width="70%" height="50%"></div><h3 id="立式支架尺寸"><a href="#立式支架尺寸" class="headerlink" title="立式支架尺寸"></a>立式支架尺寸</h3><div align="center"><img src="https://tc.jisicn.top/img/202403271432502.jpg" width="70%" height="50%"></div><hr><div align="center"><img src="https://tc.jisicn.top/img/202405031228351.jpeg" width="100%" height="50%"></div><hr><center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center><center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center><hr><h2 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h2><p>关注公众号，并发送<code>CCD</code>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END THANKS</font></div><div align="center"><font size="3"><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;手动画线检测设备&quot;&gt;&lt;a href=&quot;#手动画线检测设备&quot; class=&quot;headerlink&quot; title=&quot;手动画线检测设备&quot;&gt;&lt;/a&gt;手动画线检测设备&lt;/h2&gt;&lt;div align=&quot;center&quot;&gt;
+    &lt;img src=&quot;https://tc.jis</summary>
+      
+    
+    
+    
+    <category term="/" scheme="https://jisicn.top/categories/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>WIN7激活</title>
@@ -170,7 +217,7 @@
     <published>2022-05-05T07:58:19.000Z</published>
     <updated>2024-09-21T04:01:23.143Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="常用尺寸集"><a href="#常用尺寸集" class="headerlink" title="常用尺寸集"></a>常用尺寸集</h1><h3 id="如需其它尺寸，请电联，谢谢！"><a href="#如需其它尺寸，请电联，谢谢！" class="headerlink" title="如需其它尺寸，请电联，谢谢！"></a>如需其它尺寸，请电联，谢谢<em>！</em></h3><p>电话：180-2919-9900<br>Email: <a href="mailto:&#122;&#x68;&#x6f;&#117;&#48;&#54;&#48;&#x34;&#64;&#x66;&#111;&#120;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#122;&#x68;&#x6f;&#117;&#48;&#54;&#48;&#x34;&#64;&#x66;&#111;&#120;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;</a></p><hr><h3 id="相机-M502（M）"><a href="#相机-M502（M）" class="headerlink" title="相机_M502（M）"></a>相机_M502（M）</h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/%E7%9B%B8%E6%9C%BA_M502%EF%BC%88M%EF%BC%89.png" width="100%" height="100%"></div><hr><h3 id="相机-MV-CA060-11GM"><a href="#相机-MV-CA060-11GM" class="headerlink" title="相机_MV-CA060-11GM"></a><strong>相机_MV-CA060-11GM</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CA060-11GM.png" width="100%" height="100%"></div><hr><h3 id="相机-MV-CU060-10GM"><a href="#相机-MV-CU060-10GM" class="headerlink" title="相机_MV-CU060-10GM"></a><strong>相机_MV-CU060-10GM</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CU060.png" width="100%" height="100%"></div><hr><h3 id="环形光-H3512"><a href="#环形光-H3512" class="headerlink" title="环形光_H3512"></a><strong>环形光_H3512</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H3512.png" width="100%" height="100%"></div><hr><h3 id="条形光-T6020"><a href="#条形光-T6020" class="headerlink" title="条形光_T6020"></a><strong>条形光_T6020</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/T6020.png" width="100%" height="100%"></div><hr><h3 id="环形光-H5030"><a href="#环形光-H5030" class="headerlink" title="环形光_H5030"></a><strong>环形光_H5030</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H5030.png" width="100%" height="100%"></div><hr><h3 id="环形光-H100-50-27"><a href="#环形光-H100-50-27" class="headerlink" title="环形光_H100-50-27"></a><strong>环形光_H100-50-27</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-50-27.png" width="100%" height="100%"></div><hr><h3 id="环形光-H100-60-23"><a href="#环形光-H100-60-23" class="headerlink" title="环形光_H100-60-23"></a><strong>环形光_H100-60-23</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-60-23.png" width="100%" height="100%"></div><hr><h3 id="环形光-H120-80-30"><a href="#环形光-H120-80-30" class="headerlink" title="环形光_H120-80-30"></a><strong>环形光_H120-80-30</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H120-80-30.png" width="100%" height="100%"></div><hr><h2 id="补充中……"><a href="#补充中……" class="headerlink" title="补充中……"></a>补充中……</h2><hr><h2 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h2><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
+    <content type="html"><![CDATA[<h1 id="常用尺寸集"><a href="#常用尺寸集" class="headerlink" title="常用尺寸集"></a>常用尺寸集</h1><h3 id="如需其它尺寸，请电联，谢谢！"><a href="#如需其它尺寸，请电联，谢谢！" class="headerlink" title="如需其它尺寸，请电联，谢谢！"></a>如需其它尺寸，请电联，谢谢<em>！</em></h3><p>电话：180-2919-9900<br>Email: <a href="mailto:&#x7a;&#x68;&#x6f;&#x75;&#x30;&#54;&#x30;&#x34;&#64;&#102;&#111;&#x78;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x7a;&#x68;&#x6f;&#x75;&#x30;&#54;&#x30;&#x34;&#64;&#102;&#111;&#x78;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></p><hr><h3 id="相机-M502（M）"><a href="#相机-M502（M）" class="headerlink" title="相机_M502（M）"></a>相机_M502（M）</h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/%E7%9B%B8%E6%9C%BA_M502%EF%BC%88M%EF%BC%89.png" width="100%" height="100%"></div><hr><h3 id="相机-MV-CA060-11GM"><a href="#相机-MV-CA060-11GM" class="headerlink" title="相机_MV-CA060-11GM"></a><strong>相机_MV-CA060-11GM</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CA060-11GM.png" width="100%" height="100%"></div><hr><h3 id="相机-MV-CU060-10GM"><a href="#相机-MV-CU060-10GM" class="headerlink" title="相机_MV-CU060-10GM"></a><strong>相机_MV-CU060-10GM</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/MV-CU060.png" width="100%" height="100%"></div><hr><h3 id="环形光-H3512"><a href="#环形光-H3512" class="headerlink" title="环形光_H3512"></a><strong>环形光_H3512</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H3512.png" width="100%" height="100%"></div><hr><h3 id="条形光-T6020"><a href="#条形光-T6020" class="headerlink" title="条形光_T6020"></a><strong>条形光_T6020</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/T6020.png" width="100%" height="100%"></div><hr><h3 id="环形光-H5030"><a href="#环形光-H5030" class="headerlink" title="环形光_H5030"></a><strong>环形光_H5030</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H5030.png" width="100%" height="100%"></div><hr><h3 id="环形光-H100-50-27"><a href="#环形光-H100-50-27" class="headerlink" title="环形光_H100-50-27"></a><strong>环形光_H100-50-27</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-50-27.png" width="100%" height="100%"></div><hr><h3 id="环形光-H100-60-23"><a href="#环形光-H100-60-23" class="headerlink" title="环形光_H100-60-23"></a><strong>环形光_H100-60-23</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H100-60-23.png" width="100%" height="100%"></div><hr><h3 id="环形光-H120-80-30"><a href="#环形光-H120-80-30" class="headerlink" title="环形光_H120-80-30"></a><strong>环形光_H120-80-30</strong></h3><div align="center">    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%BA%B8/H120-80-30.png" width="100%" height="100%"></div><hr><h2 id="补充中……"><a href="#补充中……" class="headerlink" title="补充中……"></a>补充中……</h2><hr><h2 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h2><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
     
     
       
@@ -449,54 +496,6 @@ led排序开关 = &amp;quot;false&amp;quot;  </summary>
     
     
     <category term="工具" scheme="https://jisicn.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>winTop（窗口置顶器）</title>
-    <link href="https://jisicn.top/sk1zjy/"/>
-    <id>https://jisicn.top/sk1zjy/</id>
-    <published>2021-06-09T01:33:15.000Z</published>
-    <updated>2024-09-19T09:31:25.152Z</updated>
-    
-    <content type="html"><![CDATA[<p>winTop（窗口置顶器）</p><p>适用：windows系统                                   </p><p>文件大小：1.08 MB                                     </p><hr><div align="center">    <img src="https://tc.jisicn.top/img/202404251639071.jpg" width="50%" height="50%"></div><p>winTop是款功能很专一的窗口置顶工具，它可以让任何程序窗口一直置顶在最前面，使用简单。</p><p><strong>winTop功能特色</strong></p><p>1、总在最前面<br>始终在其他窗口顶部保留一个窗口或将其恢复。<br>（例如：计算器总是在记事本之上）</p><p>2、易于使用它<br>①将手拖到目标窗口，释放鼠标。<br>②使用快捷键（Ctrl+ F8）将窗口始终置于顶部。</p><p>3、更多功能<br>从窗口开始、快捷键设置、最小化到托盘、开始最小化。</p><p><strong>winTop使用教程</strong></p><p>1、解压缩<br>2、双击“winTop.exe”打开软件。<br>3、方法1：拖动手到目标窗口，释放鼠标即可。<br>4、方法2：ctrl+F8 顶&#x2F;取消。</p><hr><p>软件下载：<a href="https://jisi.lanzoui.com/iD3hfsg4lfe">https://jisi.lanzoui.com/iD3hfsg4lfe</a> 提取码：jisi</p><hr><h4 id="关注公众号，获取更多资讯"><a href="#关注公众号，获取更多资讯" class="headerlink" title="关注公众号，获取更多资讯"></a>关注公众号，获取更多资讯</h4><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="30%" height="30%"></div><div align="center"><font size="50">End Thanks!</font></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;winTop（窗口置顶器）&lt;/p&gt;
-&lt;p&gt;适用：windows系统                                   &lt;/p&gt;
-&lt;p&gt;文件大小：1.08 MB                                     &lt;/p&gt;
-&lt;hr&gt;
-&lt;d</summary>
-      
-    
-    
-    
-    
-    <category term="工具" scheme="https://jisicn.top/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>东莞市集思光电科技有限公司</title>
-    <link href="https://jisicn.top/visions/"/>
-    <id>https://jisicn.top/visions/</id>
-    <published>2021-06-08T16:00:00.000Z</published>
-    <updated>2024-09-19T07:18:21.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Welcome-to-东莞市集思光电科技有限公司"><a href="#Welcome-to-东莞市集思光电科技有限公司" class="headerlink" title="Welcome to 东莞市集思光电科技有限公司  !"></a>Welcome to <a href="https://dgjisi.eu.org/">东莞市集思光电科技有限公司 </a> !</h2><audio id="audio" controls preload="none" autoplay="autoplay">      <source id="mp3" src></audio><p><img src="https://tc.jisicn.top/img/202405031228351.jpeg" alt="98e92999_9133505.jpeg"></p><h2 id="专业CCD视觉集成商"><a href="#专业CCD视觉集成商" class="headerlink" title="专业CCD视觉集成商"></a>专业CCD视觉集成商</h2><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><blockquote><p>手机连接器 自动检测</p><p>电脑周边连接器 自动检测</p><p>视觉自动定位</p><p>颜色自动识别</p><p>OCR识别</p></blockquote><div align="center"><img src="https://tc.jisicn.top/img/202404251626883.png" width="100%" height="50%"></div><h2 id="更新程序下载"><a href="#更新程序下载" class="headerlink" title="更新程序下载"></a>更新程序下载</h2><h3 id="18版CCD程序发布地址"><a href="#18版CCD程序发布地址" class="headerlink" title="18版CCD程序发布地址"></a>18版CCD程序发布地址</h3><p><a href="https://jisi.lanzout.com/b013toura">下载 密码：dgjisi</a></p><pre><code>注：更新程序前建议先做好备份，常规更新只需更新&quot;JISI.EXE&quot;，否则可能会出现授权错误，或报错，如果更新后出现报错，建议尝试将备份目录下的“data”文件夹复制过来替换。</code></pre><hr><h3 id="24版VISION-最新程序发布地址"><a href="#24版VISION-最新程序发布地址" class="headerlink" title="24版VISION 最新程序发布地址"></a>24版VISION 最新程序发布地址</h3><h5 id="最新安装包："><a href="#最新安装包：" class="headerlink" title="最新安装包："></a>最新安装包：</h5><pre><code>新装电脑下载整个文件包 | 更新程序，下载更新文件</code></pre><p><a href="https://jisi.lanzout.com/b0izjdtuf">下载 密码:jisi</a></p><h5 id="加密文件："><a href="#加密文件：" class="headerlink" title="加密文件："></a>加密文件：</h5><hr><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><h3 id="P1-8"><a href="#P1-8" class="headerlink" title="P1&#x2F;8"></a>P1&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/jisi1-1.png" alt="集思科技目录1-1.png"></p><h3 id="P2-8"><a href="#P2-8" class="headerlink" title="P2&#x2F;8"></a>P2&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304122217888.png" alt="集思科技目录4-1.png"></p><h3 id="P3-8"><a href="#P3-8" class="headerlink" title="P3&#x2F;8"></a>P3&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304122218741.png" alt="集思科技目录4-2.png"></p><h3 id="P4-8"><a href="#P4-8" class="headerlink" title="P4&#x2F;8"></a>P4&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/jisi1-2.png" alt="集思科技目录2-1.png"></p><h3 id="P5-8"><a href="#P5-8" class="headerlink" title="P5&#x2F;8"></a>P5&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304122220646.png" alt="集思科技目录2-2.png"></p><h3 id="P6-8"><a href="#P6-8" class="headerlink" title="P6&#x2F;8"></a>P6&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304122220692.png" alt="集思科技目录3-1.png"></p><h3 id="P7-8"><a href="#P7-8" class="headerlink" title="P7&#x2F;8"></a>P7&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304212341976.png" alt="集思科技目录3-2.png"></p><h3 id="P8-8"><a href="#P8-8" class="headerlink" title="P8&#x2F;8"></a>P8&#x2F;8</h3><p><img src="https://tc.jisicn.top/img/202304122221293.png" alt="集思科技目录1-2.png"></p><hr><div align="center"><img src="https://tc.jisicn.top/img/202404251627225.jpg" width="100%" height="50%"></div><hr><center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center><center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center><center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center><hr><h2 id="如何获取最新CCD程序"><a href="#如何获取最新CCD程序" class="headerlink" title="如何获取最新CCD程序"></a>如何获取最新CCD程序</h2><p>关注公众号，并发送<code>CCD</code>获取</p><div align="center">    <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></div><hr><div align="center"><font size="50">END THANKS</font></div><div align="center"><font size="3"><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Welcome-to-东莞市集思光电科技有限公司&quot;&gt;&lt;a href=&quot;#Welcome-to-东莞市集思光电科技有限公司&quot; class=&quot;headerlink&quot; title=&quot;Welcome to 东莞市集思光电科技有限公司  !&quot;&gt;&lt;/a&gt;Welcome to </summary>
-      
-    
-    
-    
-    
-    <category term="公司" scheme="https://jisicn.top/tags/%E5%85%AC%E5%8F%B8/"/>
     
   </entry>
   

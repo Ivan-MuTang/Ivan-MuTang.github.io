@@ -63,14 +63,6 @@
       "key": "1"
     }
   ],
-  "templater-obsidian:Templates/Front-matter.md": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
   "markdown:add-metadata-property": [],
   "templater-obsidian:Templates/NOW.md": [
     {
@@ -78,6 +70,14 @@
         "Mod"
       ],
       "key": ";"
+    }
+  ],
+  "templater-obsidian:Templates/Front-matter.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
     }
   ]
 }

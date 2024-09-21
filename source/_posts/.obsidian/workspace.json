@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图纸.md",
+                "file": "WIN7激活.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3582957720d0070f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "画线CCD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bf967fbe52a5668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "画线CCD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -39,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图纸.md",
+                "file": "画线CCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图纸.md"
+                "file": "画线CCD.md"
               }
             }
           }
@@ -135,11 +160,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c856119f3e26c62",
+  "active": "7bf967fbe52a5668",
   "lastOpenFiles": [
+    "算法_四点基准.md",
+    "画线CCD.md",
+    "WIN7激活.md",
+    "图纸.md",
     "read-excel.md",
     "Releases.md",
-    "WIN7激活.md",
     "Templates/Front-matter.md",
     "常用网址.md",
     "工具下载.md",
@@ -154,8 +182,6 @@
     "Nginx代理的几种模式.md",
     "Templates/abbrlink.md",
     "Templates/NOW.md",
-    "未命名.md",
-    "图纸.md",
     "海康DEMO参数保存.md",
     "窗口置顶器.md",
     "海康MVS演示程序.md",
