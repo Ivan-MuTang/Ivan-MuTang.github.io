@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df19943a572499b4",
+        "id": "948a183c6b04c1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "1c856119f3e26c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIN7激活.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3582957720d0070f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "画线CCD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bf967fbe52a5668",
+            "id": "0484c73425e37ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -160,12 +135,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7bf967fbe52a5668",
+  "active": "0484c73425e37ac6",
   "lastOpenFiles": [
-    "算法_四点基准.md",
-    "画线CCD.md",
     "WIN7激活.md",
     "图纸.md",
+    "算法_四点基准.md",
+    "画线CCD.md",
     "read-excel.md",
     "Releases.md",
     "Templates/Front-matter.md",

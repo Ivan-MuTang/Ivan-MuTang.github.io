@@ -13,8 +13,9 @@ copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明�
 top: 
 top_img: 
 hidden: false
-cover: https://tc.jisicn.top/img/立式手工.jpg
+cover: https://tc.jisicn.top/img/202409211332086.png
 ---
+
 ## 手动画线检测设备
 
 
