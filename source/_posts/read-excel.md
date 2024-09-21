@@ -37,10 +37,10 @@ top_img:
 #### 二、输入对应的数据
 ![image.png](https://tc.jisicn.top/img/202407091357297.png)
 
-#### 三、打开CCD程序，并打开左上角文件，选择==数据校正==
+#### 三、打开CCD程序，并打开左上角文件，选择`数据校正`
 ![image.png](https://tc.jisicn.top/img/202407091400171.png)
 
-#### 四、在弹出窗口同样点左上角文件，==读EXCEL==
+#### 四、在弹出窗口同样点左上角文件，`读EXCEL`
 ![image.png](https://tc.jisicn.top/img/202407091402681.png)
 
 ##### 选取刚才新建的数据EXCEL
@@ -64,7 +64,7 @@ top_img:
 #### 六、最后点导入「将EXEL数据导入CCD，完成对应」
 ![image.png](https://tc.jisicn.top/img/202407091425041.png)
 
-##### 导入后，通过切换数据并查看==DistanceX==已经看到数据已经导入成功
+##### 导入后，通过切换数据并查看`DistanceX`已经看到数据已经导入成功
 
 <div align="center"><img src="https://tc.jisicn.top/img/202407091431523.gif" width="30%" height="50%"></img></div>
 
@@ -82,7 +82,7 @@ top_img:
 ---
 
 ## 如何获取更多CCD资讯
-关注公众号，并发送 **“CCD”** 
+关注公众号，并发送 `CCD`
 
 <div align="center"><img src="https://tc.jisicn.top/img/202405012133208.jpg" width="30%" height="40%"></img></div>
 
