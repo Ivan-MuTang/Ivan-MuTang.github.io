@@ -54,7 +54,7 @@ cover: https://tc.jisicn.top/img/202409201954317.png
 ----
 
 ## 如何获取最新CCD程序
-关注公众号，并发送**“CCD”**获取
+关注公众号，并发送`CCD`获取
 
 <div align="center">
     <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></img>

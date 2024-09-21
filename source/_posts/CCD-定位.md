@@ -94,9 +94,7 @@ cover: https://tc.jisicn.top/img/202409201240286.png
 ---
 
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
-
 <center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
-
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
 ----

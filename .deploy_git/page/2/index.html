@@ -51,7 +51,7 @@
   isHome: true,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2024-09-21 10:46:29'
+  postUpdate: '2024-09-21 10:52:42'
 }</script><script>(win=>{
       win.saveToLocal = {
         set: (key, value, ttl) => {
@@ -182,16 +182,18 @@ END Thanks</div></div></div><div class="recent-post-item"><div class="post_cover
 首先在数据最前面插入一个新数据（使新插入的数据在最前面编号为0），具体操作在数据页空白处点鼠标右键选择数据再选择插入。
 算法选择“组强制OK”
 数据源下第1个源表示数据组号，如下图第1个为0，表示归组为0的数据，此时对参数配制下第1个配制值，如下图第1个为3，表示0组以3号数据为判断依据NG时强时输出OK（通常在数据中单独 加一个数据来判断是否为空产品，然后第1个配制便指向这个数据）。
-同上，数据源下第2个源表示数据组号，如下图第2个为1，表示归组为1的数据， ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zoq/" title="CCD-数据校正"><img class="post-bg" src="https://tc.jisicn.top/img/202404251629475.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-数据校正"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zoq/" title="CCD-数据校正">CCD-数据校正</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-17T15:26:10.000Z" title="发表于 2021-06-17 23:26:10">2021-06-17</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-19T09:32:06.052Z" title="更新于 2024-09-19 17:32:06">2024-09-19</time></span></div><div class="content">
-数据校正位置：右边侧边栏--任务--数据(如图)
+同上，数据源下第2个源表示数据组号，如下图第2个为1，表示归组为1的数据， ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zoq/" title="CCD-数据校正"><img class="post-bg" src="https://tc.jisicn.top/img/202404251629475.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-数据校正"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zoq/" title="CCD-数据校正">CCD-数据校正</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-17T15:26:10.000Z" title="发表于 2021-06-17 23:26:10">2021-06-17</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-21T02:50:51.181Z" title="更新于 2024-09-21 10:50:51">2024-09-21</time></span></div><div class="content">数据校正位置：右边侧边栏--任务--数据(如图)
 查找数据
 在数据页面通过上下切换编号查找要调整的数据。
 如果数据标签有备注，也可以通过自定义标签来查找数据。
 
 调整数据
 通过调整比例尺大小来放大或缩小数据。（常规用法）
+
 也可以将目标数据（实际值）手动输入到数据页面的“DistanceX”,然后在数据页点鼠标右键弹出菜单，选择 单个校验，手动校验，让软件通过目标数据自动计算并调整比例尺。（进阶用法）
+
 如果熟悉了单个数据自动校验，还可以对数据进行批量校验。方法与单个类似，先按组手动输入相同组号的每个目标数据，同样点右键弹出菜单，选择“批量校验”–“自动校验”。
+
 注：批量校验以组为单位。
 
 
@@ -205,9 +207,7 @@ END Thanks</div></div></div><div class="recent-post-item"><div class="post_cover
 
 
 
-
-如何获取最新CCD程序
-关注公众号，并发送“CCD”获取
+如何获取最新CCD程序关注公众号，并发送CCD获取
 
     
 
@@ -226,27 +226,20 @@ END</div></div></div><div class="recent-post-item"><div class="post_cover right"
 转载自一位大佬
 　　通常我们都知道Nginx性能很高，尤其是作为一个代理服务器，因为它用的是epoll模型，就比如Python Django Web的性能不行，我们可能就会在前端加一个nginx代理，从而提高总体的处理性能问题，代理服务技术是在互联网早期就出现被使用的。一般实现代理技术的方式就是在服务器上安装代理服务软件，让其成为一个代理服务器，从而实现代理技术。常用的代理技术分为正向代理、反向代理和透明代理。
 一、正向代理(Forward Proxy)　　一般情况下，如果没有特别说明，代理技术默认说的是正向代理技术。
-　　正向代理（forward）是一个位于客户端 【用户A】和原始服务器(origin server)【服务器B】之间的服务器【代理服务器Z】，为了从原始服务器取得内容，用户A向代理服务器Z发送一个请求并指定目标(服务器B)，然后代理服 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zpc/" title="CCD-CPK统计"><img class="post-bg" src="https://tc.jisicn.top/img/202404251606990.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-CPK统计"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zpc/" title="CCD-CPK统计">CCD-CPK统计</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-15T11:20:03.000Z" title="发表于 2021-06-15 19:20:03">2021-06-15</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-19T09:31:58.840Z" title="更新于 2024-09-19 17:31:58">2024-09-19</time></span></div><div class="content">
-CPK统计
-界面入口：CCD程序页面上方工具栏，品质–CPK。
+　　正向代理（forward）是一个位于客户端 【用户A】和原始服务器(origin server)【服务器B】之间的服务器【代理服务器Z】，为了从原始服务器取得内容，用户A向代理服务器Z发送一个请求并指定目标(服务器B)，然后代理服 ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zpc/" title="CCD-CPK统计"><img class="post-bg" src="https://tc.jisicn.top/img/202404251606990.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-CPK统计"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zpc/" title="CCD-CPK统计">CCD-CPK统计</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-15T11:20:03.000Z" title="发表于 2021-06-15 19:20:03">2021-06-15</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-21T02:49:49.461Z" title="更新于 2024-09-21 10:49:49">2024-09-21</time></span></div><div class="content">CPK统计界面入口：CCD程序页面上方工具栏，品质–CPK。
 参数设定：
-
 显示方式
 CPK双边公差
 CPK单边公差
 CP
 CA
 
-
 数据
 前10组参数有效
 设定格式 1-0 ，首数字表示CCD编号，如1表示CCD1；尾数字表示数据编号，如0表示CCD1中的第1个数据，对应CCD1任务–数据中的编号；中间为英文模式下横杠。
 
-注：前10组有效，可以获取任意CCD下的任意数据.
-导出EXCEL
+注：前10组有效，可以获取任意CCD下的任意数据.导出EXCEL
 根据数据编号导出EXCEL，如果数据切换到2，此时点导出EXCEL为导出第三个CPK的所有数据（1. 数据编号为0起始，故2为第三个CPK数据；2. 默认保存500个数据，且自动循环保存）
-
-
 
 
 
@@ -256,9 +249,7 @@ CA
 
 
 
-
-如何获取最新CCD程序
-关注公众号，并发送“CCD”获取
+如何获取最新CCD程序关注公众号，并发送CCD获取
 
     
 
@@ -275,7 +266,7 @@ led排序开关 = &quot;false&quot;     #启动编号排序显示，“true”�
 端口号1 = &quot;-1&quot;      #CCD1显示复位，收到信号即表示为新的产品，起始位置。
 端口号1 = &quot;-1&quot;      #CCD2显示复位，收到信号即表示为新的产品，起始位置。
 
-123456789[串口参数]serial type = &quot;RTU&quot;      #RTU模式unit ID = &quot;1&quot;            #停止位1baud rate = &quot;115200&quot;    ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zok/" title="CCD-升级程序"><img class="post-bg" src="https://tc.jisicn.top/img/202404251621190.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-升级程序"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zok/" title="CCD-升级程序">CCD-升级程序</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-14T13:23:24.000Z" title="发表于 2021-06-14 21:23:24">2021-06-14</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-19T09:32:09.828Z" title="更新于 2024-09-19 17:32:09">2024-09-19</time></span></div><div class="content">CCD程序升级步骤：12341. 下载最新CCD程序升级文件（通常为一个压缩文件）2. 解压文件3. 复制升级文件到CCD程序根目录4. 升级完成
+123456789[串口参数]serial type = &quot;RTU&quot;      #RTU模式unit ID = &quot;1&quot;            #停止位1baud rate = &quot;115200&quot;    ...</div></div></div><div class="recent-post-item"><div class="post_cover left"><a href="/sk1zok/" title="CCD-升级程序"><img class="post-bg" src="https://tc.jisicn.top/img/202404251621190.png" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/silhouette-seashore-pink-sky-man-standing-smoke-can-sunset-5120x2880-3150.webp'" alt="CCD-升级程序"></a></div><div class="recent-post-info"><a class="article-title" href="/sk1zok/" title="CCD-升级程序">CCD-升级程序</a><div class="article-meta-wrap"><span class="post-meta-date"><i class="far fa-calendar-alt"></i><span class="article-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-06-14T13:23:24.000Z" title="发表于 2021-06-14 21:23:24">2021-06-14</time><span class="article-meta-separator">|</span><i class="fas fa-history"></i><span class="article-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-09-21T02:51:57.567Z" title="更新于 2024-09-21 10:51:57">2024-09-21</time></span></div><div class="content">CCD程序升级步骤:12341. 下载最新CCD程序升级文件（通常为一个压缩文件）2. 解压文件3. 复制升级文件到CCD程序根目录4. 升级完成
 
 解压升级文件
 在下载的压缩包上，点右键，解压
@@ -475,4 +466,4 @@ End Thanks!
             </div>
             <ul class="card-category-list" id="aside-cat-list">
             <li class="card-category-list-item "><a class="card-category-list-link" href="/categories/"><span class="card-category-list-name">/</span><span class="card-category-list-count">4</span></a></li>
-            </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/%E6%95%B0%E6%8D%AE/" style="font-size: 1.1em; color: #999">数据</a> <a href="/tags/%E7%AE%97%E6%B3%95/" style="font-size: 1.1em; color: #999">算法</a> <a href="/tags/%E7%BD%91%E5%9D%80/" style="font-size: 1.1em; color: #999">网址</a> <a href="/tags/CCD/" style="font-size: 1.1em; color: #999">CCD</a> <a href="/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/" style="font-size: 1.4em; color: #99a5b6">说明书</a> <a href="/tags/%E5%8F%91%E5%B8%83/" style="font-size: 1.1em; color: #999">发布</a> <a href="/tags/%E5%85%AC%E5%8F%B8/" style="font-size: 1.2em; color: #999da3">公司</a> <a href="/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8Cled/" style="font-size: 1.1em; color: #999">说明书，led</a> <a href="/tags/%E9%80%9A%E8%AE%AF/" style="font-size: 1.1em; color: #999">通讯</a> <a href="/tags/%E5%B7%A5%E5%85%B7/" style="font-size: 1.3em; color: #99a1ac">工具</a> <a href="/tags/%E5%9B%BE%E7%BA%B8/" style="font-size: 1.1em; color: #999">图纸</a> <a href="/tags/ccd/" style="font-size: 1.5em; color: #99a9bf">ccd</a> <a href="/tags/%E5%AD%A6%E4%B9%A0/" style="font-size: 1.1em; color: #999">学习</a></div></div><div class="card-widget card-archives"><div class="item-headline"><i class="fas fa-archive"></i><span>归档</span></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2024/09/"><span class="card-archive-list-date">九月 2024</span><span class="card-archive-list-count">4</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/10/"><span class="card-archive-list-date">十月 2022</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/05/"><span class="card-archive-list-date">五月 2022</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/09/"><span class="card-archive-list-date">九月 2021</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/06/"><span class="card-archive-list-date">六月 2021</span><span class="card-archive-list-count">11</span></a></li></ul></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">21</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总访问量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2024-09-21T02:46:29.282Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer" style="background-image: url('http://api.dujin.org/bing/1920.php')"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By JISI</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text">Hi, welcome to <a href="https://jisicn.top">东莞市集思光电科技有限公司</a>!</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
+            </ul></div><div class="card-widget card-tags"><div class="item-headline"><i class="fas fa-tags"></i><span>标签</span></div><div class="card-tag-cloud"><a href="/tags/CCD/" style="font-size: 1.1em; color: #999">CCD</a> <a href="/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8Cled/" style="font-size: 1.1em; color: #999">说明书，led</a> <a href="/tags/%E7%BD%91%E5%9D%80/" style="font-size: 1.1em; color: #999">网址</a> <a href="/tags/%E7%AE%97%E6%B3%95/" style="font-size: 1.1em; color: #999">算法</a> <a href="/tags/%E9%80%9A%E8%AE%AF/" style="font-size: 1.1em; color: #999">通讯</a> <a href="/tags/%E8%AF%B4%E6%98%8E%E4%B9%A6/" style="font-size: 1.4em; color: #99a5b6">说明书</a> <a href="/tags/ccd/" style="font-size: 1.5em; color: #99a9bf">ccd</a> <a href="/tags/%E5%AD%A6%E4%B9%A0/" style="font-size: 1.1em; color: #999">学习</a> <a href="/tags/%E5%85%AC%E5%8F%B8/" style="font-size: 1.2em; color: #999da3">公司</a> <a href="/tags/%E5%9B%BE%E7%BA%B8/" style="font-size: 1.1em; color: #999">图纸</a> <a href="/tags/%E5%8F%91%E5%B8%83/" style="font-size: 1.1em; color: #999">发布</a> <a href="/tags/%E6%95%B0%E6%8D%AE/" style="font-size: 1.1em; color: #999">数据</a> <a href="/tags/%E5%B7%A5%E5%85%B7/" style="font-size: 1.3em; color: #99a1ac">工具</a></div></div><div class="card-widget card-archives"><div class="item-headline"><i class="fas fa-archive"></i><span>归档</span></div><ul class="card-archive-list"><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2024/09/"><span class="card-archive-list-date">九月 2024</span><span class="card-archive-list-count">4</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/10/"><span class="card-archive-list-date">十月 2022</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2022/05/"><span class="card-archive-list-date">五月 2022</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/09/"><span class="card-archive-list-date">九月 2021</span><span class="card-archive-list-count">2</span></a></li><li class="card-archive-list-item"><a class="card-archive-list-link" href="/archives/2021/06/"><span class="card-archive-list-date">六月 2021</span><span class="card-archive-list-count">11</span></a></li></ul></div><div class="card-widget card-webinfo"><div class="item-headline"><i class="fas fa-chart-line"></i><span>网站资讯</span></div><div class="webinfo"><div class="webinfo-item"><div class="item-name">文章数目 :</div><div class="item-count">21</div></div><div class="webinfo-item"><div class="item-name">本站访客数 :</div><div class="item-count" id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">本站总访问量 :</div><div class="item-count" id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin"></i></div></div><div class="webinfo-item"><div class="item-name">最后更新时间 :</div><div class="item-count" id="last-push-date" data-lastPushDate="2024-09-21T02:52:42.905Z"><i class="fa-solid fa-spinner fa-spin"></i></div></div></div></div></div></div></main><footer id="footer" style="background-image: url('http://api.dujin.org/bing/1920.php')"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2024 By JISI</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text">Hi, welcome to <a href="https://jisicn.top">东莞市集思光电科技有限公司</a>!</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>

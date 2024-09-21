@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCD-定位.md",
+                "file": "Templates/Front-matter.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCD-定位.md",
+                "file": "Templates/Front-matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCD-定位.md"
+                "file": "Templates/Front-matter.md"
               }
             }
           }
@@ -137,31 +137,31 @@
   },
   "active": "1c856119f3e26c62",
   "lastOpenFiles": [
+    "常用网址.md",
     "工具下载.md",
-    "read-excel.md",
-    "WIN7激活.md",
-    "Releases.md",
+    "圆-扫描多直径.md",
     "CCD-定位.md",
+    "CCD-升级程序.md",
+    "CCD-数据校正.md",
+    "CCD-CPK统计.md",
+    "hello-world.md",
+    "LED灯珠检测.md",
+    "Modbus通讯.md",
+    "Nginx代理的几种模式.md",
+    "read-excel.md",
+    "Releases.md",
+    "WIN7激活.md",
     "Templates/abbrlink.md",
     "Templates/Front-matter.md",
     "Templates/NOW.md",
     "未命名.md",
-    "hello-world.md",
-    "Nginx代理的几种模式.md",
-    "CCD-升级程序.md",
-    "CCD-数据校正.md",
-    "常用网址.md",
-    "CCD-CPK统计.md",
     "图纸.md",
     "海康DEMO参数保存.md",
     "窗口置顶器.md",
     "海康MVS演示程序.md",
     "手机USB共享网络.md",
     "数据-组强制OK.md",
-    "圆-扫描多直径.md",
     "CCD-登陆及移动ROI.md",
-    "LED灯珠检测.md",
-    "Modbus通讯.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"

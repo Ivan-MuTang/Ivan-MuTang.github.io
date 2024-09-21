@@ -13,8 +13,7 @@ cover: 'https://tc.jisicn.top/img/202404251621190.png'
 date: 2021-06-14 21:23:24
 top_img:
 ---
-
- ## CCD程序升级步骤：
+ ## CCD程序升级步骤:  
 
 ```
 1. 下载最新CCD程序升级文件（通常为一个压缩文件）
@@ -77,9 +76,9 @@ top_img:
 
 ---
 
-> #### 如何获取最新CCD程序
+## 如何获取最新CCD程序
 
-关注公众号，并发送**“CCD”**获取
+关注公众号，并发送`CCD`获取
 
 <div align="center">
     <img src="https://tc.jisicn.top/img/202404251607047.png" width="40%" height="40%"></img>
