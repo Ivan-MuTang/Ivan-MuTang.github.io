@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Front-matter.md",
+                "file": "图纸.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Front-matter.md",
+                "file": "图纸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Front-matter.md"
+                "file": "图纸.md"
               }
             }
           }
@@ -137,6 +137,10 @@
   },
   "active": "1c856119f3e26c62",
   "lastOpenFiles": [
+    "read-excel.md",
+    "Releases.md",
+    "WIN7激活.md",
+    "Templates/Front-matter.md",
     "常用网址.md",
     "工具下载.md",
     "圆-扫描多直径.md",
@@ -148,11 +152,7 @@
     "LED灯珠检测.md",
     "Modbus通讯.md",
     "Nginx代理的几种模式.md",
-    "read-excel.md",
-    "Releases.md",
-    "WIN7激活.md",
     "Templates/abbrlink.md",
-    "Templates/Front-matter.md",
     "Templates/NOW.md",
     "未命名.md",
     "图纸.md",
