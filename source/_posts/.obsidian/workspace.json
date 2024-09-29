@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "纬太.md",
+                "file": "方案目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "纬太.md"
+                "file": "方案目录.md"
               }
             }
           }
@@ -148,10 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59d42ce303494435",
+  "active": "edb5aab185ca52d0",
   "lastOpenFiles": [
-    "方案目录.md",
     "纬太.md",
+    "方案目录.md",
     "纬太 WT-1015.md",
     "图纸.md",
     "Templates/abbrlink.md",
