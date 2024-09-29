@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59d42ce303494435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "纬太.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "纬太 WT-1015.md",
+                "file": "纬太.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "纬太 WT-1015.md"
+                "file": "纬太.md"
               }
             }
           }
@@ -135,34 +148,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edb5aab185ca52d0",
+  "active": "59d42ce303494435",
   "lastOpenFiles": [
-    "画线CCD.md",
-    "纬太 WT-1015.md",
-    "WIN7激活.md",
+    "方案目录.md",
     "图纸.md",
-    "算法_四点基准.md",
+    "纬太.md",
+    "纬太 WT-1015.md",
+    "Templates/abbrlink.md",
+    "Templates/NOW.md",
+    "Templates/Front-matter.md",
     "read-excel.md",
     "Releases.md",
-    "Templates/Front-matter.md",
+    "CCD-数据校正.md",
+    "画线CCD.md",
+    "WIN7激活.md",
+    "算法_四点基准.md",
     "常用网址.md",
     "工具下载.md",
     "圆-扫描多直径.md",
     "CCD-定位.md",
     "CCD-升级程序.md",
-    "CCD-数据校正.md",
     "CCD-CPK统计.md",
     "hello-world.md",
     "LED灯珠检测.md",
     "Modbus通讯.md",
     "Nginx代理的几种模式.md",
-    "Templates/abbrlink.md",
-    "Templates/NOW.md",
     "海康DEMO参数保存.md",
     "窗口置顶器.md",
     "海康MVS演示程序.md",
-    "手机USB共享网络.md",
-    "数据-组强制OK.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
