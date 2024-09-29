@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0484c73425e37ac6",
+            "id": "edb5aab185ca52d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "画线CCD.md",
+                "file": "纬太 WT-1015.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "画线CCD.md",
+                "file": "纬太 WT-1015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "画线CCD.md"
+                "file": "纬太 WT-1015.md"
               }
             }
           }
@@ -135,12 +135,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0484c73425e37ac6",
+  "active": "edb5aab185ca52d0",
   "lastOpenFiles": [
+    "画线CCD.md",
+    "纬太 WT-1015.md",
     "WIN7激活.md",
     "图纸.md",
     "算法_四点基准.md",
-    "画线CCD.md",
     "read-excel.md",
     "Releases.md",
     "Templates/Front-matter.md",
@@ -162,7 +163,6 @@
     "海康MVS演示程序.md",
     "手机USB共享网络.md",
     "数据-组强制OK.md",
-    "CCD-登陆及移动ROI.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
