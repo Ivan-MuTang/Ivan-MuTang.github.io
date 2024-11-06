@@ -1,5 +1,6 @@
 [
   "obsidian-image-auto-upload-plugin",
   "url-into-selection",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
