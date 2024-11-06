@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "TK-1003.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "TK-1003"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TK-1003.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TK-1003"
+              "title": "方案目录"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -163,7 +164,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edb5aab185ca52d0",
+  "active": "1b7644f42b7a82a2",
   "lastOpenFiles": [
     "TK-1003.md",
     "方案目录.md",
