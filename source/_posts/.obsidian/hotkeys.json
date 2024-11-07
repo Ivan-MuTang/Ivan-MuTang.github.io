@@ -79,5 +79,11 @@
       ],
       "key": "1"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }
