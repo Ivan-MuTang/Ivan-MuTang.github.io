@@ -72,7 +72,13 @@
       "key": ";"
     }
   ],
-  "templater-obsidian:Templates/Front-matter.md": [
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "templater-obsidian:Templates/Front-zz.md": [
     {
       "modifiers": [
         "Shift"
@@ -80,10 +86,12 @@
       "key": "1"
     }
   ],
-  "obsidian-git:push": [
+  "templater-obsidian:Templates/Front-matter.md": [
     {
-      "modifiers": [],
-      "key": "F5"
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "2"
     }
   ]
 }

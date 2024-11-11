@@ -23,7 +23,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/NOW.md",
-    "Templates/Front-matter.md"
+    "Templates/Front-matter.md",
+    "Templates/Front-zz.md"
   ],
   "startup_templates": [
     ""
