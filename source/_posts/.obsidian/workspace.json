@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Front-matter.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front-matter"
+              "title": "方案目录"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Front-matter.md"
+                "file": "方案目录.md"
               },
               "icon": "lucide-list",
-              "title": "Front-matter 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -152,11 +152,17 @@
   },
   "active": "2641a45435308705",
   "lastOpenFiles": [
+    "Templates/abbrlink.md",
+    "Templates/NOW.md",
+    "Templates/Front-matter.md",
     "Templates/Front-zz.md",
     "方案目录.md",
+    "001.md",
+    "ZD-1006.md",
+    "Scripts/get_aa.js",
+    "Scripts/get_url - 副本.js",
     "ZD-1008.md",
     "纬太.md",
-    "ZD-1006.md",
     "TK-1002.md",
     "Options.md",
     "TK-1003.md",
@@ -167,9 +173,6 @@
     "CCD-CPK统计.md",
     "CCD-数据校正.md",
     "WIN7激活.md",
-    "Templates/Front-matter.md",
-    "Templates/abbrlink.md",
-    "Templates/NOW.md",
     "圆-扫描多直径.md",
     "CCD-登陆及移动ROI.md",
     "LED灯珠检测.md",
@@ -177,7 +180,6 @@
     "海康DEMO参数保存.md",
     "窗口置顶器.md",
     "hello-world.md",
-    "算法_四点基准.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
