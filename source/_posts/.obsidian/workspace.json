@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DY-1001.md",
+                "file": "DY-1002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DY-1001"
+              "title": "DY-1002"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DY-1001.md"
+                "file": "DY-1002.md"
               },
               "icon": "lucide-list",
-              "title": "DY-1001 的大纲"
+              "title": "DY-1002 的大纲"
             }
           }
         ],
@@ -152,9 +152,10 @@
   },
   "active": "2641a45435308705",
   "lastOpenFiles": [
-    "HRB-1001.md",
-    "DY-1001.md",
     "方案目录.md",
+    "DY-1002.md",
+    "DY-1001.md",
+    "HRB-1001.md",
     "ZD-1008.md",
     "ZD-1006.md",
     "纬太.md",
@@ -179,7 +180,6 @@
     "圆-扫描多直径.md",
     "CCD-登陆及移动ROI.md",
     "LED灯珠检测.md",
-    "Nginx代理的几种模式.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
