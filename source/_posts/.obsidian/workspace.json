@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZDLY-1001.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZDLY-1001"
+              "title": "方案目录"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZDLY-1001.md"
+                "file": "方案目录.md"
               },
               "icon": "lucide-list",
-              "title": "ZDLY-1001 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -152,8 +152,8 @@
   },
   "active": "1a0b982a2a2ad302",
   "lastOpenFiles": [
-    "方案目录.md",
     "ZDLY-1001.md",
+    "方案目录.md",
     "Templates/Front-matter.md",
     "Templates/abbrlink.md",
     "Templates/Front-zz.md",
