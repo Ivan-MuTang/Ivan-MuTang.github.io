@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba74c200c7f523d6",
+            "id": "88d38a5a99a76d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO分组.md",
+                "file": "IO更换点位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO分组"
+              "title": "IO更换点位"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO分组.md"
+                "file": "IO更换点位.md"
               },
               "icon": "lucide-list",
-              "title": "IO分组 的大纲"
+              "title": "IO更换点位 的大纲"
             }
           }
         ],
@@ -150,10 +150,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba74c200c7f523d6",
+  "active": "88d38a5a99a76d42",
   "lastOpenFiles": [
-    "ZD-1006.md",
     "IO分组.md",
+    "IO更换点位.md",
+    "ZD-1006.md",
     "DY-1001.md",
     "纬太.md",
     "远芯镜头.md",
@@ -179,7 +180,6 @@
     "Options.md",
     "TK-1003.md",
     "CCD-升级程序.md",
-    "CCD-CPK统计.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
