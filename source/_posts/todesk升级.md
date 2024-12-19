@@ -1,8 +1,8 @@
 ---
-title: 方案目录
-date: 2024-11-19 18:52:26
-updated: 2024-11-19 18:52:26
-abbrlink: Options
+title: todesk升级
+date: 2024-12-19 08:40:50
+updated: 2024-12-19 08:40:50
+abbrlink: todesk-update
 categories:
   - /
 tags: 
@@ -18,35 +18,21 @@ cover: ""
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 <div align="center"><img src="https://tc.jisicn.top/img/202405031228351.jpeg" width="100%" height="50%"></img></div>
 
-## 客户
-### 一、纬太
- - [[纬太]]  [OnLine](https://www.jisicn.top/skkbor)
+## 关于远程软件todesk升级
+由于官方升级，当相差较远的两个版本进行连接时会弹出下图提示
 
----
+![image.png](https://tc.jisicn.top/img/202412190842206.png)
 
-### 二、泰康
-- [[TK-1002]] [Onlive](https://www.jisicn.top/tk-1002)
-- [[TK-1003]] [Online](https://www.jisicn.top/tk-1003)
+升级方法：
+1. 如果软件页面上有提示升级，可以直接点
+2. 可以打开官方链接重新下载新版本，重新安副业
 
----
+	官方地址：https://www.todesk.com
 
-### 三、正德
-- [[ZD-1006]]  [onlive](https://www.jisicn.top/zd-1006)  
-- [[ZD-1008]]  [onlive](https://www.jisicn.top/zd-1008)
-- [[ZDLY-1001]]  [onlive](https://www.jisicn.top/zdly-1001)
+按照下图序顺，找到***个人版本免费下载***
+下载完成后重新安装
 
-### 四、鸿儒
-- [[HRB-1001]]  [onlive](https://www.jisicn.top/HRB-1001)  
-
-### 五、多亚
-- [[DY-1001]]  [onlive](https://www.jisicn.top/DY-1001)  
-- [[DY-1002]]  [onlive](https://www.jisicn.top/DY-1002)  
-
----
-
-### 软件
-[[todesk升级]]
-
+![image.png](https://tc.jisicn.top/img/202412190848595.png)
 
 ---
 
