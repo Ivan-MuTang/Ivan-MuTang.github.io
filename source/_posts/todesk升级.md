@@ -12,8 +12,8 @@ copyright_url: https://jisicn.top
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
 top: 
 top_img: 
-hidden: true
-cover: ""
+hidden: false
+cover: https://tc.jisicn.top/img/202412190935641.png
 ---
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 <div align="center"><img src="https://tc.jisicn.top/img/202405031228351.jpeg" width="100%" height="50%"></img></div>
@@ -21,7 +21,7 @@ cover: ""
 ## 关于远程软件todesk升级
 由于官方升级，当相差较远的两个版本进行连接时会弹出下图提示
 
-![image.png](https://tc.jisicn.top/img/202412190842206.png)
+![image.png](https://tc.jisicn.top/img/202412190933955.png)
 
 升级方法：
 1. 如果软件页面上有提示升级，可以直接点
