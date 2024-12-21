@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todesk升级.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todesk升级"
+              "title": "方案目录"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todesk升级.md"
+                "file": "方案目录.md"
               },
               "icon": "lucide-list",
-              "title": "todesk升级 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -152,11 +152,11 @@
   },
   "active": "88d38a5a99a76d42",
   "lastOpenFiles": [
+    "IO更换点位.md",
     "方案目录.md",
     "todesk升级.md",
     "DY-1002.md",
     "DY-1001.md",
-    "IO更换点位.md",
     "IO分组.md",
     "ZD-1006.md",
     "纬太.md",
