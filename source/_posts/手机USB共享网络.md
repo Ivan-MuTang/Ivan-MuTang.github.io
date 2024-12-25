@@ -25,7 +25,7 @@ top_img:
 
 ##### 打开手机开发者模式并勾选USB调试
 <center>
-<video width=100% height=100% controls>
+<video width=50% height=50% controls>
   <source src="https://files.yuchi.eu.org:16443/tools/blog/%E5%BD%95%E5%88%B6/%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F.mp4">
 </video></center>
 
@@ -33,7 +33,7 @@ top_img:
 ##### 打开USB网络共享
 
 <center>
-<video width="315" height="315" controls>
+<video width=50% height=50% controls>
   <source src="https://files.yuchi.eu.org:16443/tools/blog/%E5%BD%95%E5%88%B6/%E6%89%8B%E6%9C%BAusb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.mp4">
 </video></center>
 
@@ -44,7 +44,7 @@ top_img:
 相信很多人都会发现手机设置里有个**USB共享网络**的功能，可是平常这个功能都是暗的。究竟要如何使用呢，这篇文章就让我来教你们。
 
 <div align="center">
-    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%201_2.jpg" width="100%" height="100%"></img>
+    <img src="https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E6%89%8B%E6%9C%BAUSB%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C/usb%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C%201_2.jpg" width="50%" height="50%"></img>
 </div>
 
 
