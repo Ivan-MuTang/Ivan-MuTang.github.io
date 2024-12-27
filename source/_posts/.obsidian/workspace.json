@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "手机USB共享网络.md",
+                "file": "HRB-1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "手机USB共享网络"
+              "title": "HRB-1001"
+            }
+          },
+          {
+            "id": "104f959daddfba8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HRB-1002.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HRB-1002"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手机USB共享网络.md"
+                "file": "HRB-1002.md"
               },
               "icon": "lucide-list",
-              "title": "手机USB共享网络 的大纲"
+              "title": "HRB-1002 的大纲"
             }
           }
         ],
@@ -150,13 +165,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88d38a5a99a76d42",
+  "active": "104f959daddfba8f",
   "lastOpenFiles": [
+    "HRB-1001.md",
+    "HRB-1002.md",
+    "方案目录.md",
     "IO更换点位.md",
+    "todesk升级.md",
+    "手机USB共享网络.md",
     "IO分组.md",
     "远芯镜头.md",
-    "方案目录.md",
-    "todesk升级.md",
     "DY-1002.md",
     "DY-1001.md",
     "ZD-1006.md",
@@ -169,7 +187,6 @@
     "Templates/abbrlink.md",
     "Templates/Front-zz.md",
     "算法-旋转.md",
-    "HRB-1001.md",
     "ZD-1008.md",
     "纬太 WT-1016.md",
     "纬太 WT-1015.md",
@@ -178,8 +195,6 @@
     "Scripts/get_aa.js",
     "Scripts/get_url - 副本.js",
     "TK-1002.md",
-    "Options.md",
-    "TK-1003.md",
     "Scripts/get_url.js",
     "Scripts",
     "Templates"
