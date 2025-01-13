@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "纬太微动开光_2025/01/WT-1017.md",
+                "file": "WT-1018.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WT-1017"
+              "title": "WT-1018"
             }
           }
         ],
@@ -146,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "纬太微动开光_2025/01/WT-1017.md"
+                "file": "WT-1018.md"
               },
               "icon": "lucide-list",
-              "title": "WT-1017 的大纲"
+              "title": "WT-1018 的大纲"
             }
           }
         ],
@@ -173,9 +173,10 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "纬太.md",
+    "WT-1018.md",
+    "纬太微动开光_2025/01/WT-1017.md",
     "HRB-1002.md",
     "方案目录.md",
-    "纬太微动开光_2025/01/WT-1017.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "纬太 WT-1015.md",
@@ -199,7 +200,6 @@
     "Templates/abbrlink.md",
     "Templates/Front-zz.md",
     "算法-旋转.md",
-    "ZD-1008.md",
     "Scripts/get_aa.js",
     "Scripts/get_url - 副本.js",
     "Scripts/get_url.js",
