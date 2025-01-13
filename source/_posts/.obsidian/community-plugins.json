@@ -2,5 +2,6 @@
   "obsidian-image-auto-upload-plugin",
   "url-into-selection",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "better-export-pdf"
 ]
