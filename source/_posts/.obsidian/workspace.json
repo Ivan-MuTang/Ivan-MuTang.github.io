@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRB-1003.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRB-1003"
+              "title": "方案目录"
             }
           }
         ],
@@ -61,7 +61,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -146,10 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRB-1003.md"
+                "file": "方案目录.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HRB-1003 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -172,34 +176,34 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
-    "方案目录.md",
+    "TK-1004.md",
     "HRB-1002.md",
+    "图纸.md",
     "HRB-1003.md",
-    "手机USB共享网络.md",
-    "工具下载.md",
+    "方案目录.md",
+    "TK-1003.md",
     "WT-1018.md",
     "纬太.md",
+    "工具下载.md",
     "捷翼3D项目.md",
-    "DY-1002.md",
-    "TK-1002.md",
-    "TK-1003.md",
-    "ZD-1006.md",
-    "纬太微动开光_2025/01/WT-1017.md",
-    "纬太微动开光_2025/01",
-    "纬太微动开光_2025",
-    "纬太 WT-1015.md",
-    "纬太 WT-1016.md",
-    "HRB-1001.md",
+    "手机USB共享网络.md",
     "IO更换点位.md",
-    "todesk升级.md",
     "IO分组.md",
-    "远芯镜头.md",
-    "DY-1001.md",
-    "常用网址.md",
-    "画线CCD.md",
     "Restart.md",
     "ZDLY-1001.md",
-    "Templates/Front-matter.md",
+    "DY-1002.md",
+    "DY-1001.md",
+    "HRB-1001.md",
+    "纬太 WT-1016.md",
+    "ZD-1008.md",
+    "ZD-1006.md",
+    "远芯镜头.md",
+    "TK-1002.md",
+    "纬太 WT-1015.md",
+    "画线CCD.md",
+    "算法_四点基准.md",
+    "纬太微动开光_2025/01",
+    "纬太微动开光_2025",
     "Scripts/get_aa.js",
     "Scripts/get_url - 副本.js",
     "Scripts/get_url.js",
