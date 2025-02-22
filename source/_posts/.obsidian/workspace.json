@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "TK-1004.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "TK-1004"
             }
           }
         ],
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方案目录.md",
+                "file": "TK-1004.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方案目录 的大纲"
+              "title": "TK-1004 的大纲"
             }
           }
         ],
@@ -176,11 +176,11 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
+    "方案目录.md",
     "TK-1004.md",
     "HRB-1002.md",
     "图纸.md",
     "HRB-1003.md",
-    "方案目录.md",
     "TK-1003.md",
     "WT-1018.md",
     "纬太.md",
