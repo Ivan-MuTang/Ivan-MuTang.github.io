@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TK-1004.md",
+                "file": "LXY-1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TK-1004"
+              "title": "LXY-1001"
             }
           }
         ],
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TK-1004.md",
+                "file": "LXY-1001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TK-1004 的大纲"
+              "title": "LXY-1001 的大纲"
             }
           }
         ],
@@ -177,6 +177,7 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "方案目录.md",
+    "LXY-1001.md",
     "TK-1004.md",
     "HRB-1002.md",
     "图纸.md",
@@ -201,7 +202,6 @@
     "TK-1002.md",
     "纬太 WT-1015.md",
     "画线CCD.md",
-    "算法_四点基准.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
