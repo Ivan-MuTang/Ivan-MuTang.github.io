@@ -20,7 +20,7 @@ cover: https://tc.jisicn.top/img/202409211332086.png
 
 
 <div align="center">
-    <img src="https://tc.jisicn.top/img/立式手工.jpg" width="50%" height="50%"></img>
+    <img src="https://tc.jisicn.top/img/立式手工.jpg" width="70%" height="50%"></img>
 </div>
 
 
@@ -38,10 +38,19 @@ cover: https://tc.jisicn.top/img/202409211332086.png
 ---
 
 ### 卧式支架尺寸
-<div align="center"><img src="https://tc.jisicn.top/img/202403271432768.jpg" width="70%" height="50%"></img></div>
+![e8565cc9e179d567b837939be291013.jpg](https://tc.jisicn.top/img/202503061420700.jpg)
+
+![0a8814f36f4b093a75217ea750eae68.jpg](https://tc.jisicn.top/img/202503061421001.jpg)
+
+![1fc78d698276a52fcf4eaafd00974e8.jpg](https://tc.jisicn.top/img/202503061420186.jpg)
+
+<div align="center"><img src="https://tc.jisicn.top/img/202403271432768.jpg" width="100%" height="50%"></img></div>
 
 ### 立式支架尺寸
-<div align="center"><img src="https://tc.jisicn.top/img/202403271432502.jpg" width="70%" height="50%"></img></div>
+![7402b78de11b3c6a997317d6a69aefc.jpg](https://tc.jisicn.top/img/202503061431003.jpg)
+
+
+<div align="center"><img src="https://tc.jisicn.top/img/202403271432502.jpg" width="100%" height="50%"></img></div>
 
 
 ---
