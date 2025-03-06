@@ -18,7 +18,6 @@ cover: https://tc.jisicn.top/img/202409211332086.png
 
 ## 手动画线检测设备
 
-
 <div align="center">
     <img src="https://tc.jisicn.top/img/立式手工.jpg" width="70%" height="50%"></img>
 </div>
