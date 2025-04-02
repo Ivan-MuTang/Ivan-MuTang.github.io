@@ -13,36 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRB-1004.md",
+                "file": "MXMT-1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRB-1004"
+              "title": "MXMT-1001"
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "fc26da41bc6eee37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a56a362cac04d8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "捷翼3D项目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "捷翼3D项目"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRB-1004.md",
+                "file": "MXMT-1001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HRB-1004 的大纲"
+              "title": "MXMT-1001 的大纲"
             }
           }
         ],
@@ -176,12 +156,22 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
-    "方案目录.md",
     "HRB-1004.md",
+    "MXMT-1001.md",
+    "方案目录.md",
+    "LXY-1001.md",
+    "算法-旋转.md",
+    "ZDLY-1001.md",
+    "Restart.md",
+    "IO分组.md",
+    "手机USB共享网络.md",
+    "算法_四点基准.md",
+    "Modbus通讯.md",
+    "WIN7激活.md",
+    "CCD-定位.md",
     "HRB-1003.md",
     "画线CCD.md",
     "捷翼3D项目.md",
-    "LXY-1001.md",
     "TK-1004.md",
     "HRB-1002.md",
     "图纸.md",
@@ -189,19 +179,9 @@
     "WT-1018.md",
     "纬太.md",
     "工具下载.md",
-    "手机USB共享网络.md",
     "IO更换点位.md",
-    "IO分组.md",
-    "Restart.md",
-    "ZDLY-1001.md",
     "DY-1002.md",
     "DY-1001.md",
-    "HRB-1001.md",
-    "纬太 WT-1016.md",
-    "ZD-1008.md",
-    "ZD-1006.md",
-    "远芯镜头.md",
-    "TK-1002.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
