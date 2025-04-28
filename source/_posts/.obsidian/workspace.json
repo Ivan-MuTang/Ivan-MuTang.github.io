@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "方案目录.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -156,13 +156,14 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
-    "MXMT-1001.md",
+    "HRB-1005.md",
+    "HRB-1004.md",
     "方案目录.md",
+    "MXMT-1001.md",
     "ZTKJ-1001.md",
     "TK-1004.md",
     "LXY-1001.md",
     "画线CCD.md",
-    "HRB-1004.md",
     "算法-旋转.md",
     "ZDLY-1001.md",
     "Restart.md",
@@ -181,7 +182,6 @@
     "纬太.md",
     "工具下载.md",
     "IO更换点位.md",
-    "DY-1002.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
