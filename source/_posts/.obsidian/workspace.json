@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "HRB-1006.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "HRB-1006"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方案目录.md",
+                "file": "HRB-1006.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方案目录 的大纲"
+              "title": "HRB-1006 的大纲"
             }
           }
         ],
@@ -156,8 +156,8 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
-    "HRB-1006.md",
     "方案目录.md",
+    "HRB-1006.md",
     "HRB-1005.md",
     "HRB-1001.md",
     "HRB-1002.md",
