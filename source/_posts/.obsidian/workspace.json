@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRB-1007.md",
+                "file": "YZ-1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRB-1007"
+              "title": "YZ-1001"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRB-1007.md",
+                "file": "YZ-1001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HRB-1007 的大纲"
+              "title": "YZ-1001 的大纲"
             }
           }
         ],
@@ -157,6 +157,8 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "方案目录.md",
+    "YZ-1001.md",
+    "ZTKJ-1001.md",
     "HRB-1007.md",
     "HRB-1005.md",
     "todesk升级.md",
@@ -167,7 +169,6 @@
     "HRB-1002.md",
     "HRB-1003.md",
     "MXMT-1001.md",
-    "ZTKJ-1001.md",
     "TK-1004.md",
     "LXY-1001.md",
     "画线CCD.md",
@@ -181,7 +182,6 @@
     "WIN7激活.md",
     "CCD-定位.md",
     "捷翼3D项目.md",
-    "图纸.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
