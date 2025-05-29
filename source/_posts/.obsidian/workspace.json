@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TK-1005.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TK-1005"
+              "title": "方案目录"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TK-1005.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TK-1005 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -156,9 +156,9 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
+    "TK-1005.md",
     "方案目录.md",
     "YZ-1001.md",
-    "TK-1005.md",
     "TK-1004.md",
     "ZTKJ-1001.md",
     "HRB-1007.md",
