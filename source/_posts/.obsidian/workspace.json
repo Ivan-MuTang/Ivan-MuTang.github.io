@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YZ-1003.md",
+                "file": "YZ-1005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YZ-1003"
+              "title": "YZ-1005"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YZ-1003.md",
+                "file": "YZ-1005.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "YZ-1003 的大纲"
+              "title": "YZ-1005 的大纲"
             }
           }
         ],
@@ -157,6 +157,8 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
+    "YZ-1004.md",
+    "YZ-1005.md",
     "方案目录.md",
     "YZ-1003.md",
     "YZ-1002.md",
@@ -181,8 +183,6 @@
     "MXMT-1001.md",
     "LXY-1001.md",
     "画线CCD.md",
-    "算法-旋转.md",
-    "ZDLY-1001.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
