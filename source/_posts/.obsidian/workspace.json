@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方案目录.md",
+                "file": "HNZD-1001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方案目录 的大纲"
+              "title": "HNZD-1001 的大纲"
             }
           }
         ],
@@ -170,13 +169,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "57bf9254a08d7fc2",
+  "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
+    "方案目录.md",
     "YZ-1002.md",
     "YZ-1003.md",
     "YZ-1004.md",
     "HNZD-1001.md",
-    "方案目录.md",
     "YZ-1005.md",
     "TK-1005.md",
     "HRB-1009.md",
