@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HNZD-1001.md",
+                "file": "HNZD-1001-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HNZD-1001"
+              "title": "HNZD-1001-01"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HNZD-1001.md",
+                "file": "HNZD-1001-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HNZD-1001 的大纲"
+              "title": "HNZD-1001-01 的大纲"
             }
           }
         ],
@@ -172,10 +172,11 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "方案目录.md",
+    "HNZD-1001-01.md",
+    "HNZD-1001.md",
     "YZ-1002.md",
     "YZ-1003.md",
     "YZ-1004.md",
-    "HNZD-1001.md",
     "YZ-1005.md",
     "TK-1005.md",
     "HRB-1009.md",
@@ -196,7 +197,6 @@
     "todesk升级.md",
     "hello-world.md",
     "MXMT-1001.md",
-    "LXY-1001.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
