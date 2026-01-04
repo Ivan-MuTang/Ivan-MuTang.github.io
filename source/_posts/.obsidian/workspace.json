@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常用网址.md",
+                "file": "LXY-1002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用网址"
+              "title": "LXY-1002"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常用网址.md",
+                "file": "LXY-1002.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用网址 的大纲"
+              "title": "LXY-1002 的大纲"
             }
           }
         ],
@@ -172,6 +172,8 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "方案目录.md",
+    "LXY-1002.md",
+    "HRB-1009.md",
     "常用网址.md",
     "Nginx代理的几种模式.md",
     "海康DEMO参数保存.md",
@@ -195,8 +197,6 @@
     "HRB-1001.md",
     "DY-1001.md",
     "WT-1018.md",
-    "LXY-1001.md",
-    "HRB-1004.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
