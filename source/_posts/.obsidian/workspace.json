@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "HNZD-1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "HNZD-1001"
             }
           }
         ],
@@ -171,6 +171,11 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
+    "HNZD-1001.md",
+    "YZ-1003.md",
+    "WT-1019.md",
+    "YZ-1002.md",
+    "YZ-1004.md",
     "方案目录.md",
     "LXY-1002.md",
     "HRB-1009.md",
@@ -187,16 +192,11 @@
     "HRB-1002.md",
     "捷翼3D项目.md",
     "工具下载.md",
-    "YZ-1004.md",
     "HNZD-1001-01.md",
     "算法_四点基准.md",
     "hello-world.md",
     "ZD-1006.md",
     "TK-1003.md",
-    "ZD-1008.md",
-    "HRB-1001.md",
-    "DY-1001.md",
-    "WT-1018.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
