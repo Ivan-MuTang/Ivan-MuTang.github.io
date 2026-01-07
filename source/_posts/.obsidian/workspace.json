@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TK-1006.md",
+                "file": "LXY-1003.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TK-1006"
+              "title": "LXY-1003"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TK-1006.md",
+                "file": "LXY-1003.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TK-1006 的大纲"
+              "title": "LXY-1003 的大纲"
             }
           }
         ],
@@ -171,10 +171,11 @@
   },
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
-    "HNZD-1001.md",
-    "TK-1006.md",
     "方案目录.md",
+    "LXY-1003.md",
     "LXY-1002.md",
+    "TK-1006.md",
+    "HNZD-1001.md",
     "HNZD-1001-01.md",
     "TK-1005.md",
     "YZ-1003.md",
@@ -196,7 +197,6 @@
     "捷翼3D项目.md",
     "工具下载.md",
     "算法_四点基准.md",
-    "hello-world.md",
     "纬太微动开光_2025/01",
     "纬太微动开光_2025",
     "Scripts/get_aa.js",
