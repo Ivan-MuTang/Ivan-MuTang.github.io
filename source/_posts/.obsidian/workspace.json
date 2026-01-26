@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRB-MX34.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRB-MX34"
+              "title": "方案目录"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRB-MX34.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HRB-MX34 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -172,10 +172,10 @@
   "active": "acf1ad22e9c943af",
   "lastOpenFiles": [
     "HRB-20096.md",
+    "方案目录.md",
     "HRB-MX34.md",
     "LXY-1003.md",
     "TK-1006.md",
-    "方案目录.md",
     "HRB-1009.md",
     "LXY-1002.md",
     "HNZD-1001.md",
