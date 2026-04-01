@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCD-启动任务与合并信号.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCD-启动任务与合并信号"
+              "title": "方案目录"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCD-启动任务与合并信号.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CCD-启动任务与合并信号 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -157,10 +157,12 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
+    "read-excel.md",
+    "Releases.md",
     "方案目录.md",
+    "CCD-升级程序.md",
     "CCD-启动任务与合并信号.md",
     "Modbus通讯.md",
-    "CCD-升级程序.md",
     "CCD-数据校正.md",
     "TK-1002.md",
     "Templates/Front-matter.md",
@@ -181,8 +183,6 @@
     "YZ-1002.md",
     "YZ-1003.md",
     "YZ-1004.md",
-    "YZ-1005.md",
-    "HRB-1009.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
