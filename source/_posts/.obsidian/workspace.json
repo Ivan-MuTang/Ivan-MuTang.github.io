@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "WT-1020.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "WT-1020"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方案目录.md",
+                "file": "WT-1020.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方案目录 的大纲"
+              "title": "WT-1020 的大纲"
             }
           }
         ],
@@ -157,8 +157,9 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "空产品不计数.md",
+    "纬太.md",
     "方案目录.md",
+    "空产品不计数.md",
     "Labview安装插件.md",
     "海康MVS演示程序.md",
     "Modbus通讯.md",
@@ -179,7 +180,6 @@
     "CCD-定位.md",
     "CCD-启动任务与合并信号.md",
     "WT-1020.md",
-    "纬太.md",
     "WT-1019.md",
     "ZD-1010.md",
     "TK-1002.md",
