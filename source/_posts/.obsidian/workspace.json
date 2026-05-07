@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WT-1022.md",
+                "file": "YZ-1007.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WT-1022"
+              "title": "YZ-1007"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WT-1022.md",
+                "file": "YZ-1007.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "WT-1022 的大纲"
+              "title": "YZ-1007 的大纲"
             }
           }
         ],
@@ -157,10 +157,14 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "WT-1021.md",
-    "纬太.md",
-    "WT-1022.md",
+    "YZ-1005.md",
     "方案目录.md",
+    "YZ-1007.md",
+    "YZ-1006.md",
+    "WT-1023.md",
+    "WT-1022.md",
+    "纬太.md",
+    "WT-1021.md",
     "TK-1007.md",
     "TK-1006.md",
     "空产品不计数.md",
@@ -179,10 +183,6 @@
     "算法-旋转.md",
     "CCD-登陆及移动ROI.md",
     "CCD-CPK统计.md",
-    "CCD-升级程序.md",
-    "CCD-数据校正.md",
-    "CCD-定位.md",
-    "CCD-启动任务与合并信号.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
