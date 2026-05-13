@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YZ-1008.md",
+                "file": "YZ-1009.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YZ-1008"
+              "title": "YZ-1009"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YZ-1008.md",
+                "file": "YZ-1009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "YZ-1008 的大纲"
+              "title": "YZ-1009 的大纲"
             }
           }
         ],
@@ -157,9 +157,10 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "HRB-2217.md",
     "方案目录.md",
+    "YZ-1009.md",
     "YZ-1008.md",
+    "HRB-2217.md",
     "HRB-20096.md",
     "YZ-1007.md",
     "YZ-1005.md",
@@ -182,7 +183,6 @@
     "IO分组.md",
     "数据-组强制OK.md",
     "圆-扫描多直径.md",
-    "算法_四点基准.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
