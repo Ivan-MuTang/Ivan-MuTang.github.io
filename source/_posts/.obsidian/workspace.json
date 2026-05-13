@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRB-2217.md",
+                "file": "YZ-1008.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRB-2217"
+              "title": "YZ-1008"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HRB-2217.md",
+                "file": "YZ-1008.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HRB-2217 的大纲"
+              "title": "YZ-1008 的大纲"
             }
           }
         ],
@@ -157,8 +157,8 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "方案目录.md",
     "HRB-2217.md",
+    "方案目录.md",
     "YZ-1008.md",
     "HRB-20096.md",
     "YZ-1007.md",
