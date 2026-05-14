@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO更换点位.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO更换点位"
+              "title": "方案目录"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO更换点位.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IO更换点位 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -157,10 +157,11 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
+    "窗口置顶器.md",
     "方案目录.md",
+    "IO更换点位.md",
     "黑白与彩色相机.md",
     "算法_四点基准.md",
-    "窗口置顶器.md",
     "海康DEMO参数保存.md",
     "海康MVS演示程序.md",
     "远芯镜头.md",
@@ -169,7 +170,6 @@
     "CCD-CPK统计.md",
     "CCD-定位.md",
     "CCD-启动任务与合并信号.md",
-    "IO更换点位.md",
     "YZ-1009.md",
     "YZ-1008.md",
     "HRB-2217.md",
