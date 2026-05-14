@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方案目录.md",
+                "file": "黑白与彩色相机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "方案目录"
+              "title": "黑白与彩色相机"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方案目录.md",
+                "file": "黑白与彩色相机.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方案目录 的大纲"
+              "title": "黑白与彩色相机 的大纲"
             }
           }
         ],
@@ -157,8 +157,9 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "远芯镜头.md",
     "方案目录.md",
+    "黑白与彩色相机.md",
+    "远芯镜头.md",
     "空产品不计数.md",
     "Labview安装插件.md",
     "CCD-CPK统计.md",
@@ -182,7 +183,6 @@
     "Modbus通讯.md",
     "Restart.md",
     "Releases.md",
-    "read-excel.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
