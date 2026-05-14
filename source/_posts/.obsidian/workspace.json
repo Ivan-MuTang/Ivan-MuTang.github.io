@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "黑白与彩色相机.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黑白与彩色相机"
+              "title": "方案目录"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黑白与彩色相机.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "黑白与彩色相机 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -157,8 +157,12 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "方案目录.md",
     "黑白与彩色相机.md",
+    "方案目录.md",
+    "算法_四点基准.md",
+    "窗口置顶器.md",
+    "海康DEMO参数保存.md",
+    "海康MVS演示程序.md",
     "远芯镜头.md",
     "空产品不计数.md",
     "Labview安装插件.md",
@@ -179,10 +183,6 @@
     "WT-1021.md",
     "TK-1007.md",
     "TK-1006.md",
-    "海康MVS演示程序.md",
-    "Modbus通讯.md",
-    "Restart.md",
-    "Releases.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
