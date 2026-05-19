@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-NGList.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-NGList"
+              "title": "方案目录"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-NGList.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI-NGList 的大纲"
+              "title": "方案目录 的大纲"
             }
           }
         ],
@@ -157,8 +157,8 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "方案目录.md",
     "AI-NGList.md",
+    "方案目录.md",
     "ZD-1011.md",
     "ZD-1011.md",
     "HNZD-1001-01.md",
