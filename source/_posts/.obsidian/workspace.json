@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "共面度.md",
+                "file": "算法-旋转.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "共面度"
+              "title": "算法-旋转"
             }
           }
         ],
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "共面度.md",
+                "file": "算法-旋转.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "共面度 的大纲"
+              "title": "算法-旋转 的大纲"
             }
           }
         ],
@@ -157,16 +157,17 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
+    "ROI.md",
     "数据.md",
+    "引用其它任务.md",
+    "共面度.md",
     "方案目录.md",
     "AI-NGList.md",
     "IO及通讯.md",
     "JISI-V18使用说明.md",
     "IO分组.md",
     "read-excel.md",
-    "ROI.md",
     "圆-扫描多直径.md",
-    "共面度.md",
     "HNZD-A23.md",
     "ZD-1010.md",
     "ZD-1011.md",
@@ -182,7 +183,6 @@
     "窗口置顶器.md",
     "IO更换点位.md",
     "黑白与彩色相机.md",
-    "算法_四点基准.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
