@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "相机IO.md",
+                "file": "方案目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相机IO"
+              "title": "方案目录"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "相机IO.md",
+                "file": "方案目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -158,10 +158,10 @@
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "卷帘与全局相机.md",
-    "12313.md",
     "相机IO.md",
     "方案目录.md",
+    "卷帘与全局相机.md",
+    "12313.md",
     "ZD-1010.md",
     "HRB-1003.md",
     "HNZD-1001-01.md",
