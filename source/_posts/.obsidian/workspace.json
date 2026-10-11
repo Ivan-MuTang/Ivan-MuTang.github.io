@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据-引用其它任务.md",
+                "file": "相机IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据-引用其它任务"
+              "title": "相机IO"
             }
           }
         ],
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -127,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据-引用其它任务.md",
+                "file": "相机IO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据-引用其它任务 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -151,38 +153,37 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "80761435e47d26a9",
   "lastOpenFiles": [
-    "算法-旋转.md",
-    "ROI.md",
-    "数据.md",
-    "数据-引用其它任务.md",
-    "共面度.md",
     "方案目录.md",
-    "AI-NGList.md",
+    "ZD-1010.md",
+    "HRB-1003.md",
+    "HNZD-1001-01.md",
+    "YZ-1009.md",
+    "相机IO.md",
+    "WT-1023.md",
+    "纬太.md",
     "IO及通讯.md",
     "JISI-V18使用说明.md",
-    "IO分组.md",
-    "read-excel.md",
-    "圆-扫描多直径.md",
     "HNZD-A23.md",
-    "ZD-1010.md",
+    "AI-NGList.md",
     "ZD-1011.md",
-    "HNZD-1001-01.md",
-    "HRB-MX34.md",
-    "HRB-20096.md",
-    "Labview安装插件.md",
-    "CCD-启动任务与合并信号.md",
-    "YZ-1008.md",
-    "YZ-1009.md",
     "卷帘与全局相机.md",
     "12313.md",
-    "窗口置顶器.md",
     "IO更换点位.md",
+    "黑白与彩色相机.md",
+    "算法_四点基准.md",
+    "空产品不计数.md",
+    "Restart.md",
+    "Releases.md",
+    "Labview安装插件.md",
+    "WT-1018.md",
+    "工具下载.md",
+    "捷翼3D项目.md",
+    "HRB-1002.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base",
