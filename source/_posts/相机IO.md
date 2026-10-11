@@ -18,6 +18,12 @@ cover: https://tc.jisicn.top/img/20261011222851569.png
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 <div align="center"><img src="https://tc.jisicn.top/img/202405031228351.jpeg" width="100%" height="50%"></img></div>
 
+---
+
+**注：大华与海康相机的IO略有不同**
+
+---
+
 ## 大华相机
 ![image.png](https://tc.jisicn.top/img/20261011220914612.png)
 
