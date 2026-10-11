@@ -7,7 +7,8 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "test:markdown": "node tests/markdown-compatibility.cjs"
+    "test:markdown": "node tests/markdown-compatibility.cjs",
+    "test:styles": "node tests/stylus-compatibility.cjs"
   },
   "hexo": {
     "version": "7.3.0"
@@ -37,5 +38,13 @@
   },
   "allowScripts": {
     "hexo-util@3.3.0": true
+  },
+  "overrides": {
+    "hexo-renderer-stylus": {
+      "stylus": {
+        ".": "0.64.0",
+        "glob": "13.0.6"
+      }
+    }
   }
 }
