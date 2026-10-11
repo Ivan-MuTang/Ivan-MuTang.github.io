@@ -12,7 +12,7 @@ copyright_url: https://jisicn.top
 copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明來自原作者
 top:
 top_img:
-hidden: true
+hidden: false
 cover: https://tc.jisicn.top/img/20261011222851569.png
 ---
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
