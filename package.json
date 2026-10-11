@@ -8,13 +8,14 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "test:markdown": "node tests/markdown-compatibility.cjs",
-    "test:styles": "node tests/stylus-compatibility.cjs"
+    "test:styles": "node tests/stylus-compatibility.cjs",
+    "test:core": "node tests/core-compatibility.cjs"
   },
   "hexo": {
-    "version": "7.3.0"
+    "version": "8.1.2"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
+    "hexo": "^8.1.2",
     "hexo-abbrlink": "^2.2.1",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
@@ -37,7 +38,8 @@
     "marked-cjk-friendly": "0.1.2"
   },
   "allowScripts": {
-    "hexo-util@3.3.0": true
+    "hexo-util@3.3.0": true,
+    "hexo-util@4.0.0": true
   },
   "overrides": {
     "hexo-renderer-stylus": {
@@ -45,6 +47,19 @@
         ".": "0.64.0",
         "glob": "13.0.6"
       }
+    },
+    "hexo-abbrlink": {
+      "hexo-fs": "5.0.1",
+      "hexo-front-matter": "4.2.1"
+    },
+    "hexo-cli": {
+      "hexo-fs": "5.0.1"
+    },
+    "hexo-deployer-git": {
+      "hexo-fs": "5.0.1"
+    },
+    "nunjucks": {
+      "chokidar": "4.0.3"
     }
   }
 }
