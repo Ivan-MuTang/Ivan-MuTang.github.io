@@ -30,6 +30,9 @@ cover: https://tc.jisicn.top/img/20261011222851569.png
 ## 海康相机
 ![image.png](https://tc.jisicn.top/img/20261011221451438.png)
 
+## 大恒相机
+![image.png](https://tc.jisicn.top/img/20261024174533533.png)
+
 ---
 
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
