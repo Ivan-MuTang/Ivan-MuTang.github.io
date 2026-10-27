@@ -33,6 +33,11 @@ cover: https://tc.jisicn.top/img/20261011222851569.png
 ## 大恒相机
 ![image.png](https://tc.jisicn.top/img/20261024174533533.png)
 
+## 迈德威视
+![image.png](https://tc.jisicn.top/img/20261027210400352.png)
+
+![image.png](https://tc.jisicn.top/img/20261027210426588.png)
+
 ---
 
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
