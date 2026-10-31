@@ -45,7 +45,7 @@ favicon: https://tc.jisicn.top/img/jisi_05.png
 
 # Avatar (頭像)
 avatar:
-  img: https://files.yuchi.eu.org:16443/tools/blog/%E5%9B%BE%E7%89%87/%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8F.png
+  img: https://tc.jisicn.top/img/%E5%A4%B4%E5%83%8F.jpg
   effect: false
 
 # Disable all banner image
