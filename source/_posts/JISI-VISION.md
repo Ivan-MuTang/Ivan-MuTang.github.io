@@ -13,7 +13,7 @@ copyright_info: 此文章版權歸东莞集思所有，如有轉載，請註明�
 top:
 top_img:
 hidden: false
-cover: https://tc.jisicn.top/img/jisi-logo.png
+cover: https://tc.jisicn.top/img/20261105233103269.png
 ---
 ![JISI VISION 标识](https://tc.jisicn.top/img/jisi-logo.png)
 
