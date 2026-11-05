@@ -15,8 +15,7 @@ top_img:
 hidden: false
 cover: https://tc.jisicn.top/img/20261105233103269.png
 ---
-![JISI VISION 标识](https://tc.jisicn.top/img/jisi-logo.png)
-
+![JISI VISION 标识](https://tc.jisicn.top/img/20261105233306107.png)
 # JISI VISION 工业视觉工作台
 
 ## 面向工业现场的多工位检测与尺寸测量平台
